@@ -1,0 +1,3071 @@
+id,personaadi,senaryo1,senaryo10,senaryo11,senaryo12,senaryo13,senaryo14,senaryo15,senaryo16,senaryo2,senaryo3,senaryo4,senaryo5,senaryo6,senaryo7,senaryo8,senaryo9
+31.69,Bilgisayar Mühendisi,A,B,A,C,A,C,D,A,C,C,B,C,B,B,C,C
+31.69,Bilgisayar Mühendisi,E,B,B,C,A,B,A,B,D,C,D,D,C,B,A,D
+31.69,Doktor,E,E,B,C,A,C,B,A,C,D,B,A,A,C,C,B
+31.69,Doktor,E,C,C,C,E,C,B,D,D,C,B,C,C,C,A,B
+31.69,Doktor,B,E,B,D,E,C,C,A,C,B,C,C,B,B,A,C
+31.69,Bilgisayar Mühendisi,A,B,A,D,D,C,B,D,C,D,D,C,C,B,D,B
+31.69,Doktor,A,E,A,C,C,C,C,E,C,D,D,C,C,C,A,B
+31.69,Doktor,A,A,A,C,A,C,B,C,B,A,B,E,C,C,A,C
+31.69,Bilgisayar Mühendisi,A,E,A,D,A,C,B,C,D,D,D,C,A,C,A,B
+31.69,Bilgisayar Mühendisi,A,B,B,C,C,C,B,E,D,D,B,C,C,B,A,B
+31.69,Bilgisayar Mühendisi,E,B,B,D,A,D,B,E,C,D,D,C,C,B,A,B
+31.69,Bilgisayar Mühendisi,A,E,A,E,D,C,C,C,D,B,D,C,C,B,A,C
+31.69,Bilgisayar Mühendisi,A,E,C,C,D,D,B,D,D,D,A,C,B,A,E,D
+31.69,Bilgisayar Mühendisi,E,E,A,D,D,C,B,A,E,A,B,E,C,A,A,B
+31.69,Bilgisayar Mühendisi,A,C,D,E,D,D,B,A,D,B,B,C,B,B,A,C
+31.69,Bilgisayar Mühendisi,A,E,B,D,A,E,B,D,D,A,D,C,C,B,A,B
+31.69,Bilgisayar Mühendisi,B,B,D,C,E,C,E,D,D,D,B,C,B,A,A,C
+31.69,Bilgisayar Mühendisi,A,E,D,D,A,C,B,D,D,D,D,C,C,C,A,C
+31.69,Bilgisayar Mühendisi,A,B,D,B,C,C,C,D,E,C,E,E,B,C,A,B
+31.69,Doktor,E,B,C,C,E,C,E,D,D,D,B,C,B,A,A,D
+31.69,Bilgisayar Mühendisi,B,E,B,D,E,D,B,C,D,A,D,A,B,C,A,C
+31.69,Bilgisayar Mühendisi,D,B,A,C,D,D,B,A,D,A,A,E,A,B,A,B
+31.69,Bilgisayar Mühendisi,A,E,A,D,D,E,B,D,D,D,D,C,A,A,B,C
+31.69,Doktor,A,B,B,C,A,C,B,A,D,B,D,C,A,B,A,B
+31.69,Bilgisayar Mühendisi,A,E,C,B,A,C,B,A,D,C,D,D,C,E,A,C
+31.69,Bilgisayar Mühendisi,E,E,A,D,D,C,B,D,D,B,D,C,C,B,A,B
+31.69,Bilgisayar Mühendisi,A,C,D,C,E,C,D,B,C,B,D,E,B,C,A,B
+31.69,Bilgisayar Mühendisi,E,B,B,C,A,D,B,D,D,B,D,C,C,A,A,C
+31.69,Bilgisayar Mühendisi,A,B,C,C,E,C,C,B,D,A,B,A,C,A,A,B
+31.69,Bilgisayar Mühendisi,A,B,B,C,A,C,C,B,D,C,B,C,A,A,A,B
+31.69,Bilgisayar Mühendisi,A,E,D,A,A,C,B,D,C,A,D,A,A,B,A,C
+32.0,Bilgisayar Mühendisi,A,E,A,D,C,D,D,E,D,B,B,C,C,A,A,C
+33.0,Bilgisayar Mühendisi,A,E,B,C,D,E,B,A,C,D,D,A,B,C,E,C
+34.0,Bilgisayar Mühendisi,B,A,B,B,A,B,B,A,D,D,C,D,B,C,A,B
+35.0,Bilgisayar Mühendisi,E,E,A,E,A,C,B,D,D,C,B,A,A,A,A,C
+36.0,Bilgisayar Mühendisi,A,A,B,C,A,A,B,A,D,B,D,E,B,C,E,C
+37.0,Bilgisayar Mühendisi,A,E,A,C,A,C,B,D,D,A,B,C,C,B,A,C
+38.0,Bilgisayar Mühendisi,E,B,A,D,C,C,B,D,B,C,D,A,B,A,C,C
+39.0,Bilgisayar Mühendisi,A,B,A,C,C,E,B,C,D,D,D,E,A,A,A,D
+40.0,Bilgisayar Mühendisi,E,E,A,E,D,C,C,C,D,C,D,C,A,A,E,C
+41.0,Bilgisayar Mühendisi,E,E,B,C,D,C,B,D,C,B,D,A,A,B,E,C
+42.0,Bilgisayar Mühendisi,E,B,A,D,A,C,C,D,D,A,D,A,B,B,A,B
+43.0,Bilgisayar Mühendisi,E,E,A,D,A,D,C,A,E,A,D,C,C,D,C,B
+44.0,Bilgisayar Mühendisi,B,B,B,D,C,E,B,A,B,C,D,D,C,A,D,C
+45.0,Doktor,A,E,C,D,A,C,B,E,C,C,E,D,B,A,E,D
+46.0,Doktor,E,B,C,E,A,B,B,B,D,B,D,C,B,A,C,D
+47.0,Doktor,A,B,E,A,E,C,B,D,D,C,D,A,C,D,A,B
+48.0,Bilgisayar Mühendisi,B,B,A,D,E,B,E,D,B,E,B,E,A,D,C,A
+49.0,Bilgisayar Mühendisi,A,E,C,E,A,D,D,C,D,D,E,A,A,A,E,D
+50.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,D,D,B,B,C,A,A,A,B
+51.0,Doktor,A,E,B,E,A,D,B,E,D,D,B,E,C,B,B,B
+52.0,Doktor,A,C,A,D,E,A,A,C,C,E,D,B,B,C,B,A
+53.0,Doktor,D,E,D,B,C,C,B,C,D,C,B,C,A,D,C,C
+54.0,Bilgisayar Mühendisi,A,E,B,E,D,E,B,D,D,D,D,C,B,C,C,C
+55.0,Bilgisayar Mühendisi,E,B,A,B,A,E,E,A,A,B,D,C,B,D,E,C
+56.0,Bilgisayar Mühendisi,E,E,A,B,E,C,B,A,A,A,D,C,C,A,A,B
+57.0,Bilgisayar Mühendisi,E,B,A,D,D,C,B,D,C,C,D,C,A,A,B,C
+58.0,Bilgisayar Mühendisi,A,E,A,D,A,D,B,D,D,B,E,C,A,A,A,C
+59.0,Bilgisayar Mühendisi,A,E,B,C,A,D,B,D,D,A,D,C,C,A,A,C
+60.0,Bilgisayar Mühendisi,A,B,A,C,A,D,B,A,D,C,B,C,A,B,A,B
+61.0,Bilgisayar Mühendisi,E,E,A,C,A,C,C,D,C,C,A,C,C,A,E,B
+62.0,Bilgisayar Mühendisi,E,B,B,E,C,C,B,A,D,D,D,C,A,A,E,C
+63.0,Bilgisayar Mühendisi,C,E,A,D,A,D,B,C,D,B,D,C,A,B,B,C
+64.0,Doktor,E,B,C,C,A,D,B,D,D,D,D,C,B,A,A,B
+65.0,Bilgisayar Mühendisi,A,E,A,D,E,D,B,C,D,B,B,C,A,A,D,B
+66.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,B,D,C
+67.0,Doktor,A,C,A,C,A,D,B,D,D,A,B,C,A,A,A,C
+68.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+69.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+70.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,A,A,C
+71.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+72.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,C,B,D,C
+73.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+74.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,D,C
+75.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,C,B,D,C
+76.0,Doktor,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+77.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+78.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+79.0,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,B,A,C
+80.0,Doktor,A,C,C,A,C,B,A,D,D,A,D,C,A,A,A,C
+81.0,Doktor,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+82.0,Doktor,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+83.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+84.0,Doktor,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+85.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+86.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+87.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+88.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+89.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+90.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+91.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+92.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+93.0,Doktor,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+94.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+95.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+96.0,Doktor,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+97.0,Doktor,A,B,A,E,C,D,B,A,D,B,B,C,A,E,E,B
+98.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+99.0,Doktor,A,C,C,A,A,C,B,E,D,E,A,D,A,A,D,B
+100.0,Doktor,E,C,D,B,D,D,B,A,B,B,B,C,A,C,A,D
+101.0,Bilgisayar Mühendisi,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+102.0,Doktor,A,C,B,C,A,D,B,D,D,C,D,C,A,A,D,B
+103.0,Doktor,A,C,E,C,A,D,B,B,E,D,D,C,A,A,A,B
+104.0,Bilgisayar Mühendisi,E,D,C,B,C,C,C,C,D,A,D,C,C,B,C,C
+105.0,Doktor,A,C,D,D,D,D,C,D,D,B,E,C,C,C,A,C
+106.0,Bilgisayar Mühendisi,E,E,D,B,D,D,E,D,B,B,B,C,C,A,A,D
+107.0,Doktor,B,C,C,A,A,C,B,B,D,E,C,D,A,B,D,B
+108.0,Bilgisayar Mühendisi,A,E,D,C,D,D,E,C,D,B,D,C,B,B,C,C
+109.0,Doktor,A,C,B,C,A,D,B,D,D,C,D,C,A,A,D,B
+110.0,Doktor,A,C,C,C,A,C,B,C,D,B,A,D,C,B,D,B
+111.0,Doktor,A,C,E,C,A,D,B,B,D,D,D,C,A,A,A,B
+112.0,Bilgisayar Mühendisi,A,E,C,D,D,E,E,C,D,B,D,B,C,B,C,C
+113.0,Doktor,A,B,D,A,D,A,B,C,D,A,A,C,C,C,C,C
+114.0,Doktor,A,E,B,C,A,D,B,B,D,A,D,C,A,A,A,B
+115.0,Doktor,A,B,C,C,A,C,B,D,D,B,C,D,A,B,D,B
+116.0,Bilgisayar Mühendisi,A,C,C,E,C,C,E,C,D,A,D,C,C,B,B,B
+117.0,Doktor,E,C,D,C,D,D,B,D,D,C,B,C,C,C,A,C
+118.0,Doktor,A,C,B,C,A,D,B,B,D,E,B,C,A,A,D,B
+119.0,Bilgisayar Mühendisi,E,E,C,E,C,C,E,C,D,B,D,C,C,B,C,B
+120.0,Doktor,A,B,C,A,C,A,B,C,D,B,A,D,C,C,C,C
+121.0,Doktor,A,E,B,C,A,D,B,D,D,A,D,C,A,C,A,B
+122.0,Bilgisayar Mühendisi,E,D,D,D,A,E,E,D,B,C,D,B,B,A,C,A
+123.0,Doktor,A,E,B,C,A,D,B,D,D,D,B,C,A,C,D,B
+124.0,Doktor,B,C,C,A,A,C,B,E,D,E,C,C,B,B,D,B
+125.0,Bilgisayar Mühendisi,A,D,D,C,E,D,E,D,B,B,D,B,C,A,C,D
+126.0,Doktor,A,E,E,C,A,D,B,B,D,D,D,C,A,C,A,B
+127.0,Doktor,A,C,C,C,C,C,B,C,D,B,A,C,C,B,D,B
+128.0,Bilgisayar Mühendisi,E,D,D,D,A,E,E,D,B,E,D,E,B,A,C,A
+129.0,Doktor,A,C,E,C,D,D,B,D,D,C,D,C,C,C,A,C
+130.0,Doktor,A,C,D,C,D,D,B,D,D,A,E,C,C,C,A,C
+131.0,Bilgisayar Mühendisi,E,E,D,B,D,E,C,C,B,B,D,C,C,B,C,C
+132.0,Doktor,A,E,E,C,A,D,B,B,D,D,E,C,A,A,A,B
+133.0,Doktor,A,C,B,C,A,D,B,D,D,A,B,C,A,A,A,B
+134.0,Bilgisayar Mühendisi,E,E,C,C,D,C,E,C,D,B,D,C,C,B,C,B
+135.0,Doktor,B,B,C,C,A,D,B,D,D,E,E,D,A,B,D,B
+136.0,Doktor,A,E,B,C,A,D,B,D,D,D,D,C,A,C,A,C
+137.0,Doktor,A,C,D,E,A,D,E,A,C,C,D,B,C,A,B,B
+138.0,Doktor,B,C,E,C,A,D,B,B,E,E,D,C,A,B,A,B
+139.0,Doktor,B,C,E,C,A,C,B,B,E,E,B,C,A,B,A,B
+140.0,Bilgisayar Mühendisi,A,E,C,C,D,D,E,C,D,B,D,C,C,B,C,C
+141.0,Doktor,A,E,E,E,D,D,E,A,D,A,A,B,C,C,B,C
+142.0,Doktor,E,C,B,C,D,D,B,D,D,B,B,C,A,C,A,D
+143.0,Bilgisayar Mühendisi,E,D,D,E,E,E,E,D,B,C,D,E,C,A,B,D
+144.0,Doktor,A,C,D,C,D,D,B,D,D,C,D,C,C,C,A,C
+145.0,Doktor,A,C,B,C,A,D,B,A,D,D,D,C,A,A,A,B
+146.0,Bilgisayar Mühendisi,E,E,C,D,D,D,E,C,D,B,E,B,C,B,C,C
+147.0,Doktor,E,C,E,E,D,D,B,B,D,D,D,C,A,C,E,D
+148.0,Doktor,D,C,C,C,A,C,B,C,D,B,A,C,A,B,D,B
+149.0,Bilgisayar Mühendisi,A,C,D,D,D,C,C,C,D,B,E,C,C,B,C,B
+150.0,Doktor,A,C,B,C,D,D,B,D,D,B,D,C,C,C,A,C
+151.0,Bilgisayar Mühendisi,A,C,C,E,C,C,E,C,D,A,D,C,C,B,B,B
+152.0,Doktor,A,B,B,C,D,D,B,D,D,B,E,C,C,C,B,C
+153.0,Doktor,A,C,B,C,A,D,B,D,D,A,B,C,A,A,D,B
+154.0,Bilgisayar Mühendisi,A,E,C,E,C,E,E,C,D,A,D,B,C,B,C,C
+155.0,Doktor,A,B,C,A,D,A,B,C,D,A,A,C,C,C,C,C
+156.0,Doktor,A,C,E,C,A,D,B,B,E,D,D,C,A,A,A,B
+157.0,Bilgisayar Mühendisi,E,E,C,E,D,E,E,A,D,B,D,B,C,B,C,B
+158.0,Doktor,C,C,E,C,C,D,B,A,E,B,B,C,C,C,A,C
+159.0,Bilgisayar Mühendisi,A,B,B,C,A,C,B,D,D,B,D,C,A,B,D,B
+160.0,Bilgisayar Mühendisi,A,D,D,C,E,D,E,D,B,B,D,B,C,A,C,D
+161.0,Doktor,A,E,B,C,A,D,B,D,D,D,D,C,A,C,A,B
+162.0,Bilgisayar Mühendisi,A,E,D,E,D,D,E,C,D,B,D,C,C,B,B,C
+163.0,Doktor,A,E,E,C,A,D,B,A,E,A,D,E,C,A,A,B
+164.0,Doktor,B,C,B,C,A,C,B,B,D,E,B,C,A,C,D,B
+165.0,Bilgisayar Mühendisi,A,D,D,C,A,D,E,D,B,B,D,C,B,A,C,B
+166.0,Doktor,A,B,B,C,A,D,B,A,D,A,A,C,A,A,A,B
+167.0,Doktor,A,E,E,C,A,D,B,B,D,A,D,C,A,C,A,B
+168.0,Bilgisayar Mühendisi,E,C,A,E,A,E,E,D,D,E,D,B,A,A,D,A
+169.0,Doktor,A,B,B,C,A,D,B,D,D,C,B,D,A,A,D,B
+170.0,Doktor,A,B,B,C,A,D,B,D,D,C,B,C,A,A,D,B
+171.0,Bilgisayar Mühendisi,A,C,C,E,A,D,E,A,C,A,D,B,C,A,B,B
+172.0,Doktor,A,B,E,C,C,C,B,A,E,A,D,C,A,B,A,B
+173.0,Doktor,B,C,B,C,A,C,B,D,D,E,C,C,A,B,D,B
+174.0,Bilgisayar Mühendisi,E,B,C,D,D,E,C,C,D,B,E,C,C,B,C,C
+175.0,Doktor,A,B,B,C,D,D,B,D,D,C,E,C,C,C,A,C
+176.0,Doktor,A,B,E,C,D,D,B,B,D,A,B,C,C,C,A,C
+177.0,Bilgisayar Mühendisi,A,C,C,E,C,C,E,C,D,A,D,C,C,B,B,B
+178.0,Doktor,A,C,E,C,A,D,B,B,D,D,D,C,A,C,A,B
+179.0,Bilgisayar Mühendisi,A,E,D,D,D,D,E,C,D,B,E,C,C,C,C,C
+180.0,Bilgisayar Mühendisi,E,C,D,D,D,E,E,D,B,C,E,C,B,B,C,B
+181.0,Doktor,A,D,D,E,A,E,E,A,A,C,D,A,B,A,B,A
+182.0,Doktor,A,E,E,C,A,D,B,B,D,A,D,C,A,C,A,B
+183.0,Bilgisayar Mühendisi,E,E,C,B,D,C,C,C,B,B,D,C,C,B,C,C
+184.0,Doktor,E,E,D,D,D,D,E,C,D,B,E,C,C,C,C,C
+185.0,Doktor,A,C,B,C,A,C,B,A,D,E,B,C,A,B,D,B
+186.0,Bilgisayar Mühendisi,A,D,D,E,E,E,E,A,B,C,D,E,C,A,B,B
+187.0,Doktor,E,B,D,C,D,D,B,C,D,B,B,C,C,B,C,C
+188.0,Bilgisayar Mühendisi,E,E,D,D,D,E,B,E,B,C,D,B,B,D,C,A
+189.0,Doktor,B,C,E,C,A,D,B,B,D,E,D,C,E,E,E,B
+190.0,Doktor,A,B,B,C,A,D,B,D,D,B,B,C,A,A,A,B
+191.0,Doktor,A,C,C,C,A,D,B,D,D,B,D,C,C,A,B,C
+192.0,Bilgisayar Mühendisi,E,E,C,D,D,E,E,C,D,B,E,B,C,C,C,C
+193.0,Doktor,B,B,B,C,D,C,B,C,D,B,A,A,C,B,D,D
+194.0,Doktor,B,B,B,B,A,D,B,C,E,E,A,B,B,B,D,D
+195.0,Doktor,A,C,B,C,A,D,B,D,D,C,E,C,A,A,A,D
+196.0,Doktor,B,B,B,C,D,C,B,C,D,B,B,A,C,B,D,C
+197.0,Doktor,D,B,C,C,A,C,B,A,B,B,A,D,B,B,D,D
+198.0,Doktor,A,C,D,B,A,D,B,D,D,A,D,C,A,A,E,C
+199.0,Doktor,E,C,D,C,A,D,B,D,D,C,D,A,A,A,A,C
+200.0,Doktor,E,C,D,B,C,D,B,D,D,C,E,C,A,C,E,C
+201.0,Doktor,B,B,B,C,A,C,B,C,D,B,B,A,C,B,A,D
+202.0,Doktor,A,E,D,C,A,C,B,D,D,C,D,C,A,A,A,C
+203.0,Doktor,B,E,B,B,A,C,B,C,E,B,E,B,A,B,D,D
+204.0,Doktor,A,C,D,C,A,D,B,D,D,C,E,C,A,A,A,D
+205.0,Doktor,A,C,D,C,A,D,B,B,C,D,E,C,A,A,E,B
+206.0,Doktor,E,E,B,D,A,D,B,A,B,B,D,D,B,B,A,D
+207.0,Doktor,C,B,C,B,C,A,C,C,D,A,A,B,B,B,C,C
+208.0,Doktor,D,A,D,B,C,D,B,B,C,A,E,A,A,C,E,B
+209.0,Doktor,A,B,C,D,C,D,C,D,D,B,A,C,C,B,C,C
+210.0,Doktor,E,C,D,C,A,D,B,D,D,C,D,C,C,A,E,C
+211.0,Doktor,A,B,B,E,A,C,B,C,D,C,D,A,C,A,D,C
+212.0,Doktor,A,E,D,D,E,D,B,E,D,D,D,B,E,A,E,C
+213.0,Doktor,E,C,D,B,A,D,B,B,C,D,E,C,A,A,E,D
+214.0,Doktor,A,C,D,B,A,D,B,B,C,D,E,C,A,C,E,B
+215.0,Doktor,B,B,B,C,A,C,B,A,B,B,A,D,B,B,D,D
+216.0,Doktor,A,C,B,C,A,C,B,D,D,B,E,C,A,A,D,C
+217.0,Doktor,A,E,D,C,A,D,B,B,D,D,E,A,A,C,A,B
+218.0,Doktor,B,B,B,C,A,C,B,C,B,B,B,D,C,B,D,D
+219.0,Doktor,B,B,B,D,A,C,B,D,D,B,A,D,B,B,D,C
+220.0,Doktor,E,B,C,D,C,D,C,D,D,A,A,C,C,B,C,C
+221.0,Doktor,A,B,D,E,E,C,B,C,D,C,A,A,C,A,C,C
+222.0,Doktor,A,C,D,D,A,D,B,D,C,D,E,A,A,C,A,B
+223.0,Doktor,B,B,B,C,D,C,B,C,D,B,A,B,C,B,D,C
+224.0,Doktor,B,B,B,C,A,C,B,A,D,B,A,D,B,B,D,D
+225.0,Doktor,A,B,D,C,E,D,B,C,D,D,D,A,E,A,E,B
+226.0,Doktor,A,E,D,C,A,D,B,B,D,D,E,A,A,A,E,B
+227.0,Doktor,E,C,D,B,C,D,B,D,D,A,E,C,A,C,E,C
+228.0,Doktor,B,B,B,C,A,C,B,A,B,E,B,B,B,B,D,B
+229.0,Doktor,A,B,C,D,D,D,C,D,D,B,A,C,C,B,C,C
+230.0,Doktor,E,B,D,D,A,D,B,A,D,C,D,A,E,A,E,B
+231.0,Doktor,B,C,D,C,A,D,B,B,D,D,E,D,A,A,A,D
+232.0,Doktor,A,E,D,D,C,C,B,D,D,B,D,A,C,A,A,C
+233.0,Doktor,B,B,B,C,A,C,B,C,B,E,B,B,B,B,D,D
+234.0,Doktor,A,E,C,E,D,D,B,D,D,B,E,C,C,B,A,C
+235.0,Bilgisayar Mühendisi,E,E,B,D,A,D,B,A,B,E,E,C,B,B,A,D
+236.0,Bilgisayar Mühendisi,B,B,C,D,D,A,C,D,D,B,A,B,B,B,D,C
+237.0,Bilgisayar Mühendisi,A,E,B,C,A,D,B,A,B,B,D,D,C,B,A,D
+238.0,Bilgisayar Mühendisi,A,B,C,E,E,C,C,C,D,C,B,B,C,A,D,C
+239.0,Bilgisayar Mühendisi,A,B,D,E,E,C,C,C,D,C,A,A,C,A,D,C
+240.0,Bilgisayar Mühendisi,B,B,C,C,D,C,C,D,D,A,A,B,C,B,C,C
+241.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,A,A,B,C,A,C,C
+242.0,Bilgisayar Mühendisi,A,E,D,C,E,D,B,D,D,D,D,C,E,A,E,C
+243.0,Bilgisayar Mühendisi,B,B,C,C,C,A,C,D,D,B,A,B,B,B,D,C
+244.0,Bilgisayar Mühendisi,E,D,B,D,A,A,C,D,E,E,C,D,B,B,C,D
+245.0,Bilgisayar Mühendisi,B,B,C,B,D,A,C,D,D,A,A,B,C,A,C,C
+246.0,Bilgisayar Mühendisi,A,C,C,D,E,D,B,D,D,C,E,C,A,A,E,C
+247.0,Bilgisayar Mühendisi,E,B,C,D,C,D,C,D,D,B,A,C,C,B,C,C
+248.0,Bilgisayar Mühendisi,A,A,D,B,E,D,B,E,C,C,E,A,E,C,E,B
+249.0,Bilgisayar Mühendisi,E,B,C,B,C,A,C,C,B,A,A,B,C,D,C,C
+250.0,Bilgisayar Mühendisi,E,B,C,C,D,A,C,C,D,B,A,B,B,B,D,C
+251.0,Bilgisayar Mühendisi,E,C,D,B,A,D,B,B,C,D,E,C,E,A,E,D
+252.0,Bilgisayar Mühendisi,A,E,D,C,A,D,B,A,B,D,E,D,A,A,A,D
+253.0,Bilgisayar Mühendisi,A,B,B,D,E,D,B,A,D,D,D,C,A,A,A,A
+254.0,Bilgisayar Mühendisi,D,C,D,C,A,D,B,B,C,C,D,A,A,A,E,B
+255.0,Bilgisayar Mühendisi,A,B,B,E,E,C,C,D,D,C,C,A,C,A,D,A
+256.0,Bilgisayar Mühendisi,B,B,C,D,A,C,C,D,B,B,B,D,B,B,D,D
+257.0,Bilgisayar Mühendisi,B,B,C,B,D,A,C,C,D,A,A,B,B,B,D,C
+258.0,Doktor,A,E,D,D,A,D,B,B,C,D,E,C,E,A,E,D
+259.0,Doktor,A,B,D,C,C,C,C,C,D,A,D,A,C,A,C,C
+260.0,Doktor,B,B,B,D,D,C,B,D,D,B,B,B,C,B,D,C
+261.0,Doktor,B,D,C,A,A,A,B,B,B,E,B,B,B,B,A,B
+262.0,Doktor,A,E,B,E,E,D,B,E,D,C,D,A,E,A,A,A
+263.0,Doktor,A,E,D,C,A,D,B,B,C,A,E,A,A,A,E,B
+264.0,Doktor,B,B,B,C,D,C,B,C,D,B,B,D,C,B,D,D
+265.0,Doktor,A,C,D,C,A,D,B,A,A,D,E,D,A,A,A,D
+266.0,Doktor,C,B,C,B,C,A,C,C,D,A,A,B,E,C,C,C
+267.0,Doktor,E,C,D,B,C,D,B,D,D,A,E,C,A,C,E,C
+268.0,Doktor,D,C,D,E,B,C,B,A,E,B,B,C,B,D,E,B
+269.0,Doktor,D,B,B,C,E,B,C,D,E,B,E,D,B,E,E,A
+270.0,Bilgisayar Mühendisi,B,B,B,A,C,E,A,B,A,D,A,C,D,A,D,E
+271.0,Doktor,B,A,E,B,B,B,B,C,C,E,E,C,D,A,C,E
+272.0,Doktor,D,E,D,E,A,A,E,C,B,A,C,E,E,C,D,E
+273.0,Bilgisayar Mühendisi,A,B,C,E,B,C,E,A,E,E,B,B,C,B,D,E
+274.0,Doktor,B,A,D,D,E,B,B,C,E,D,E,D,A,C,B,B
+275.0,Bilgisayar Mühendisi,D,D,D,B,B,D,C,B,A,B,A,C,C,E,A,E
+276.0,Doktor,C,B,E,A,D,B,C,A,A,B,C,B,A,D,A,D
+277.0,Bilgisayar Mühendisi,D,E,C,E,B,B,D,A,D,C,E,A,E,A,D,D
+278.0,Doktor,D,A,C,E,B,A,D,D,A,A,B,B,A,B,E,B
+279.0,Doktor,B,E,B,C,B,A,C,B,E,B,B,E,E,C,D,A
+280.0,Doktor,D,C,D,B,B,A,A,B,B,E,E,D,A,D,D,E
+281.0,Bilgisayar Mühendisi,A,C,D,A,C,C,B,B,E,D,C,C,E,A,B,D
+282.0,Bilgisayar Mühendisi,D,D,E,E,D,E,C,D,E,C,A,E,C,A,E,A
+283.0,Bilgisayar Mühendisi,C,B,C,C,B,E,C,B,E,E,C,D,E,D,A,A
+284.0,Doktor,D,B,B,A,D,E,B,C,B,A,E,E,D,D,E,C
+285.0,Bilgisayar Mühendisi,B,E,D,C,D,B,E,E,A,B,E,E,C,A,D,C
+286.0,Bilgisayar Mühendisi,C,C,A,B,B,E,A,D,B,A,B,A,E,B,E,D
+287.0,Doktor,E,B,C,A,C,D,D,E,A,A,D,C,A,D,B,E
+288.0,Bilgisayar Mühendisi,A,E,D,C,A,B,E,C,D,A,E,E,C,C,D,D
+289.0,Doktor,A,E,B,E,C,A,D,A,C,B,B,E,C,D,C,A
+290.0,Doktor,D,D,A,A,A,C,B,E,B,E,C,C,D,C,C,A
+291.0,Bilgisayar Mühendisi,C,A,C,A,C,D,C,E,E,D,B,E,D,E,A,B
+292.0,Doktor,C,A,E,B,C,A,C,C,C,D,A,D,C,E,A,E
+293.0,Doktor,B,A,A,E,B,B,C,C,A,E,D,E,E,B,B,D
+294.0,Bilgisayar Mühendisi,A,C,D,E,E,E,B,D,A,A,A,E,D,C,D,B
+295.0,Doktor,B,A,B,C,E,D,E,D,B,B,E,C,C,B,D,C
+296.0,Doktor,D,C,A,B,C,A,A,E,A,B,C,A,E,D,B,D
+297.0,Bilgisayar Mühendisi,A,A,D,E,B,A,B,D,A,C,A,C,D,B,E,C
+298.0,Doktor,B,A,E,E,B,C,C,D,B,D,E,A,C,C,D,D
+299.0,Doktor,B,D,B,E,D,B,D,E,C,D,A,C,E,E,E,D
+300.0,Bilgisayar Mühendisi,C,D,A,D,D,B,C,B,A,A,E,B,A,E,A,A
+301.0,Doktor,A,B,A,E,C,D,A,D,D,D,B,E,A,E,B,E
+302.0,Doktor,D,D,D,C,C,E,C,A,E,B,D,C,D,D,D,E
+303.0,Bilgisayar Mühendisi,A,D,C,B,D,E,B,E,E,D,E,C,D,C,D,A
+304.0,Doktor,D,B,D,C,A,B,B,A,D,D,D,A,B,E,E,E
+305.0,Doktor,E,B,D,A,C,E,B,E,E,E,C,A,E,B,C,C
+306.0,Bilgisayar Mühendisi,A,D,E,C,E,D,B,B,E,E,D,E,A,E,E,B
+307.0,Doktor,A,C,E,D,C,E,E,C,D,D,A,D,C,C,E,E
+308.0,Doktor,C,C,C,E,C,B,E,B,E,B,C,B,A,D,E,B
+309.0,Bilgisayar Mühendisi,A,D,E,E,A,C,D,A,B,A,C,D,C,C,B,C
+310.0,Doktor,D,E,C,C,A,A,C,C,A,E,C,A,B,E,E,B
+311.0,Doktor,A,B,E,E,D,C,C,D,D,C,E,E,A,B,D,A
+312.0,Bilgisayar Mühendisi,D,B,D,D,B,A,A,C,A,B,D,C,D,E,D,A
+313.0,Doktor,A,C,B,D,D,B,A,C,E,C,A,D,D,B,E,B
+314.0,Doktor,D,C,C,B,C,D,D,B,A,A,D,E,A,E,B,D
+315.0,Bilgisayar Mühendisi,A,E,B,B,A,E,E,D,C,C,B,A,E,D,B,B
+316.0,Doktor,B,E,A,D,C,D,C,C,A,A,C,D,E,E,D,C
+317.0,Doktor,B,E,A,C,D,D,B,B,A,A,C,B,E,C,D,E
+318.0,Bilgisayar Mühendisi,B,D,A,E,A,D,D,D,D,B,B,C,D,E,D,C
+319.0,Doktor,A,E,B,E,B,D,A,A,C,D,D,C,B,C,E,E
+320.0,Bilgisayar Mühendisi,C,B,E,B,E,D,B,D,B,B,D,A,B,B,C,B
+321.0,Doktor,E,D,E,A,C,E,D,C,B,B,D,E,B,E,E,D
+322.0,Doktor,C,E,E,D,C,E,C,B,A,C,A,B,E,B,C,B
+323.0,Bilgisayar Mühendisi,A,A,C,A,A,E,B,E,A,C,E,D,D,D,E,E
+324.0,Doktor,D,C,D,C,E,A,C,A,E,D,A,B,C,E,E,E
+325.0,Doktor,B,D,C,B,E,C,B,E,D,E,E,B,D,A,C,B
+326.0,Bilgisayar Mühendisi,A,E,C,C,A,C,A,E,B,B,C,D,C,B,E,A
+327.0,Doktor,B,A,B,C,A,B,E,B,E,C,C,C,D,B,A,D
+328.0,Bilgisayar Mühendisi,B,D,D,E,D,A,C,C,A,A,A,E,D,E,D,B
+329.0,Bilgisayar Mühendisi,A,E,C,A,A,C,E,A,C,E,E,D,B,E,D,B
+330.0,Doktor,A,A,D,B,A,C,A,E,E,E,D,B,C,D,E,B
+331.0,Bilgisayar Mühendisi,A,A,E,D,C,C,A,A,B,C,A,D,A,A,E,E
+332.0,Doktor,C,B,B,E,E,E,B,E,D,C,C,D,C,E,E,A
+333.0,Doktor,A,C,D,C,D,A,B,A,B,C,B,C,E,B,A,D
+334.0,Bilgisayar Mühendisi,A,B,A,A,C,C,B,A,D,D,E,A,C,B,A,B
+335.0,Doktor,B,E,D,C,C,A,E,B,A,E,A,D,D,B,B,B
+336.0,Doktor,B,B,D,E,A,C,D,B,A,E,C,B,D,A,A,B
+337.0,Bilgisayar Mühendisi,C,C,C,D,B,D,C,E,B,C,A,A,B,D,C,A
+338.0,Doktor,C,E,C,A,B,B,A,E,B,B,A,D,E,B,C,D
+339.0,Doktor,C,E,D,D,E,A,D,E,E,E,D,B,B,C,E,D
+340.0,Bilgisayar Mühendisi,A,A,E,B,E,A,D,A,A,E,D,B,C,D,E,B
+341.0,Doktor,A,B,B,A,D,B,C,C,A,D,E,A,E,C,B,D
+342.0,Doktor,E,B,C,B,C,A,A,E,A,B,E,A,D,D,C,D
+343.0,Bilgisayar Mühendisi,A,B,D,B,C,C,D,A,A,A,D,C,B,A,B,A
+344.0,Doktor,B,B,A,A,B,A,C,C,C,B,E,E,A,B,A,B
+345.0,Doktor,D,B,E,D,E,C,E,C,A,C,C,B,E,B,B,C
+346.0,Bilgisayar Mühendisi,C,C,D,C,B,A,E,D,E,B,E,B,B,D,E,A
+347.0,Doktor,B,B,E,D,C,C,A,B,B,D,D,A,A,B,C,E
+348.0,Bilgisayar Mühendisi,E,E,E,E,E,A,C,B,A,B,E,D,B,C,D,D
+349.0,Bilgisayar Mühendisi,C,D,E,C,D,E,E,C,A,B,A,C,D,E,C,C
+350.0,Doktor,D,D,A,D,B,B,B,C,E,A,D,B,B,E,B,D
+351.0,Doktor,D,D,D,C,C,A,D,A,C,B,A,E,C,D,A,C
+352.0,Bilgisayar Mühendisi,D,B,D,A,B,A,D,B,D,D,B,D,D,E,A,B
+353.0,Doktor,A,B,A,B,B,D,E,C,E,B,D,B,E,C,B,D
+354.0,Doktor,B,D,D,B,E,D,D,E,A,C,D,C,B,E,C,D
+355.0,Bilgisayar Mühendisi,D,B,A,B,D,E,A,C,A,D,C,C,C,B,C,C
+356.0,Doktor,E,E,D,A,A,C,C,E,A,A,D,A,E,E,C,D
+357.0,Bilgisayar Mühendisi,C,C,E,B,E,A,E,B,C,D,B,D,E,B,D,C
+358.0,Doktor,E,A,E,A,E,E,C,D,D,D,E,D,B,E,A,C
+359.0,Doktor,C,C,B,C,B,D,C,A,D,A,A,A,B,D,D,C
+360.0,Doktor,C,C,E,C,B,A,A,E,E,E,B,D,C,D,C,B
+361.0,Bilgisayar Mühendisi,A,A,D,A,E,D,D,E,C,A,B,B,A,C,E,D
+362.0,Bilgisayar Mühendisi,A,B,C,B,A,D,C,A,B,B,B,A,B,B,D,C
+363.0,Doktor,A,C,B,C,A,C,B,A,D,A,D,C,A,C,A,C
+364.0,Bilgisayar Mühendisi,A,D,A,C,A,C,B,A,D,A,A,A,B,B,C,B
+365.0,Doktor,A,C,D,B,A,C,B,B,C,A,D,C,A,A,A,C
+366.0,Bilgisayar Mühendisi,A,A,B,C,A,C,B,A,D,A,D,A,B,B,D,B
+367.0,Doktor,A,E,B,B,A,C,B,C,D,A,D,A,A,A,A,C
+368.0,Bilgisayar Mühendisi,B,D,B,D,A,D,C,D,B,E,B,C,B,B,C,C
+369.0,Doktor,A,C,D,B,A,D,B,B,C,A,D,C,A,A,A,C
+370.0,Bilgisayar Mühendisi,A,C,A,B,A,C,B,A,D,A,D,A,A,A,A,B
+371.0,Doktor,E,B,A,B,A,C,B,A,A,A,B,B,A,B,D,D
+372.0,Doktor,A,B,A,C,A,C,B,A,D,A,A,A,A,B,D,B
+373.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,E,D,A,D,A,A,C,B,B
+374.0,Doktor,A,C,B,C,A,C,B,A,D,A,B,C,A,C,A,C
+375.0,Bilgisayar Mühendisi,A,D,E,B,A,D,C,A,B,B,E,E,B,B,E,D
+376.0,Doktor,A,E,D,B,A,D,B,B,D,A,D,C,A,A,A,C
+377.0,Doktor,E,C,D,B,A,D,B,B,C,A,D,C,A,A,E,C
+378.0,Bilgisayar Mühendisi,A,B,B,C,A,D,C,A,D,B,D,C,C,B,C,C
+379.0,Doktor,A,E,A,B,A,C,B,C,D,A,D,A,A,A,A,B
+380.0,Bilgisayar Mühendisi,D,B,B,C,A,C,C,A,D,A,D,A,B,B,D,B
+381.0,Doktor,A,B,B,C,A,D,B,A,D,A,B,C,C,C,A,C
+382.0,Bilgisayar Mühendisi,B,D,E,D,A,D,C,D,E,E,E,C,B,B,E,D
+383.0,Doktor,A,B,B,B,A,C,B,A,D,A,A,B,A,C,A,C
+384.0,Bilgisayar Mühendisi,A,A,B,E,A,C,C,A,D,B,D,A,B,B,D,B
+385.0,Doktor,A,C,D,B,A,C,B,B,D,A,D,A,A,A,A,C
+386.0,Bilgisayar Mühendisi,A,C,C,D,A,D,C,A,B,E,D,C,B,B,A,D
+387.0,Doktor,A,E,C,C,A,C,B,A,D,A,A,B,A,B,D,C
+388.0,Bilgisayar Mühendisi,A,B,B,D,A,C,C,D,D,A,D,D,B,C,C,B
+389.0,Doktor,A,E,D,B,A,D,B,B,C,A,D,C,A,A,A,C
+390.0,Bilgisayar Mühendisi,D,B,B,C,A,C,C,A,D,A,D,A,B,B,D,B
+391.0,Doktor,A,C,B,C,A,C,B,A,D,A,D,C,A,C,A,C
+392.0,Bilgisayar Mühendisi,A,B,A,C,A,C,C,A,D,A,B,A,B,B,C,C
+393.0,Doktor,A,B,B,C,A,C,B,C,D,A,A,C,C,C,A,B
+394.0,Doktor,B,B,C,A,A,C,B,A,D,A,B,D,B,B,D,C
+395.0,Bilgisayar Mühendisi,A,C,D,B,A,D,C,B,C,B,D,C,A,A,E,D
+396.0,Doktor,A,C,B,C,A,D,B,A,D,B,D,C,A,C,A,C
+397.0,Doktor,A,E,B,C,A,D,C,C,D,A,D,C,C,C,A,C
+398.0,Bilgisayar Mühendisi,B,D,A,E,A,C,C,E,D,E,D,C,B,B,D,B
+399.0,Doktor,A,C,D,B,A,C,B,B,D,A,D,C,A,A,A,C
+400.0,Doktor,E,C,A,B,A,C,B,B,A,A,D,E,A,A,A,B
+401.0,Bilgisayar Mühendisi,A,B,C,C,A,D,C,A,B,A,D,A,B,C,C,C
+402.0,Doktor,A,B,B,B,B,C,B,C,D,A,A,D,A,C,D,B
+403.0,Doktor,A,C,A,C,A,C,B,A,D,A,D,C,A,A,A,C
+404.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,A,D,A,A,C,B,B
+405.0,Doktor,E,C,D,B,A,D,B,B,C,A,D,C,A,A,E,C
+406.0,Bilgisayar Mühendisi,D,B,C,C,A,C,C,A,D,A,A,D,B,B,D,B
+407.0,Doktor,A,C,D,B,A,C,B,B,D,A,D,B,A,A,A,C
+408.0,Doktor,A,C,D,B,A,C,B,B,D,A,D,B,A,A,A,C
+409.0,Doktor,A,A,A,E,A,C,B,E,D,A,D,A,A,C,B,B
+410.0,Doktor,A,B,A,B,A,C,B,A,D,A,A,B,A,B,D,C
+411.0,Doktor,A,C,C,B,A,D,B,A,D,A,B,C,C,B,E,D
+412.0,Bilgisayar Mühendisi,A,A,B,B,A,C,C,A,D,B,D,D,B,B,D,B
+413.0,Doktor,A,E,D,B,A,C,B,B,D,A,D,A,A,A,A,C
+414.0,Doktor,A,E,B,C,A,D,B,A,D,A,D,C,B,B,A,C
+415.0,Bilgisayar Mühendisi,B,D,A,D,A,D,C,D,D,E,E,C,B,B,C,C
+416.0,Doktor,A,B,C,A,A,C,B,A,D,A,A,A,B,B,D,C
+417.0,Doktor,A,C,B,C,A,D,C,D,D,B,D,C,C,C,A,C
+418.0,Bilgisayar Mühendisi,A,C,C,B,A,C,B,C,D,A,D,A,A,C,B,B
+419.0,Doktor,A,C,B,B,A,D,B,B,D,A,B,C,A,C,A,C
+420.0,Doktor,A,C,B,B,A,C,B,B,D,A,D,A,A,A,A,C
+421.0,Bilgisayar Mühendisi,A,C,A,B,A,C,B,A,D,A,D,A,A,A,A,B
+422.0,Doktor,E,B,C,A,A,D,C,A,A,E,B,B,B,B,D,D
+423.0,Doktor,A,C,B,C,A,D,B,A,D,B,D,C,A,C,A,C
+424.0,Bilgisayar Mühendisi,B,D,E,D,A,D,C,D,B,E,E,E,B,B,E,D
+425.0,Doktor,A,E,B,B,A,C,B,B,D,A,D,A,A,A,A,C
+426.0,Doktor,A,C,B,C,A,C,B,A,D,A,D,A,C,C,A,C
+427.0,Doktor,E,C,D,B,A,D,B,B,C,A,D,C,A,A,E,C
+428.0,Bilgisayar Mühendisi,A,A,B,C,A,C,C,A,D,B,D,C,B,B,D,B
+429.0,Doktor,A,B,A,B,A,C,B,A,D,A,A,A,A,B,D,C
+430.0,Bilgisayar Mühendisi,A,A,A,E,A,C,B,E,D,A,D,A,A,A,B,B
+431.0,Doktor,A,E,B,C,A,D,C,C,D,A,D,C,C,C,A,C
+432.0,Doktor,B,B,C,A,A,D,C,A,B,E,B,D,B,B,D,D
+433.0,Doktor,A,E,D,B,A,D,B,B,C,A,D,C,A,A,A,C
+434.0,Bilgisayar Mühendisi,A,B,A,C,A,C,C,A,D,A,A,A,B,B,C,C
+435.0,Doktor,A,C,D,B,A,D,B,B,C,A,D,C,A,A,A,C
+436.0,Doktor,A,E,B,C,A,D,B,A,D,A,D,C,B,B,A,C
+437.0,Doktor,A,B,C,B,A,C,B,C,D,A,A,D,A,C,B,B
+438.0,Bilgisayar Mühendisi,A,A,B,C,A,C,C,A,D,B,D,D,B,B,D,C
+439.0,Doktor,A,E,B,B,A,C,B,B,D,A,D,A,A,A,A,C
+440.0,Doktor,A,C,B,D,A,D,C,D,D,B,D,C,C,B,E,C
+441.0,Doktor,A,C,D,B,A,C,B,B,D,A,D,C,A,A,E,B
+442.0,Doktor,A,C,B,C,A,D,B,B,D,B,D,C,A,C,A,C
+443.0,Doktor,A,B,C,A,A,C,B,A,D,A,A,A,B,B,D,C
+444.0,Doktor,A,B,B,C,B,C,B,A,D,A,B,C,C,C,B,B
+445.0,Doktor,A,C,D,B,A,D,B,B,C,B,D,C,A,A,E,C
+446.0,Doktor,E,C,A,B,A,C,B,B,C,A,D,C,A,A,E,B
+447.0,Doktor,A,E,D,A,A,D,B,A,C,A,D,C,A,A,E,D
+448.0,Doktor,E,B,C,A,A,D,C,A,A,E,B,B,B,B,D,D
+449.0,Doktor,A,E,D,B,A,D,B,B,D,A,D,C,A,A,A,C
+450.0,Doktor,B,C,D,D,A,D,C,B,C,B,E,C,A,A,E,D
+451.0,Doktor,A,E,B,B,A,C,B,B,D,A,D,A,A,A,A,C
+452.0,Doktor,A,C,D,B,A,D,B,B,D,A,D,C,A,A,A,C
+453.0,Doktor,A,B,A,C,A,C,B,A,D,A,A,A,A,B,D,B
+454.0,Doktor,E,C,D,B,A,D,B,B,C,A,D,C,A,A,E,C
+455.0,Doktor,A,B,B,B,B,C,B,C,D,A,A,D,A,C,D,B
+456.0,Doktor,A,E,D,B,A,C,B,B,C,A,D,A,A,A,A,C
+457.0,Doktor,E,C,A,B,A,C,D,B,C,A,D,C,A,A,E,B
+458.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,A,C
+459.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,D,B,D,C,A,A,D,D
+460.0,Bilgisayar Mühendisi,A,B,A,D,C,D,B,D,D,B,D,C,C,B,D,C
+461.0,Bilgisayar Mühendisi,A,B,B,D,A,C,B,D,D,A,A,C,A,A,A,C
+462.0,Bilgisayar Mühendisi,A,C,B,C,C,C,B,A,D,A,D,C,C,B,A,C
+463.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,A,D,B,E,C,C,B,D,D
+464.0,Bilgisayar Mühendisi,A,C,B,E,A,D,B,A,D,A,D,C,A,B,D,C
+465.0,Bilgisayar Mühendisi,A,C,B,D,A,D,B,A,D,A,D,C,A,B,D,C
+466.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,A,D,B,D,C,C,A,A,C
+467.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,A,D,B,D,C,C,A,A,C
+468.0,Doktor,B,B,A,D,A,C,B,D,D,E,B,C,A,A,A,B
+469.0,Doktor,B,C,A,C,A,C,B,A,D,A,B,C,E,B,A,B
+470.0,Doktor,A,C,C,B,D,C,A,D,D,C,E,C,A,A,A,B
+471.0,Doktor,A,D,C,B,A,C,B,A,D,B,D,C,C,A,D,C
+472.0,Doktor,A,C,A,C,A,C,B,D,D,E,D,C,C,A,D,B
+473.0,Doktor,A,B,B,C,C,D,B,A,D,B,D,C,B,B,D,C
+474.0,Doktor,A,B,B,C,A,C,B,D,D,A,D,C,A,A,A,C
+475.0,Doktor,A,C,A,C,A,C,B,D,D,B,E,C,A,A,A,C
+476.0,Doktor,A,C,A,C,A,C,B,A,D,C,B,C,A,A,A,C
+477.0,Doktor,A,B,A,D,C,D,B,D,D,C,D,C,C,A,A,C
+478.0,Bilgisayar Mühendisi,A,A,B,C,A,C,D,A,D,B,B,C,C,C,A,C
+479.0,Bilgisayar Mühendisi,A,A,E,C,E,C,D,C,E,A,D,C,A,B,C,B
+480.0,Bilgisayar Mühendisi,A,B,A,C,B,A,C,E,D,B,E,C,D,C,C,C
+481.0,Bilgisayar Mühendisi,A,A,C,A,E,B,C,B,D,A,B,A,C,B,B,D
+482.0,Bilgisayar Mühendisi,A,B,A,C,B,E,C,B,D,B,E,A,C,B,C,C
+483.0,Bilgisayar Mühendisi,A,A,B,C,E,C,D,D,D,A,E,C,C,B,C,C
+484.0,Bilgisayar Mühendisi,A,A,B,C,A,B,C,B,D,A,B,A,C,A,C,C
+485.0,Bilgisayar Mühendisi,A,B,A,C,B,C,C,D,D,B,E,C,D,C,C,C
+486.0,Bilgisayar Mühendisi,A,C,D,C,A,A,B,C,D,C,D,C,C,A,C,C
+487.0,Bilgisayar Mühendisi,A,B,A,C,B,B,C,D,D,B,E,C,D,B,C,C
+488.0,Doktor,A,A,C,A,A,A,C,A,D,E,A,B,A,B,B,D
+489.0,Doktor,A,A,C,C,A,A,C,A,D,E,A,C,A,A,A,C
+490.0,Doktor,A,B,D,B,E,E,C,C,D,A,E,C,C,E,B,C
+491.0,Doktor,A,B,D,B,E,E,C,C,D,A,E,C,C,E,B,B
+492.0,Doktor,A,B,D,B,E,E,C,C,D,A,E,C,C,E,B,B
+493.0,Doktor,A,B,A,C,B,B,C,C,D,B,B,C,C,C,C,C
+494.0,Doktor,A,B,A,C,B,B,C,B,D,B,B,A,C,A,C,C
+495.0,Doktor,A,B,D,B,E,E,C,C,D,A,D,C,C,E,E,B
+496.0,Doktor,A,A,C,C,A,A,C,B,D,A,A,C,A,A,B,C
+497.0,Doktor,A,B,A,C,B,B,C,D,D,B,E,C,D,C,C,C
+498.0,Bilgisayar Mühendisi,A,E,C,A,D,A,D,C,D,B,D,C,C,B,C,A
+499.0,Bilgisayar Mühendisi,A,D,A,B,E,D,C,D,D,A,B,C,A,E,C,B
+500.0,Bilgisayar Mühendisi,A,C,D,E,C,D,E,C,D,B,E,C,C,B,C,B
+501.0,Bilgisayar Mühendisi,A,B,C,B,A,A,D,C,D,A,D,C,C,B,C,A
+502.0,Bilgisayar Mühendisi,A,B,C,A,E,A,D,C,D,A,E,C,C,B,C,A
+503.0,Bilgisayar Mühendisi,A,D,A,B,E,D,C,D,B,A,B,C,A,E,C,B
+504.0,Bilgisayar Mühendisi,A,B,C,A,A,A,D,C,D,A,D,C,C,B,C,A
+505.0,Bilgisayar Mühendisi,A,B,C,A,E,A,D,C,D,B,E,C,C,B,C,B
+506.0,Bilgisayar Mühendisi,A,B,D,B,E,A,C,C,D,A,D,C,B,A,C,A
+507.0,Bilgisayar Mühendisi,A,C,C,B,E,B,C,C,D,B,D,C,C,B,C,B
+508.0,Doktor,A,A,A,A,A,A,A,A,D,E,A,A,A,A,D,A
+509.0,Doktor,A,B,A,A,A,A,A,A,D,E,A,A,A,A,C,A
+510.0,Doktor,A,E,D,B,A,D,C,B,D,C,D,C,A,A,D,B
+511.0,Doktor,E,A,D,B,A,D,C,A,D,A,A,C,A,E,D,E
+512.0,Doktor,D,E,D,B,A,D,C,C,D,C,A,C,B,A,D,C
+513.0,Doktor,C,C,C,B,C,D,C,A,B,B,D,C,B,B,D,C
+514.0,Doktor,B,C,C,B,C,D,C,B,B,A,D,C,B,B,D,C
+515.0,Doktor,E,A,D,B,A,D,C,A,D,A,D,C,A,E,D,E
+516.0,Doktor,D,E,D,B,A,D,C,C,D,A,D,C,B,A,D,C
+517.0,Doktor,C,C,C,B,C,D,C,C,C,B,D,E,C,B,D,C
+518.0,Doktor,A,C,A,B,A,C,B,D,D,E,B,A,D,D,D,D
+519.0,Doktor,A,C,B,B,D,C,B,A,B,B,A,D,A,C,B,B
+520.0,Doktor,A,C,A,C,A,D,B,A,D,D,D,C,C,B,A,C
+521.0,Doktor,A,C,A,B,A,C,B,D,D,E,B,A,D,D,D,D
+522.0,Doktor,A,C,B,B,D,C,B,A,B,B,A,D,A,C,B,B
+523.0,Bilgisayar Mühendisi,E,E,A,E,E,C,B,A,B,E,E,C,E,E,E,E
+524.0,Doktor,A,C,A,C,A,D,B,A,D,D,D,C,C,B,A,C
+525.0,Doktor,A,D,B,B,A,C,A,A,A,B,D,D,A,C,A,C
+526.0,Bilgisayar Mühendisi,A,B,B,D,A,C,B,D,D,A,A,C,A,A,A,C
+527.0,Doktor,E,C,A,B,C,D,B,A,D,B,D,C,C,B,D,C
+528.0,Bilgisayar Mühendisi,C,C,B,B,D,C,B,A,B,B,A,D,A,C,B,B
+529.0,Doktor,E,B,A,D,A,C,B,D,D,E,B,C,A,C,A,B
+530.0,Bilgisayar Mühendisi,A,B,A,D,C,D,B,D,D,B,D,C,C,B,D,C
+531.0,Doktor,A,E,A,A,D,A,C,A,A,C,E,C,C,B,C,D
+532.0,Doktor,A,B,B,D,A,C,B,D,D,B,B,C,A,B,A,C
+533.0,Doktor,A,C,B,B,A,C,A,A,A,D,D,D,A,C,A,C
+534.0,Bilgisayar Mühendisi,E,C,A,D,C,D,B,A,D,B,D,C,A,B,D,C
+535.0,Doktor,E,B,C,C,C,D,B,A,D,B,A,C,B,C,D,B
+536.0,Doktor,A,A,C,B,A,C,A,A,C,D,E,D,A,C,A,C
+537.0,Doktor,A,B,B,D,A,C,B,D,D,B,B,C,B,B,A,C
+538.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,D,C
+539.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+540.0,Doktor,A,C,A,C,A,C,B,A,A,A,B,A,A,A,A,C
+541.0,Bilgisayar Mühendisi,A,C,B,C,C,C,B,A,D,A,D,C,C,B,A,C
+542.0,Doktor,E,B,C,C,C,D,B,A,B,B,A,C,B,C,D,C
+543.0,Doktor,A,C,A,D,A,D,B,A,D,D,D,C,C,A,D,C
+544.0,Bilgisayar Mühendisi,A,E,A,D,E,C,B,A,B,E,E,C,E,B,A,E
+545.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,D,B,D,C,A,B,D,C
+546.0,Doktor,E,B,A,D,A,C,B,D,D,E,B,C,A,A,A,B
+547.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,A,D,B,E,C,C,B,D,D
+548.0,Bilgisayar Mühendisi,A,C,A,B,A,C,A,D,D,D,D,C,C,A,C,C
+549.0,Doktor,A,B,B,D,A,C,B,D,D,A,D,C,A,A,A,C
+550.0,Bilgisayar Mühendisi,E,C,A,E,E,C,B,A,B,E,E,C,E,E,E,E
+551.0,Doktor,C,C,C,B,D,C,B,A,C,C,E,D,A,C,B,B
+552.0,Doktor,A,C,A,B,C,D,B,A,D,C,D,C,C,A,D,C
+553.0,Bilgisayar Mühendisi,C,C,B,D,A,D,B,A,B,A,A,D,A,B,D,C
+554.0,Bilgisayar Mühendisi,A,A,B,B,D,C,A,A,A,D,E,D,A,C,B,C
+555.0,Doktor,A,E,A,D,A,C,B,A,A,C,D,C,C,B,A,D
+556.0,Bilgisayar Mühendisi,A,C,B,E,A,D,B,A,D,A,D,C,A,B,D,C
+557.0,Doktor,B,B,B,D,A,C,B,A,D,B,E,A,A,B,A,B
+558.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+559.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,A,D,B,D,C,C,A,A,C
+560.0,Doktor,A,A,A,C,A,C,B,A,A,E,B,A,A,C,A,C
+561.0,Doktor,E,B,A,D,A,C,B,A,B,A,B,C,E,B,A,B
+562.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,A,C
+563.0,Doktor,A,C,A,D,A,D,B,A,B,D,D,D,C,C,D,C
+564.0,Doktor,B,B,A,D,A,C,B,D,D,B,B,C,A,B,A,B
+565.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,A,D,E,D,C,D,D,D
+566.0,Doktor,E,B,A,B,C,D,B,A,D,B,D,C,C,B,D,C
+567.0,Doktor,A,C,A,B,A,C,A,A,A,D,D,D,A,C,A,C
+568.0,Bilgisayar Mühendisi,E,C,B,D,A,D,B,A,D,A,D,C,A,B,D,C
+569.0,Doktor,C,C,C,B,D,C,B,A,C,C,E,D,A,C,B,B
+570.0,Doktor,D,B,B,D,A,C,B,D,D,A,A,C,A,A,A,C
+571.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+572.0,Doktor,A,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+573.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,A,D,A,D,C,A,A,D,C
+574.0,Doktor,E,B,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+575.0,Doktor,A,E,A,D,A,C,B,A,A,C,E,C,C,B,A,D
+576.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,A,B,D,C
+577.0,Doktor,E,B,C,C,C,D,B,A,D,B,A,C,B,C,D,B
+578.0,Doktor,D,C,B,B,A,C,A,A,A,D,E,D,A,C,B,C
+579.0,Bilgisayar Mühendisi,A,C,B,C,C,C,B,A,D,A,D,C,C,B,A,C
+580.0,Doktor,C,C,B,B,D,C,B,A,B,B,A,D,A,C,B,B
+581.0,Doktor,B,B,B,D,A,C,B,D,D,E,B,C,A,B,A,C
+582.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,A,D,B,E,C,C,B,D,D
+583.0,Doktor,A,C,A,C,A,C,B,D,D,E,D,C,C,A,D,B
+584.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,A,B,B,D,C,C,C,A,C
+585.0,Doktor,A,A,A,B,A,C,A,D,A,D,E,D,A,C,B,C
+586.0,Doktor,B,B,B,D,A,C,B,D,D,A,B,C,A,B,A,C
+587.0,Bilgisayar Mühendisi,A,C,A,D,E,C,B,A,B,E,E,C,C,B,D,E
+588.0,Doktor,A,C,B,B,C,C,B,A,D,B,A,C,A,A,D,C
+589.0,Doktor,A,C,A,B,A,C,A,D,A,D,D,D,A,C,A,C
+590.0,Bilgisayar Mühendisi,E,E,A,E,E,C,B,A,D,E,E,C,E,B,D,E
+591.0,Doktor,A,E,A,D,A,C,B,A,A,C,D,C,C,B,A,D
+592.0,Doktor,A,C,A,C,A,C,B,A,D,C,D,C,C,A,A,C
+593.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,A,D,B,D,C,C,A,A,C
+594.0,Doktor,A,C,A,B,A,C,B,A,A,D,D,D,A,A,A,C
+595.0,Doktor,B,B,B,D,A,C,B,D,D,E,B,C,A,B,A,C
+596.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+597.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+598.0,Doktor,E,C,B,B,D,C,B,A,A,B,E,D,A,C,B,B
+599.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,D,C
+600.0,Doktor,C,A,C,B,A,C,A,A,C,D,E,D,A,C,A,C
+601.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,C,D,C
+602.0,Bilgisayar Mühendisi,E,C,A,D,E,C,B,A,A,B,E,D,A,B,D,E
+603.0,Doktor,A,E,A,D,E,C,B,A,A,E,E,C,E,B,A,E
+604.0,Doktor,C,A,C,B,A,C,A,D,C,D,E,D,A,C,A,C
+605.0,Bilgisayar Mühendisi,E,B,B,D,A,C,B,D,D,E,A,C,A,E,A,C
+606.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,C,D,C
+607.0,Doktor,E,B,A,D,A,C,B,D,D,A,B,C,A,A,A,B
+608.0,Bilgisayar Mühendisi,E,C,A,E,E,C,B,A,D,E,E,C,C,B,D,E
+609.0,Doktor,E,B,C,C,C,D,B,A,D,B,A,C,B,C,D,B
+610.0,Bilgisayar Mühendisi,A,C,B,B,D,C,B,A,D,A,A,D,A,B,A,C
+611.0,Bilgisayar Mühendisi,E,C,C,B,D,C,A,A,C,E,E,D,A,C,C,B
+612.0,Doktor,D,C,B,B,A,C,A,A,A,D,E,D,A,C,B,C
+613.0,Doktor,C,E,A,D,A,C,B,A,C,C,E,D,C,B,A,D
+614.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,C,D,C
+615.0,Doktor,B,B,A,B,A,C,B,D,D,E,B,C,A,D,D,D
+616.0,Doktor,E,B,A,D,A,C,B,D,D,E,B,C,A,C,A,B
+617.0,Doktor,A,E,A,A,D,A,C,A,A,C,E,C,C,B,C,D
+618.0,Doktor,B,B,B,D,A,C,B,D,D,E,B,C,A,B,A,C
+619.0,Doktor,B,B,B,D,A,C,B,A,D,B,E,A,A,B,A,B
+620.0,Doktor,A,C,A,D,A,D,B,A,D,D,D,C,C,A,D,C
+621.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,B,D,C
+622.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+623.0,Doktor,A,B,B,D,A,C,B,D,D,B,B,C,A,B,A,C
+624.0,Doktor,A,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+625.0,Doktor,B,B,B,D,A,C,B,D,D,A,B,C,A,B,A,C
+626.0,Doktor,A,C,B,D,A,C,B,A,D,B,D,D,A,B,A,C
+627.0,Doktor,A,C,B,B,A,C,A,A,A,D,E,D,A,C,B,C
+628.0,Doktor,B,B,B,D,A,C,B,A,D,B,E,A,A,B,A,B
+629.0,Doktor,E,B,C,C,C,D,B,A,D,B,A,C,B,C,D,B
+630.0,Doktor,C,A,C,B,A,C,A,D,C,D,E,D,A,C,A,C
+631.0,Doktor,A,C,A,B,C,D,B,A,D,C,D,C,C,A,D,C
+632.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+633.0,Doktor,A,C,A,C,A,D,B,A,D,C,D,C,C,A,A,C
+634.0,Doktor,A,C,A,D,A,D,B,A,B,D,D,D,C,C,D,C
+635.0,Doktor,C,C,B,B,A,C,A,A,A,D,E,D,A,C,B,C
+636.0,Doktor,A,C,C,B,D,C,A,A,C,C,E,D,A,C,B,B
+637.0,Doktor,A,C,A,C,A,C,B,A,D,C,D,C,C,A,A,C
+638.0,Doktor,A,C,A,C,A,C,B,D,D,E,D,C,C,A,D,B
+639.0,Doktor,A,A,B,B,D,C,A,A,A,D,E,D,A,C,B,C
+640.0,Doktor,A,E,A,D,A,C,B,A,A,C,D,C,C,B,A,D
+641.0,Doktor,B,B,A,D,A,C,B,D,D,E,B,C,A,B,D,C
+642.0,Doktor,E,B,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+643.0,Doktor,A,C,A,D,A,D,B,A,D,C,D,C,C,A,D,C
+644.0,Doktor,A,C,A,B,D,C,A,A,A,D,E,D,C,C,D,C
+645.0,Doktor,B,B,B,D,A,C,B,D,D,A,B,C,A,A,A,C
+646.0,Doktor,B,B,B,D,A,C,B,D,D,B,B,C,B,B,A,C
+647.0,Doktor,A,C,A,B,A,C,B,A,A,D,D,D,A,A,A,C
+648.0,Doktor,A,A,A,B,A,C,A,D,A,D,E,D,A,C,B,C
+649.0,Doktor,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+650.0,Doktor,A,B,A,D,A,C,B,D,D,A,B,C,A,A,A,B
+651.0,Doktor,A,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+652.0,Doktor,A,C,A,B,A,C,B,A,A,D,D,D,A,A,A,C
+653.0,Doktor,A,C,A,C,A,C,B,A,D,C,D,C,C,A,A,C
+654.0,Doktor,A,B,A,D,A,D,B,A,D,B,D,C,C,B,D,C
+655.0,Doktor,E,B,A,D,A,C,B,D,D,E,B,C,A,A,A,B
+656.0,Doktor,E,B,A,D,C,D,B,A,D,E,D,C,C,B,D,C
+657.0,Bilgisayar Mühendisi,E,C,A,E,E,C,B,A,B,E,E,C,E,E,E,E
+658.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,D,C
+659.0,Bilgisayar Mühendisi,A,C,A,D,E,C,B,A,B,E,E,C,C,B,D,E
+660.0,Bilgisayar Mühendisi,A,C,A,D,A,C,B,A,D,A,D,C,C,B,D,C
+661.0,Bilgisayar Mühendisi,A,C,B,C,C,C,B,A,D,A,D,C,C,B,A,C
+662.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,D,D,A,D,C,A,A,A,C
+663.0,Bilgisayar Mühendisi,A,C,B,D,A,C,B,A,D,A,D,C,A,A,D,C
+664.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,A,B,B,D,C,C,C,A,C
+665.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,D,A,D,C,C,B,D,C
+666.0,Bilgisayar Mühendisi,E,B,B,D,A,C,B,D,D,E,A,C,A,E,A,C
+667.0,Bilgisayar Mühendisi,C,B,B,D,A,C,B,D,D,A,A,C,A,A,A,C
+668.0,Bilgisayar Mühendisi,E,C,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+669.0,Bilgisayar Mühendisi,E,B,A,D,C,D,B,A,D,B,D,C,C,B,D,C
+670.0,Bilgisayar Mühendisi,A,C,C,B,A,D,B,A,C,D,D,D,C,D,D,C
+671.0,Bilgisayar Mühendisi,C,C,B,D,A,D,B,A,B,A,A,D,A,B,D,C
+672.0,Bilgisayar Mühendisi,A,C,B,D,A,D,B,D,D,A,D,C,A,B,D,C
+673.0,Bilgisayar Mühendisi,E,C,A,D,A,D,B,A,C,D,E,D,C,D,D,D
+674.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,A,D,E,D,C,D,D,D
+675.0,Bilgisayar Mühendisi,A,C,A,E,E,C,B,A,D,E,E,C,C,B,D,E
+676.0,Bilgisayar Mühendisi,D,C,A,B,A,C,A,A,C,D,D,D,A,C,A,C
+677.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,D,C,D,C,C,A,D,C
+678.0,Bilgisayar Mühendisi,E,C,A,D,E,C,B,A,D,B,E,D,A,B,D,E
+679.0,Bilgisayar Mühendisi,A,C,B,E,A,D,B,A,D,A,D,C,A,B,D,C
+680.0,Doktor,C,E,A,D,A,C,B,A,C,C,E,D,C,B,A,D
+681.0,Doktor,A,C,A,B,A,D,B,A,D,B,D,C,C,A,D,C
+682.0,Doktor,E,B,B,D,A,D,B,A,D,B,D,C,A,B,D,C
+683.0,Doktor,E,C,B,B,D,C,B,A,A,B,E,D,A,C,B,B
+684.0,Doktor,E,C,A,E,E,C,B,A,D,E,E,C,E,B,D,E
+685.0,Doktor,A,A,A,B,A,C,A,D,A,D,E,D,A,C,B,C
+686.0,Doktor,B,B,B,D,A,C,B,D,D,B,B,C,A,B,A,C
+687.0,Doktor,A,E,A,D,A,C,B,A,A,C,E,C,C,B,A,D
+688.0,Doktor,C,B,C,B,D,C,B,A,C,C,A,C,B,C,D,B
+689.0,Doktor,A,C,B,D,A,C,B,A,D,B,D,D,A,B,A,C
+690.0,Bilgisayar Mühendisi,A,B,B,C,C,C,B,A,D,A,A,A,C,A,D,C
+691.0,Bilgisayar Mühendisi,E,C,A,E,A,D,B,D,B,D,D,C,A,C,A,D
+692.0,Bilgisayar Mühendisi,A,B,B,D,D,D,B,C,D,B,B,C,C,A,A,C
+693.0,Bilgisayar Mühendisi,A,B,C,A,C,C,B,C,D,A,A,A,C,B,D,C
+694.0,Bilgisayar Mühendisi,A,B,B,C,E,C,B,A,D,C,A,A,C,B,A,C
+695.0,Bilgisayar Mühendisi,E,E,A,B,A,D,B,D,B,D,B,C,A,C,A,D
+696.0,Bilgisayar Mühendisi,A,B,C,A,C,C,B,A,D,A,A,A,C,B,D,C
+697.0,Bilgisayar Mühendisi,E,B,B,C,D,D,B,C,D,B,B,C,C,A,D,C
+698.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,B,B,C,D,A,A,A,A,B
+699.0,Bilgisayar Mühendisi,A,E,A,B,A,D,B,D,B,D,D,C,A,A,A,C
+700.0,Doktor,A,B,C,B,D,C,B,B,D,E,A,D,B,A,D,C
+701.0,Doktor,B,B,A,B,E,C,B,D,A,E,B,D,A,B,A,D
+702.0,Doktor,E,C,A,A,A,D,A,E,C,A,E,C,A,C,E,D
+703.0,Doktor,E,C,A,B,A,D,B,B,C,D,D,A,A,C,E,D
+704.0,Doktor,E,E,A,A,A,C,B,B,D,D,D,A,A,A,E,B
+705.0,Doktor,A,B,C,C,C,C,B,A,D,B,A,D,C,B,D,C
+706.0,Doktor,A,B,B,B,C,C,B,C,D,A,A,D,C,B,D,C
+707.0,Doktor,E,C,A,B,A,D,A,D,C,D,E,C,A,C,E,D
+708.0,Doktor,A,B,B,C,E,C,B,A,D,E,B,D,C,A,D,C
+709.0,Doktor,E,E,B,D,D,D,B,C,D,B,E,C,C,A,B,C
+710.0,Doktor,A,A,C,B,D,D,D,C,D,A,B,A,B,D,A,C
+711.0,Doktor,A,A,D,B,A,B,A,C,B,B,B,C,A,A,C,B
+712.0,Bilgisayar Mühendisi,E,E,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+713.0,Doktor,A,B,C,B,D,B,D,A,D,C,A,A,A,D,E,C
+714.0,Doktor,A,D,B,B,A,A,B,D,A,B,D,A,C,A,A,C
+715.0,Bilgisayar Mühendisi,A,B,B,D,A,C,B,D,D,A,C,A,A,A,A,C
+716.0,Doktor,E,D,A,B,C,A,C,E,D,B,C,C,B,D,C,C
+717.0,Bilgisayar Mühendisi,E,B,C,B,B,D,A,A,B,B,A,D,A,C,B,B
+718.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,A,D,A,C
+719.0,Bilgisayar Mühendisi,A,D,D,C,C,A,D,C,D,B,C,C,C,B,C,C
+720.0,Doktor,A,C,E,E,B,E,E,B,A,D,E,A,A,A,E,C
+721.0,Doktor,A,B,C,B,D,D,C,C,D,E,B,C,A,D,B,C
+722.0,Doktor,E,E,B,B,A,B,A,D,A,D,B,A,A,A,D,A
+723.0,Bilgisayar Mühendisi,A,B,D,C,E,A,D,D,B,B,C,B,B,B,C,D
+724.0,Doktor,A,C,A,C,C,C,C,E,D,A,C,C,C,D,A,C
+725.0,Doktor,E,E,B,B,A,B,A,D,A,B,D,A,A,A,D,A
+726.0,Doktor,A,B,C,B,D,D,D,C,D,B,B,C,A,D,C,C
+727.0,Bilgisayar Mühendisi,C,E,C,C,C,C,C,B,D,A,C,B,B,D,A,C
+728.0,Doktor,A,A,A,B,B,A,B,C,D,B,B,C,A,A,C,B
+729.0,Doktor,A,A,C,B,A,D,A,C,A,E,B,A,A,D,A,C
+730.0,Bilgisayar Mühendisi,A,B,C,C,E,C,C,B,B,B,A,C,B,D,A,D
+731.0,Doktor,A,D,D,C,C,A,D,C,D,B,C,C,C,B,C,C
+732.0,Doktor,A,A,D,B,B,B,A,C,A,B,D,C,A,A,C,A
+733.0,Bilgisayar Mühendisi,E,A,C,B,B,D,B,A,B,E,A,B,A,A,B,D
+734.0,Doktor,A,A,C,B,D,A,A,C,D,A,B,A,A,D,C,C
+735.0,Doktor,A,B,A,B,D,D,D,C,D,E,B,A,A,D,A,C
+736.0,Bilgisayar Mühendisi,E,A,C,A,B,D,A,A,B,B,E,B,A,A,B,B
+737.0,Doktor,A,E,B,B,A,B,A,D,A,A,D,A,A,A,D,A
+738.0,Doktor,A,B,C,B,D,D,D,C,D,A,B,C,A,D,A,C
+739.0,Bilgisayar Mühendisi,E,E,E,D,B,D,B,A,B,E,E,B,E,A,B,D
+740.0,Doktor,E,E,D,B,A,B,B,D,C,C,B,A,A,A,D,A
+741.0,Doktor,A,A,D,C,C,A,C,E,D,B,C,C,C,B,C,C
+742.0,Bilgisayar Mühendisi,A,C,C,A,C,C,B,D,B,B,C,C,D,C,D,C
+743.0,Doktor,E,E,B,B,A,B,A,D,D,D,D,A,A,A,D,A
+744.0,Doktor,A,B,C,B,B,E,E,B,A,C,A,A,A,D,E,C
+745.0,Bilgisayar Mühendisi,C,B,C,C,E,A,C,B,D,B,A,C,B,D,A,D
+746.0,Doktor,A,A,C,B,D,D,A,C,B,E,B,C,A,D,B,B
+747.0,Doktor,A,D,D,B,C,A,B,E,D,B,C,C,C,A,C,B
+748.0,Bilgisayar Mühendisi,A,B,C,D,C,B,B,C,D,C,D,C,B,A,B,C
+749.0,Doktor,E,E,A,B,A,D,A,D,E,E,B,A,A,A,D,A
+750.0,Doktor,A,B,A,B,A,D,D,C,B,E,B,C,A,D,A,C
+751.0,Bilgisayar Mühendisi,A,B,C,C,E,C,C,B,D,B,A,C,B,D,A,D
+752.0,Doktor,A,E,D,C,A,B,D,E,A,A,D,C,C,B,C,A
+753.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,A,D,C,C
+754.0,Bilgisayar Mühendisi,E,A,C,A,B,E,A,A,B,B,E,B,A,A,D,B
+755.0,Doktor,E,D,D,C,C,A,D,E,D,B,C,C,C,B,C,C
+756.0,Doktor,A,E,B,B,A,B,A,C,A,D,B,A,A,A,D,A
+757.0,Bilgisayar Mühendisi,A,B,D,C,E,A,D,D,D,B,C,B,B,B,C,D
+758.0,Doktor,E,E,D,B,A,B,B,D,C,C,B,A,A,A,D,A
+759.0,Doktor,A,A,C,B,D,D,D,C,B,A,B,C,A,D,A,C
+760.0,Bilgisayar Mühendisi,C,B,C,C,E,A,C,B,D,B,A,C,B,D,A,D
+761.0,Doktor,A,A,C,B,D,D,A,C,D,B,C,C,A,D,C,C
+762.0,Bilgisayar Mühendisi,C,B,C,C,C,C,C,B,D,A,C,C,B,D,A,C
+763.0,Doktor,A,D,D,C,C,A,D,E,D,B,C,C,B,D,C,C
+764.0,Doktor,A,B,C,B,B,E,E,B,A,C,A,A,A,D,E,C
+765.0,Bilgisayar Mühendisi,A,E,C,A,E,C,B,A,B,A,C,B,E,B,C,D
+766.0,Doktor,A,C,A,C,C,A,C,E,D,A,C,C,C,D,A,C
+767.0,Doktor,E,E,B,B,A,B,A,D,A,B,D,A,A,A,D,A
+768.0,Bilgisayar Mühendisi,A,B,C,C,E,C,C,B,D,B,A,C,B,D,A,D
+769.0,Doktor,A,A,D,B,A,B,A,C,B,B,B,C,A,A,C,B
+770.0,Doktor,A,B,C,B,D,D,D,C,D,B,B,C,A,D,C,C
+771.0,Bilgisayar Mühendisi,E,A,C,A,B,D,A,A,B,B,E,B,A,A,B,B
+772.0,Doktor,A,A,C,B,D,B,A,C,D,B,C,A,A,D,C,C
+773.0,Bilgisayar Mühendisi,A,D,D,C,C,A,D,C,B,B,C,C,C,B,C,C
+774.0,Doktor,A,E,B,B,B,B,A,D,A,D,D,A,A,A,E,A
+775.0,Doktor,A,B,A,B,D,D,A,C,D,E,B,A,A,D,A,C
+776.0,Bilgisayar Mühendisi,E,B,C,D,B,D,B,A,B,B,A,B,B,A,B,D
+777.0,Doktor,A,A,B,B,A,B,B,C,A,A,D,C,A,A,C,A
+778.0,Doktor,A,E,B,B,A,B,A,D,A,A,D,A,A,A,D,A
+779.0,Bilgisayar Mühendisi,E,E,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+780.0,Doktor,A,B,C,B,D,E,E,B,D,C,A,A,A,D,E,C
+781.0,Doktor,A,A,C,B,D,B,A,C,D,A,B,A,A,D,A,C
+782.0,Bilgisayar Mühendisi,A,B,C,D,C,B,B,C,D,C,D,C,B,A,B,C
+783.0,Doktor,A,E,A,B,A,B,B,C,B,A,D,C,A,C,A,A
+784.0,Doktor,A,B,A,B,D,D,A,C,D,E,B,A,A,D,A,C
+785.0,Bilgisayar Mühendisi,A,B,D,C,E,A,D,D,D,B,C,B,B,B,C,D
+786.0,Doktor,A,A,D,B,B,A,B,C,D,B,B,C,A,A,C,B
+787.0,Doktor,E,E,A,B,A,B,A,D,A,B,B,A,A,A,D,A
+788.0,Bilgisayar Mühendisi,C,E,C,C,C,C,C,B,D,A,C,B,B,D,A,C
+789.0,Doktor,E,E,D,B,A,B,B,D,C,C,B,A,A,A,D,A
+790.0,Bilgisayar Mühendisi,A,D,D,C,C,A,D,E,D,B,C,C,C,B,C,C
+791.0,Bilgisayar Mühendisi,E,D,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+792.0,Doktor,A,B,C,B,B,E,E,B,A,C,A,A,A,A,E,C
+793.0,Doktor,E,E,B,B,A,B,A,D,D,D,D,A,A,A,D,A
+794.0,Bilgisayar Mühendisi,A,B,B,D,A,C,B,D,D,E,C,A,A,A,A,C
+795.0,Bilgisayar Mühendisi,E,A,D,C,C,A,C,E,D,B,C,C,C,B,C,C
+796.0,Doktor,A,B,A,B,D,D,D,C,D,E,B,A,A,D,A,C
+797.0,Bilgisayar Mühendisi,E,E,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+798.0,Doktor,A,C,A,C,C,A,C,E,D,B,C,C,C,D,A,C
+799.0,Bilgisayar Mühendisi,A,A,C,B,B,D,B,A,B,E,E,B,A,A,D,C
+800.0,Doktor,E,E,A,B,A,B,B,D,A,C,D,A,A,A,D,A
+801.0,Doktor,A,E,B,B,A,B,A,D,A,B,D,A,A,A,D,A
+802.0,Doktor,A,C,E,E,B,E,E,B,A,D,E,A,A,A,E,C
+803.0,Bilgisayar Mühendisi,E,D,D,C,E,A,D,E,D,B,C,B,B,B,C,D
+804.0,Doktor,A,B,C,B,D,D,D,C,D,A,B,A,B,D,A,C
+805.0,Doktor,A,B,A,B,D,D,D,C,B,E,B,A,A,D,A,C
+806.0,Doktor,E,E,E,E,B,B,A,B,A,D,E,A,A,A,E,C
+807.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,B,D,A,C
+808.0,Doktor,A,A,C,B,D,D,A,C,B,B,B,C,A,D,B,B
+809.0,Doktor,A,A,D,B,B,B,A,C,D,B,D,C,A,A,C,A
+810.0,Doktor,A,A,C,B,D,A,A,C,D,A,D,C,A,A,C,A
+811.0,Doktor,E,D,D,B,C,A,B,E,D,B,C,C,C,A,C,B
+812.0,Doktor,A,B,C,B,D,D,A,C,D,E,B,C,A,D,C,C
+813.0,Doktor,A,A,C,B,D,B,A,C,D,B,C,A,A,D,C,C
+814.0,Doktor,A,B,A,B,D,D,A,C,D,E,B,A,A,D,A,C
+815.0,Doktor,A,E,B,B,A,B,A,D,D,B,D,A,A,A,D,A
+816.0,Doktor,E,E,D,B,A,B,B,D,C,C,B,A,A,A,D,A
+817.0,Doktor,A,A,C,B,D,D,A,C,B,E,B,C,A,D,B,B
+818.0,Doktor,C,C,A,C,C,C,C,E,D,A,C,C,C,D,A,C
+819.0,Doktor,E,E,B,B,A,B,A,D,D,D,D,A,A,A,D,A
+820.0,Doktor,A,A,D,C,C,A,C,E,D,B,C,C,C,B,C,C
+821.0,Doktor,A,A,A,B,B,A,B,C,D,B,B,C,A,A,C,B
+822.0,Doktor,A,B,C,B,A,B,B,C,D,C,D,A,B,D,B,C
+823.0,Doktor,A,E,D,C,A,B,D,E,A,A,D,C,C,B,C,A
+824.0,Doktor,E,E,D,B,A,B,B,D,C,B,B,A,A,A,D,A
+825.0,Doktor,E,E,D,B,A,B,B,D,D,C,B,A,A,A,D,A
+826.0,Doktor,A,A,C,B,D,B,A,C,D,A,B,A,A,D,A,C
+827.0,Doktor,A,A,C,B,D,B,A,C,D,E,B,A,A,D,A,C
+828.0,Doktor,E,E,B,B,A,B,A,D,D,D,D,A,A,A,D,A
+829.0,Doktor,A,B,C,B,D,E,E,B,D,C,A,A,A,D,E,C
+830.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,B,D,C,C
+831.0,Doktor,A,D,D,C,C,A,D,E,D,B,C,C,B,D,C,C
+832.0,Doktor,A,B,C,C,C,B,B,C,D,C,C,C,B,B,C,C
+833.0,Doktor,E,A,D,B,A,B,A,C,D,B,D,A,A,A,D,A
+834.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,A,D,A,C
+835.0,Doktor,A,B,C,B,D,D,D,C,D,B,B,C,A,D,C,C
+836.0,Doktor,A,E,A,B,A,B,B,C,B,A,D,C,A,C,A,A
+837.0,Doktor,A,E,B,B,B,B,A,D,A,D,D,A,A,A,E,A
+838.0,Doktor,A,A,D,B,B,A,B,C,D,B,B,C,A,A,C,B
+839.0,Doktor,A,B,A,B,A,D,D,C,B,E,B,C,A,D,A,C
+840.0,Doktor,A,A,D,C,C,A,C,E,D,A,C,C,C,D,C,C
+841.0,Doktor,A,E,A,B,B,B,A,D,A,A,D,A,A,A,D,A
+842.0,Doktor,A,E,D,B,A,B,A,D,D,A,B,A,A,A,D,A
+843.0,Doktor,A,B,C,B,D,D,D,C,D,B,B,C,B,D,C,C
+844.0,Doktor,A,B,A,B,D,D,D,C,D,E,B,A,A,D,A,C
+845.0,Doktor,E,D,D,C,E,A,C,E,D,E,C,C,E,B,C,D
+846.0,Bilgisayar Mühendisi,E,E,E,D,B,D,B,A,B,E,E,B,E,A,B,D
+847.0,Bilgisayar Mühendisi,C,B,C,C,E,A,C,B,D,B,A,C,B,D,A,D
+848.0,Bilgisayar Mühendisi,E,B,C,D,B,D,B,A,B,B,A,B,B,A,B,D
+849.0,Bilgisayar Mühendisi,C,E,C,C,C,C,C,B,D,A,C,B,B,D,A,C
+850.0,Bilgisayar Mühendisi,A,B,C,C,E,C,C,B,D,B,A,C,B,D,A,D
+851.0,Bilgisayar Mühendisi,A,B,C,C,C,C,C,B,D,A,C,C,B,D,A,C
+852.0,Bilgisayar Mühendisi,C,B,C,C,C,C,C,B,D,A,C,C,B,D,A,C
+853.0,Bilgisayar Mühendisi,A,D,D,C,C,A,D,C,D,B,C,C,C,B,C,C
+854.0,Bilgisayar Mühendisi,A,B,D,C,E,A,D,D,D,B,C,B,B,B,C,D
+855.0,Bilgisayar Mühendisi,A,B,B,D,A,C,B,D,D,E,C,A,A,A,A,C
+856.0,Bilgisayar Mühendisi,A,B,B,D,A,C,C,B,D,A,C,C,A,C,A,C
+857.0,Bilgisayar Mühendisi,A,D,D,C,E,A,D,E,D,B,C,B,B,B,C,D
+858.0,Bilgisayar Mühendisi,A,B,D,C,E,A,D,D,D,B,C,B,B,B,C,D
+859.0,Bilgisayar Mühendisi,E,E,D,B,A,B,B,E,C,A,D,C,C,B,D,A
+860.0,Bilgisayar Mühendisi,A,C,C,A,C,C,B,D,B,B,C,C,D,C,D,C
+861.0,Bilgisayar Mühendisi,C,B,C,C,E,C,C,B,D,B,A,C,B,D,A,D
+862.0,Bilgisayar Mühendisi,E,A,D,B,B,E,B,D,D,D,E,C,A,A,D,B
+863.0,Bilgisayar Mühendisi,E,A,C,A,B,E,A,A,B,B,E,B,A,A,D,B
+864.0,Bilgisayar Mühendisi,A,B,C,D,C,B,B,C,D,C,D,C,B,A,B,C
+865.0,Bilgisayar Mühendisi,E,E,B,D,A,B,A,D,A,C,D,A,A,A,D,A
+866.0,Bilgisayar Mühendisi,A,E,C,C,C,B,B,C,D,C,C,C,B,B,C,C
+867.0,Bilgisayar Mühendisi,E,D,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+868.0,Bilgisayar Mühendisi,C,B,C,C,E,A,C,B,D,A,A,C,B,D,A,D
+869.0,Doktor,A,C,E,E,B,E,E,B,A,D,E,A,A,A,E,C
+870.0,Doktor,A,A,B,B,A,B,B,C,D,A,D,C,A,C,A,C
+871.0,Doktor,A,B,C,B,D,D,D,C,D,E,B,C,B,D,C,C
+872.0,Doktor,E,E,A,B,A,D,A,D,E,E,B,A,A,A,D,A
+873.0,Doktor,E,E,C,A,E,C,B,A,B,E,E,B,E,A,B,D
+874.0,Doktor,A,E,B,B,B,B,A,D,A,D,D,A,A,A,E,A
+875.0,Doktor,A,B,C,B,D,D,A,C,D,E,B,C,A,D,C,C
+876.0,Doktor,A,B,C,B,B,E,E,B,A,C,A,A,A,D,E,C
+877.0,Doktor,C,C,A,C,C,C,C,E,C,A,C,C,C,D,A,C
+878.0,Doktor,A,E,B,B,A,B,A,D,D,B,D,A,A,A,D,A
+879.0,Bilgisayar Mühendisi,A,B,B,C,C,D,B,C,D,A,A,C,C,B,D,C
+880.0,Bilgisayar Mühendisi,E,C,A,D,A,C,B,D,A,D,B,C,A,A,A,D
+881.0,Bilgisayar Mühendisi,A,B,B,C,C,D,B,C,D,B,D,C,C,B,A,C
+882.0,Bilgisayar Mühendisi,E,B,B,B,C,C,B,B,D,A,A,A,C,B,D,D
+883.0,Bilgisayar Mühendisi,A,B,B,C,C,D,B,A,D,A,A,D,C,A,A,C
+884.0,Bilgisayar Mühendisi,E,C,A,D,A,C,B,D,B,D,B,C,A,B,A,D
+885.0,Bilgisayar Mühendisi,A,B,C,B,C,C,B,B,D,A,A,D,C,B,D,C
+886.0,Bilgisayar Mühendisi,A,B,B,D,A,D,B,D,D,B,E,C,C,B,A,C
+887.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,A,D,C,D,C,A,A,A,B
+888.0,Bilgisayar Mühendisi,A,E,B,C,A,D,B,A,B,C,B,C,A,A,A,C
+889.0,Doktor,B,B,C,C,B,C,C,B,B,E,C,D,B,B,D,A
+890.0,Doktor,B,C,B,B,A,D,B,D,B,E,B,C,A,B,A,D
+891.0,Doktor,D,C,A,A,A,D,B,B,C,C,E,C,A,C,E,B
+892.0,Doktor,A,C,D,B,A,D,B,A,A,C,B,A,A,A,A,B
+893.0,Doktor,A,E,A,C,A,D,B,B,D,D,E,C,A,A,E,B
+894.0,Doktor,A,B,C,C,C,D,B,C,D,B,A,D,C,B,D,C
+895.0,Doktor,A,B,B,B,C,C,B,C,D,A,A,D,C,B,D,C
+896.0,Doktor,E,C,D,A,A,D,B,B,A,D,E,A,A,A,A,D
+897.0,Doktor,A,B,B,C,A,C,B,D,D,E,B,C,A,B,D,C
+898.0,Doktor,E,A,C,D,C,D,B,C,D,B,D,C,C,C,E,C
+899.0,Bilgisayar Mühendisi,A,D,A,C,E,C,D,E,D,E,C,A,B,D,C,C
+900.0,Bilgisayar Mühendisi,A,A,A,B,C,D,C,C,B,A,B,A,C,B,B,B
+901.0,Bilgisayar Mühendisi,E,C,A,E,E,E,A,C,D,E,C,E,E,A,E,E
+902.0,Bilgisayar Mühendisi,A,A,A,A,C,A,A,A,D,A,A,A,A,D,A,C
+903.0,Bilgisayar Mühendisi,A,C,A,C,E,C,C,C,D,E,D,C,C,A,D,D
+904.0,Bilgisayar Mühendisi,A,A,A,B,C,D,C,C,B,A,B,A,C,B,B,B
+905.0,Bilgisayar Mühendisi,A,A,A,A,A,A,A,A,D,A,A,C,A,D,A,A
+906.0,Bilgisayar Mühendisi,E,C,A,E,E,E,A,C,D,E,C,E,E,A,E,E
+907.0,Bilgisayar Mühendisi,D,D,D,D,D,D,D,D,D,E,D,D,D,D,D,D
+908.0,Bilgisayar Mühendisi,A,C,A,C,E,C,C,C,C,E,C,A,C,A,C,C
+909.0,Doktor,A,C,A,B,A,C,B,B,D,E,C,A,D,D,D,D
+910.0,Doktor,A,C,A,B,A,C,A,C,D,E,C,A,D,A,C,C
+911.0,Doktor,E,C,A,B,C,E,C,B,D,B,D,C,C,B,D,C
+912.0,Doktor,A,D,B,B,A,C,A,A,A,B,D,D,A,C,A,C
+913.0,Doktor,A,C,A,C,A,C,A,C,D,D,D,C,C,B,A,C
+914.0,Doktor,A,C,A,C,A,C,A,C,D,D,D,C,C,D,A,C
+915.0,Doktor,E,C,A,B,C,C,C,C,D,B,D,C,C,B,D,C
+916.0,Doktor,A,D,B,B,A,C,A,A,A,B,D,D,A,C,A,C
+917.0,Doktor,A,C,A,C,A,C,A,C,D,D,D,C,C,B,A,C
+918.0,Doktor,E,C,A,B,C,E,A,C,D,B,D,C,C,B,D,C
+919.0,Doktor,A,B,C,A,D,C,B,B,D,A,A,A,C,A,D,C
+920.0,Doktor,E,C,B,B,A,D,B,A,B,A,B,A,A,C,A,D
+921.0,Bilgisayar Mühendisi,E,D,A,D,E,D,C,D,B,E,C,C,B,B,A,A
+922.0,Doktor,A,E,B,C,A,C,B,B,D,C,A,D,A,A,D,B
+923.0,Doktor,A,E,B,B,A,D,B,A,A,A,D,A,A,A,E,D
+924.0,Bilgisayar Mühendisi,A,B,A,A,C,A,C,C,D,A,A,A,C,B,D,C
+925.0,Doktor,E,C,C,D,D,D,B,D,D,B,E,C,C,C,E,C
+926.0,Bilgisayar Mühendisi,C,A,B,D,A,D,A,C,B,B,D,D,C,D,A,D
+927.0,Doktor,D,B,B,A,E,C,B,B,E,E,A,B,B,B,D,B
+928.0,Bilgisayar Mühendisi,A,E,D,E,D,D,B,D,D,B,E,C,C,A,E,C
+929.0,Doktor,A,C,B,C,A,E,B,B,A,D,E,A,A,A,A,D
+930.0,Doktor,A,B,B,B,D,C,B,C,D,A,A,A,C,B,A,C
+931.0,Doktor,A,C,B,B,A,D,B,B,A,A,D,A,A,A,E,D
+932.0,Bilgisayar Mühendisi,E,A,D,D,E,D,C,A,D,B,E,C,B,B,A,C
+933.0,Doktor,A,B,C,B,C,A,B,C,D,A,A,C,C,A,D,C
+934.0,Doktor,D,E,B,A,A,D,B,B,D,A,E,A,A,C,E,D
+935.0,Doktor,A,B,C,C,D,A,B,C,D,A,A,A,C,B,D,C
+936.0,Bilgisayar Mühendisi,A,B,C,E,C,E,C,E,D,A,A,A,C,A,B,C
+937.0,Doktor,E,C,B,B,D,D,B,D,D,B,B,C,C,C,E,C
+938.0,Doktor,A,C,B,B,A,C,B,B,D,C,B,A,A,A,A,B
+939.0,Doktor,A,B,B,C,E,D,C,A,D,C,A,C,B,B,A,C
+940.0,Doktor,A,B,C,B,C,A,B,C,D,A,A,C,B,D,D,C
+941.0,Doktor,A,E,B,B,D,E,B,B,D,A,E,A,C,A,E,C
+942.0,Bilgisayar Mühendisi,E,C,A,C,E,D,C,D,B,E,C,C,B,A,A,D
+943.0,Doktor,A,E,B,B,D,C,B,B,D,A,A,D,C,A,E,C
+944.0,Doktor,B,B,B,A,E,C,B,B,E,E,A,B,B,B,D,B
+945.0,Bilgisayar Mühendisi,E,C,B,C,A,D,B,D,B,D,B,C,B,A,A,D
+946.0,Doktor,A,E,B,A,D,E,B,B,D,A,E,A,A,C,E,B
+947.0,Doktor,A,B,B,B,C,C,B,C,D,A,A,A,C,B,A,C
+948.0,Bilgisayar Mühendisi,E,C,A,D,E,D,C,D,B,E,C,C,B,A,A,D
+949.0,Doktor,E,C,B,B,A,D,A,B,D,C,D,C,A,C,E,D
+950.0,Doktor,A,C,D,C,C,D,B,A,D,B,E,C,C,D,E,C
+951.0,Bilgisayar Mühendisi,E,A,D,A,D,A,C,C,B,A,A,C,C,D,A,D
+952.0,Doktor,A,E,B,C,A,D,B,B,D,D,E,A,A,A,E,D
+953.0,Doktor,A,E,B,C,A,E,B,B,A,D,A,A,C,A,A,D
+954.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,A,A,A,C,B,D,C
+955.0,Doktor,B,E,B,C,E,C,B,A,B,E,B,C,B,B,A,D
+956.0,Doktor,E,C,D,B,D,D,B,D,D,B,E,C,C,C,E,C
+957.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,A,D,C,D,A,A,A,A,B
+958.0,Doktor,B,C,A,A,A,C,D,B,E,E,D,B,A,C,E,B
+959.0,Doktor,D,D,B,B,E,D,B,B,E,E,B,B,B,B,A,D
+960.0,Bilgisayar Mühendisi,A,B,C,B,D,A,C,C,D,A,A,A,C,A,B,C
+961.0,Doktor,A,A,D,A,D,E,B,A,D,A,D,A,C,A,E,C
+962.0,Doktor,A,B,B,B,A,C,B,C,D,C,B,D,C,B,A,C
+963.0,Bilgisayar Mühendisi,E,C,B,C,A,D,A,D,A,D,B,C,B,C,A,D
+964.0,Doktor,E,C,C,B,D,D,B,D,D,B,B,C,C,C,E,C
+965.0,Doktor,A,E,B,A,A,C,B,B,D,A,D,A,A,A,E,B
+966.0,Bilgisayar Mühendisi,E,A,D,D,E,D,C,D,D,B,E,C,B,B,A,C
+967.0,Doktor,D,C,B,A,A,D,A,B,C,A,E,C,A,C,E,D
+968.0,Doktor,B,B,B,B,D,C,B,B,D,A,A,A,C,B,A,C
+969.0,Bilgisayar Mühendisi,A,A,B,C,D,D,C,A,D,B,B,D,B,B,D,C
+970.0,Doktor,A,E,C,B,D,C,B,B,D,B,E,C,C,A,D,C
+971.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,A,A,D,C,D,D,C
+972.0,Doktor,A,B,C,B,D,A,B,C,D,B,A,D,C,D,D,C
+973.0,Doktor,A,E,B,C,A,E,B,B,A,C,B,A,A,A,A,D
+974.0,Bilgisayar Mühendisi,A,A,A,E,B,E,C,E,D,A,C,C,B,B,C,C
+975.0,Doktor,A,B,C,B,C,A,B,C,D,A,A,C,C,D,D,C
+976.0,Doktor,E,E,B,B,A,D,A,A,A,A,D,A,A,C,E,D
+977.0,Bilgisayar Mühendisi,A,B,B,E,E,D,C,A,D,C,A,C,B,B,A,C
+978.0,Doktor,E,C,E,B,A,D,A,A,B,C,B,D,A,D,A,D
+979.0,Bilgisayar Mühendisi,A,B,B,D,D,C,B,C,D,B,A,D,B,B,D,C
+980.0,Bilgisayar Mühendisi,E,C,B,C,A,D,B,D,B,D,B,C,B,A,A,D
+981.0,Doktor,A,E,A,A,A,C,B,B,D,C,E,C,A,A,E,B
+982.0,Bilgisayar Mühendisi,A,E,D,B,A,D,B,A,B,D,B,C,B,A,E,D
+983.0,Doktor,A,E,B,A,A,E,B,B,A,D,E,A,A,A,E,D
+984.0,Doktor,E,E,B,A,D,C,B,B,D,C,E,C,A,C,D,B
+985.0,Bilgisayar Mühendisi,E,D,A,C,E,D,C,D,D,E,C,C,B,A,A,B
+986.0,Doktor,A,C,B,B,A,D,B,B,D,A,B,A,A,A,E,D
+987.0,Doktor,A,E,B,A,D,E,B,B,D,A,E,A,A,C,E,B
+988.0,Bilgisayar Mühendisi,E,D,A,E,E,C,C,D,D,E,C,C,B,B,A,B
+989.0,Doktor,A,C,B,C,A,C,B,B,A,C,B,D,C,A,D,B
+990.0,Doktor,A,C,B,C,D,C,B,B,D,A,B,A,C,A,D,B
+991.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,A,D,C,D,A,A,A,A,B
+992.0,Bilgisayar Mühendisi,A,A,B,B,A,D,B,A,B,A,B,A,C,B,A,D
+993.0,Doktor,B,C,B,C,D,C,B,B,D,E,B,D,C,A,D,C
+994.0,Bilgisayar Mühendisi,E,A,D,D,D,D,C,D,D,B,E,C,B,B,A,C
+995.0,Doktor,A,E,B,B,D,E,B,B,D,B,E,A,C,D,E,C
+996.0,Doktor,A,C,E,A,A,D,B,B,A,C,B,C,A,D,E,D
+997.0,Bilgisayar Mühendisi,A,B,C,E,C,E,C,C,D,A,A,D,C,A,B,C
+998.0,Doktor,D,C,B,A,A,D,A,B,D,A,D,C,A,C,E,D
+999.0,Bilgisayar Mühendisi,E,A,D,D,C,D,B,C,D,B,E,C,C,D,E,C
+1000.0,Bilgisayar Mühendisi,E,E,B,D,D,D,C,D,D,B,E,D,B,B,A,D
+1001.0,Doktor,A,C,A,C,A,E,C,A,A,C,B,D,B,A,A,A
+1002.0,Doktor,D,E,B,A,A,D,B,B,D,A,E,A,A,C,E,B
+1003.0,Bilgisayar Mühendisi,E,A,A,D,B,D,C,D,D,E,C,C,B,B,A,C
+1004.0,Doktor,E,A,D,D,C,D,B,C,D,B,E,C,C,D,E,C
+1005.0,Doktor,B,B,A,A,E,C,B,B,D,E,D,A,A,A,D,B
+1006.0,Bilgisayar Mühendisi,E,D,A,D,E,D,C,A,B,E,B,C,B,B,A,A
+1007.0,Bilgisayar Mühendisi,A,B,D,B,C,A,B,C,D,B,A,C,C,D,D,C
+1008.0,Bilgisayar Mühendisi,E,C,A,C,A,D,C,E,D,E,D,C,B,D,A,B
+1009.0,Doktor,D,C,A,A,A,D,D,B,A,D,E,C,A,C,E,D
+1010.0,Doktor,A,E,B,B,A,D,B,B,A,A,D,A,A,A,E,D
+1011.0,Doktor,A,E,B,C,A,E,B,A,A,D,E,A,B,A,A,D
+1012.0,Bilgisayar Mühendisi,E,A,D,D,C,D,C,D,D,B,E,C,C,B,E,C
+1013.0,Doktor,A,B,C,A,D,C,B,C,D,A,A,A,C,A,D,C
+1014.0,Doktor,B,B,B,A,E,C,B,B,E,E,A,B,B,B,D,B
+1015.0,Doktor,A,E,B,C,A,E,B,B,A,D,E,A,A,A,E,D
+1016.0,Doktor,A,B,C,B,D,C,B,C,D,A,A,A,C,A,D,C
+1017.0,Doktor,B,B,B,C,E,C,B,B,B,E,B,D,B,B,A,D
+1018.0,Doktor,A,E,B,B,D,E,B,B,D,A,E,A,C,A,E,C
+1019.0,Doktor,A,E,B,B,D,C,B,B,D,A,A,D,C,A,E,C
+1020.0,Doktor,E,C,D,B,D,D,B,D,D,B,E,C,C,C,E,C
+1021.0,Doktor,A,E,B,B,D,C,B,B,D,C,B,A,C,B,A,B
+1022.0,Doktor,A,E,C,B,D,C,B,B,D,B,E,C,C,A,D,C
+1023.0,Doktor,E,E,B,A,D,C,B,B,D,C,E,C,A,C,D,B
+1024.0,Doktor,A,E,B,B,D,D,B,B,D,B,D,C,C,A,E,D
+1025.0,Doktor,A,C,B,B,A,D,C,B,A,D,D,C,A,C,E,D
+1026.0,Doktor,B,E,B,C,E,C,B,A,B,E,B,C,B,B,A,D
+1027.0,Doktor,A,B,C,B,C,A,B,C,D,A,A,C,C,D,D,C
+1028.0,Doktor,D,E,B,A,A,D,B,B,D,A,E,A,A,C,E,B
+1029.0,Doktor,A,C,D,C,C,D,B,A,D,B,E,C,C,D,E,C
+1030.0,Doktor,E,C,B,B,D,D,B,D,D,B,B,C,C,C,E,C
+1031.0,Doktor,A,A,A,E,A,C,B,A,D,C,A,A,A,A,B,B
+1032.0,Doktor,A,A,D,A,D,E,B,A,D,A,D,A,C,A,E,C
+1033.0,Doktor,E,C,B,B,A,D,A,B,D,D,D,C,A,C,E,D
+1034.0,Doktor,D,C,B,A,A,D,A,B,D,A,E,C,A,C,E,D
+1035.0,Doktor,A,C,B,C,D,C,B,B,D,A,B,A,C,A,D,B
+1036.0,Doktor,A,E,A,A,D,C,B,B,D,C,E,C,A,A,D,B
+1037.0,Doktor,A,E,B,C,A,D,B,B,D,D,E,A,A,A,E,D
+1038.0,Doktor,A,C,B,C,A,C,B,B,A,C,B,D,C,A,D,B
+1039.0,Doktor,B,B,B,D,D,C,B,C,D,B,A,D,B,B,D,C
+1040.0,Doktor,A,B,C,B,D,A,B,C,D,B,A,D,C,D,D,C
+1041.0,Doktor,A,A,A,E,C,C,B,A,D,B,A,C,C,A,B,C
+1042.0,Doktor,A,E,B,B,A,D,B,B,D,A,D,A,A,A,E,B
+1043.0,Doktor,A,B,B,B,C,C,B,C,D,A,A,A,C,B,A,C
+1044.0,Doktor,A,B,C,C,D,A,B,C,D,A,A,A,C,B,D,C
+1045.0,Doktor,A,A,B,B,A,D,B,A,B,A,B,A,C,B,A,D
+1046.0,Doktor,A,E,B,A,A,E,B,B,A,D,E,A,A,A,E,D
+1047.0,Doktor,A,E,B,B,D,E,B,B,D,B,E,A,C,D,E,C
+1048.0,Doktor,B,D,A,B,E,C,B,A,D,C,D,A,A,A,D,B
+1049.0,Doktor,A,B,D,B,D,D,B,C,D,B,A,C,C,D,E,C
+1050.0,Doktor,A,A,B,B,A,D,B,A,B,C,B,A,A,A,E,D
+1051.0,Doktor,A,C,B,B,A,D,B,B,A,D,E,A,A,A,E,D
+1052.0,Doktor,A,B,C,C,D,C,B,C,D,B,A,D,C,B,D,C
+1053.0,Doktor,B,B,B,A,E,C,B,B,E,E,A,B,B,B,D,B
+1054.0,Doktor,E,A,A,D,D,D,B,D,D,B,E,C,B,B,E,C
+1055.0,Bilgisayar Mühendisi,E,C,A,D,E,D,C,D,B,E,C,C,B,A,A,D
+1056.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,B,A,D,C,B,D,C
+1057.0,Bilgisayar Mühendisi,E,D,A,C,E,D,C,D,D,E,C,C,B,A,A,B
+1058.0,Bilgisayar Mühendisi,A,B,C,E,C,E,C,E,D,A,A,A,C,A,B,C
+1059.0,Bilgisayar Mühendisi,A,B,B,E,E,D,C,A,D,C,A,C,B,B,A,C
+1060.0,Bilgisayar Mühendisi,A,B,B,B,C,C,C,A,D,A,A,D,C,B,A,C
+1061.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,A,A,D,C,D,D,C
+1062.0,Bilgisayar Mühendisi,A,E,D,B,A,D,B,A,D,D,B,C,B,A,E,C
+1063.0,Bilgisayar Mühendisi,E,A,D,E,C,D,C,A,D,B,A,D,C,B,B,C
+1064.0,Bilgisayar Mühendisi,E,A,A,D,B,D,C,D,D,E,C,C,B,B,A,C
+1065.0,Bilgisayar Mühendisi,A,B,B,B,D,A,C,C,D,A,A,A,C,B,D,C
+1066.0,Bilgisayar Mühendisi,E,C,D,D,D,D,B,D,D,B,E,C,B,B,E,C
+1067.0,Bilgisayar Mühendisi,E,A,D,D,D,D,C,D,D,B,E,C,B,B,A,C
+1068.0,Bilgisayar Mühendisi,A,E,A,A,A,D,D,E,D,A,D,C,A,C,E,B
+1069.0,Bilgisayar Mühendisi,E,A,D,A,D,A,C,C,B,A,A,C,C,D,A,D
+1070.0,Bilgisayar Mühendisi,A,B,C,B,D,A,C,C,D,B,A,D,C,B,D,C
+1071.0,Bilgisayar Mühendisi,E,C,B,B,A,D,B,D,A,D,D,C,A,C,E,D
+1072.0,Bilgisayar Mühendisi,E,C,B,C,A,D,A,D,A,D,B,C,B,C,A,D
+1073.0,Bilgisayar Mühendisi,A,C,A,E,A,C,C,A,D,D,D,C,B,A,A,B
+1074.0,Bilgisayar Mühendisi,D,C,A,C,A,D,B,A,C,D,D,A,A,A,E,B
+1075.0,Bilgisayar Mühendisi,A,A,A,E,A,E,B,A,D,C,A,A,A,A,B,B
+1076.0,Bilgisayar Mühendisi,A,A,B,D,D,D,C,D,D,B,B,D,B,B,D,C
+1077.0,Bilgisayar Mühendisi,A,B,C,B,C,A,C,C,D,A,A,D,C,B,D,C
+1078.0,Doktor,A,E,B,C,A,E,B,A,A,D,E,A,B,A,A,D
+1079.0,Doktor,A,A,D,B,D,C,B,A,D,A,A,A,C,A,B,C
+1080.0,Doktor,A,B,D,B,D,C,B,C,D,B,A,D,C,B,D,C
+1081.0,Doktor,A,C,E,A,A,D,B,B,A,C,B,C,A,D,E,D
+1082.0,Doktor,E,D,A,E,E,D,C,A,D,E,B,C,B,B,A,A
+1083.0,Doktor,A,E,B,A,A,E,B,B,A,D,E,A,A,A,E,D
+1084.0,Doktor,A,B,B,B,D,C,B,C,D,C,A,A,C,B,D,B
+1085.0,Doktor,A,E,B,C,A,E,B,B,A,D,A,A,C,A,A,D
+1086.0,Doktor,A,B,C,A,C,A,C,C,D,A,A,C,C,D,E,C
+1087.0,Doktor,A,E,B,B,D,D,B,D,D,B,D,C,A,C,E,D
+1088.0,Bilgisayar Mühendisi,A,C,C,A,A,D,B,D,D,A,D,C,A,A,D,C
+1089.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1090.0,Doktor,A,C,B,C,A,D,B,D,D,B,B,C,A,B,A,C
+1091.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1092.0,Bilgisayar Mühendisi,A,C,A,E,A,D,B,D,D,C,D,C,A,A,A,C
+1093.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,A,D,B,D,C,A,B,A,C
+1094.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1095.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,C,D,C,A,B,A,C
+1096.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,B,E,E,C,B,B,C,D
+1097.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,A,D,C,D,C,C,A,A,C
+1098.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,B,D,C,A,A,A,C
+1099.0,Bilgisayar Mühendisi,A,B,D,C,A,D,B,A,D,B,D,C,C,A,A,C
+1100.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,D,B,E,C,A,A,A,C
+1101.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,E,D,C,C,B,D,C
+1102.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,C,D,C,C,A,A,C
+1103.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,D,D,B,D,C,A,A,A,C
+1104.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1105.0,Bilgisayar Mühendisi,A,C,C,C,A,D,B,D,D,B,E,C,A,C,A,D
+1106.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,E,D,C,C,B,A,C
+1107.0,Bilgisayar Mühendisi,A,B,A,C,A,D,B,D,D,C,D,C,C,A,A,C
+1108.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,B,E,D,C,B,B,D,C
+1109.0,Bilgisayar Mühendisi,A,C,A,C,E,D,B,D,D,B,D,C,A,A,A,C
+1110.0,Bilgisayar Mühendisi,A,C,C,C,A,D,B,A,D,B,E,C,C,A,C,D
+1111.0,Bilgisayar Mühendisi,A,C,B,D,A,D,B,D,B,E,E,C,B,B,A,D
+1112.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+1113.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,D,C,C,A,A,C
+1114.0,Bilgisayar Mühendisi,A,C,D,C,E,D,B,A,D,B,D,C,A,B,C,C
+1115.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,D,C,E,C,A,C,A,C
+1116.0,Doktor,A,C,A,C,A,D,B,C,D,C,E,C,A,C,A,C
+1117.0,Doktor,A,B,B,C,A,D,B,D,D,B,D,D,B,B,A,C
+1118.0,Doktor,A,C,C,C,A,D,B,A,A,B,E,C,B,A,A,D
+1119.0,Doktor,A,C,B,C,A,D,B,D,D,C,E,C,A,A,A,C
+1120.0,Doktor,A,C,C,C,A,D,B,D,D,B,E,C,B,B,A,C
+1121.0,Doktor,A,C,B,C,A,D,B,D,D,C,D,C,C,A,A,C
+1122.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,B,A,C
+1123.0,Doktor,A,C,B,C,E,D,B,A,D,C,D,C,A,A,A,C
+1124.0,Doktor,A,C,C,D,A,D,B,D,D,B,E,C,A,C,A,C
+1125.0,Doktor,A,C,A,C,E,C,B,A,D,B,D,C,A,A,A,C
+1126.0,Doktor,A,C,C,C,A,D,B,B,A,B,E,C,C,A,A,D
+1127.0,Doktor,A,C,B,C,A,D,B,D,D,C,E,C,A,A,A,C
+1128.0,Doktor,A,C,A,E,A,D,B,D,D,C,D,C,A,A,A,C
+1129.0,Doktor,A,B,A,C,A,D,B,D,D,E,D,C,E,B,D,C
+1130.0,Doktor,A,C,B,C,A,D,B,B,D,C,E,C,A,C,A,C
+1131.0,Doktor,A,C,B,C,A,D,B,D,D,B,E,C,A,B,A,C
+1132.0,Doktor,A,C,A,C,A,D,B,A,D,C,D,C,A,A,A,C
+1133.0,Doktor,A,C,C,C,A,D,B,B,D,B,E,C,A,C,A,C
+1134.0,Doktor,A,B,B,C,A,D,B,A,D,B,D,C,C,A,A,C
+1135.0,Doktor,A,C,C,C,A,D,B,D,D,B,E,C,A,A,A,C
+1136.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,B,A,C
+1137.0,Doktor,A,B,B,C,A,D,B,A,D,C,D,C,C,A,A,C
+1138.0,Doktor,A,C,C,C,A,D,B,C,D,C,E,C,A,C,A,C
+1139.0,Doktor,A,C,A,E,A,D,B,D,D,C,E,C,A,A,A,C
+1140.0,Doktor,A,C,A,C,A,D,B,B,D,C,E,C,A,B,A,C
+1141.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1142.0,Bilgisayar Mühendisi,A,C,C,C,A,D,B,A,B,E,E,C,B,A,A,D
+1143.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,D,D,C,D,C,C,A,A,C
+1144.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,B,D,C,A,A,A,C
+1145.0,Bilgisayar Mühendisi,A,C,A,E,A,D,B,D,D,B,D,C,C,A,A,C
+1146.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,E,C,B,B,A,D
+1147.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,B,D,C,A,A,A,C
+1148.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,D,C,A,A,A,C
+1149.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,B,D,C,C,B,A,C
+1150.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,C,D,C,C,B,A,C
+1151.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,B,D,C,C,A,A,C
+1152.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,B,E,D,C,B,B,D,C
+1153.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,E,D,C,C,B,D,C
+1154.0,Bilgisayar Mühendisi,A,C,C,C,E,D,B,A,B,E,E,C,B,B,A,D
+1155.0,Bilgisayar Mühendisi,A,C,B,D,A,D,B,D,D,C,D,C,C,B,A,C
+1156.0,Doktor,A,C,C,C,A,D,B,B,D,C,E,C,A,C,A,C
+1157.0,Doktor,A,C,A,C,A,D,B,D,D,B,E,C,A,B,A,C
+1158.0,Doktor,A,C,C,C,A,D,B,B,A,B,E,C,A,B,A,D
+1159.0,Doktor,A,C,C,C,A,D,B,B,A,B,E,C,C,B,A,D
+1160.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,B,A,C
+1161.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,A,A,C
+1162.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,B,A,C
+1163.0,Doktor,A,C,B,C,A,D,B,D,D,B,E,C,A,A,A,C
+1164.0,Doktor,A,C,C,C,A,D,B,D,D,B,E,C,A,C,A,C
+1165.0,Doktor,A,E,C,C,A,D,B,A,A,B,E,C,B,A,A,D
+1166.0,Doktor,A,C,B,C,A,D,B,D,D,C,E,C,A,A,A,C
+1167.0,Doktor,A,C,A,C,A,D,B,D,D,C,E,C,A,B,A,C
+1168.0,Doktor,A,C,B,E,A,D,B,D,D,C,D,C,C,A,A,C
+1169.0,Doktor,A,C,B,C,A,D,B,A,D,B,D,C,C,A,A,C
+1170.0,Doktor,A,E,A,C,A,D,B,B,D,C,E,C,A,C,A,C
+1171.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1172.0,Bilgisayar Mühendisi,A,C,B,D,A,D,B,D,D,E,D,C,C,B,A,C
+1173.0,Bilgisayar Mühendisi,A,B,A,E,A,D,B,A,D,C,D,C,A,A,A,C
+1174.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,D,D,C,D,C,C,B,A,C
+1175.0,Bilgisayar Mühendisi,A,C,C,C,A,D,B,D,B,E,E,C,B,B,A,D
+1176.0,Doktor,A,C,B,C,A,D,B,C,D,C,E,C,A,C,A,C
+1177.0,Doktor,A,B,B,C,A,D,B,B,D,C,D,D,B,A,A,C
+1178.0,Doktor,A,C,A,C,E,D,B,D,D,C,D,C,A,B,A,C
+1179.0,Doktor,A,C,A,C,A,D,B,C,D,C,E,C,C,C,A,C
+1180.0,Doktor,A,C,B,C,A,D,B,B,D,C,D,C,A,A,A,C
+1181.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,B,D,C,B,B,D,C
+1182.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,D,C,A,B,C,C
+1183.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,C,C,A,A,C
+1184.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,C,C,A,A,C
+1185.0,Bilgisayar Mühendisi,A,C,B,C,E,D,B,D,D,C,D,C,A,A,A,C
+1186.0,Doktor,A,C,C,C,A,D,B,C,D,C,E,C,A,C,A,C
+1187.0,Doktor,A,C,B,C,A,D,B,B,D,C,D,C,A,C,A,C
+1188.0,Doktor,A,C,B,C,A,D,B,D,D,B,D,C,A,B,A,C
+1189.0,Doktor,A,C,A,C,A,D,B,C,D,C,E,C,A,C,A,C
+1190.0,Doktor,A,C,B,C,A,D,B,D,D,B,D,C,A,A,A,C
+1191.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1192.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1193.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1194.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1195.0,Bilgisayar Mühendisi,A,D,C,A,D,C,C,D,D,B,D,C,A,B,D,C
+1196.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1197.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1198.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1199.0,Bilgisayar Mühendisi,E,C,D,B,C,D,D,C,B,C,D,C,A,B,D,A
+1200.0,Bilgisayar Mühendisi,E,C,D,B,C,C,D,D,B,C,D,C,A,B,D,C
+1201.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1202.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1203.0,Bilgisayar Mühendisi,A,D,C,A,D,C,C,D,D,B,D,C,A,B,D,C
+1204.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1205.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1206.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1207.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1208.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1209.0,Bilgisayar Mühendisi,A,D,D,D,D,C,C,D,D,C,D,C,C,C,D,C
+1210.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1211.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1212.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1213.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1214.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1215.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1216.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1217.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1218.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1219.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,A,A,C
+1220.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1221.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1222.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1223.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1224.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1225.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1226.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1227.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1228.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1229.0,Doktor,A,C,C,A,C,B,A,D,D,B,D,C,A,A,A,C
+1230.0,Doktor,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+1231.0,Doktor,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+1232.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1233.0,Doktor,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+1234.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1235.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+1236.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1237.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1238.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1239.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1240.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1241.0,Doktor,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+1242.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+1243.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+1244.0,Doktor,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+1245.0,Doktor,A,B,A,E,C,D,B,A,D,B,B,C,A,E,E,B
+1246.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+1247.0,Doktor,A,C,C,A,A,C,B,E,D,E,A,D,A,A,D,B
+1248.0,Doktor,E,C,D,B,D,D,B,A,B,B,B,C,A,C,A,D
+1249.0,Bilgisayar Mühendisi,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+1250.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1251.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1252.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1253.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1254.0,Bilgisayar Mühendisi,A,D,D,D,D,C,C,D,D,C,D,C,C,C,D,C
+1255.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,C,D,C,A,B,C,A
+1256.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1257.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1258.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1259.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1260.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1261.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1262.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1263.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1264.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1265.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1266.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1267.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1268.0,Doktor,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+1269.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1270.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1271.0,Doktor,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+1272.0,Doktor,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+1273.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1274.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+1275.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1276.0,Bilgisayar Mühendisi,A,D,C,A,D,C,C,D,D,B,D,C,A,B,D,C
+1277.0,Bilgisayar Mühendisi,E,C,C,A,C,D,D,C,B,B,D,C,A,B,C,A
+1278.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1279.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1280.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1281.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1282.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1283.0,Bilgisayar Mühendisi,A,D,D,D,D,D,C,D,D,C,D,C,C,C,D,C
+1284.0,Bilgisayar Mühendisi,A,D,C,A,C,C,C,D,D,B,D,C,A,B,D,C
+1285.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1286.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1287.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1288.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1289.0,Doktor,A,C,C,A,C,B,A,D,D,B,D,C,A,A,A,C
+1290.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1291.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1292.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1293.0,Doktor,A,C,C,A,C,B,A,D,D,B,D,C,A,A,A,C
+1294.0,Bilgisayar Mühendisi,B,B,C,C,D,B,B,E,A,C,A,C,B,B,B,A
+1295.0,Bilgisayar Mühendisi,A,C,C,A,C,C,D,B,C,D,B,B,A,D,A,A
+1296.0,Bilgisayar Mühendisi,B,B,C,A,D,C,E,A,E,A,B,A,A,A,A,B
+1297.0,Bilgisayar Mühendisi,D,A,B,B,A,B,B,A,A,A,D,D,E,A,B,E
+1298.0,Bilgisayar Mühendisi,C,A,A,A,A,A,C,D,A,C,A,C,A,B,A,A
+1299.0,Bilgisayar Mühendisi,A,C,E,D,C,D,B,A,B,C,A,B,A,D,B,C
+1300.0,Bilgisayar Mühendisi,B,C,C,D,B,A,A,A,A,C,A,A,A,A,C,B
+1301.0,Bilgisayar Mühendisi,A,C,D,B,D,B,C,B,E,C,D,B,A,D,A,E
+1302.0,Bilgisayar Mühendisi,C,B,A,B,E,C,B,C,C,C,D,A,B,E,E,C
+1303.0,Bilgisayar Mühendisi,C,A,A,C,C,C,A,B,C,A,B,A,A,C,E,A
+1304.0,Bilgisayar Mühendisi,B,C,C,C,C,C,B,E,B,C,C,D,A,A,D,C
+1305.0,Bilgisayar Mühendisi,A,C,D,B,D,B,B,B,C,C,C,C,D,D,C,B
+1306.0,Bilgisayar Mühendisi,B,A,D,C,C,A,A,A,D,C,D,C,E,B,D,C
+1307.0,Bilgisayar Mühendisi,E,D,E,B,B,A,C,B,E,A,C,C,A,A,C,A
+1308.0,Bilgisayar Mühendisi,C,B,B,C,D,D,B,C,A,A,C,B,A,A,A,C
+1309.0,Bilgisayar Mühendisi,C,B,E,D,C,B,C,B,C,D,B,C,A,C,B,B
+1310.0,Bilgisayar Mühendisi,D,B,B,B,B,C,A,A,D,D,B,B,A,A,A,A
+1311.0,Bilgisayar Mühendisi,B,C,C,A,C,A,D,E,A,C,C,B,E,B,D,D
+1312.0,Bilgisayar Mühendisi,A,C,D,A,D,B,B,A,E,D,B,A,A,B,A,D
+1313.0,Bilgisayar Mühendisi,C,A,B,B,A,A,B,A,B,B,C,A,E,C,B,D
+1314.0,Bilgisayar Mühendisi,E,E,D,C,A,B,D,E,E,D,B,A,B,E,B,C
+1315.0,Bilgisayar Mühendisi,A,E,A,C,C,C,D,C,B,D,C,C,E,B,B,A
+1316.0,Bilgisayar Mühendisi,D,C,B,C,D,B,D,D,E,B,E,C,E,C,C,B
+1317.0,Bilgisayar Mühendisi,C,D,D,B,A,A,C,B,C,A,C,B,B,B,C,C
+1318.0,Bilgisayar Mühendisi,A,C,C,C,B,D,A,B,E,D,E,C,A,A,B,C
+1319.0,Doktor,D,C,C,B,D,B,E,E,D,A,C,A,E,C,D,C
+1320.0,Doktor,A,E,C,D,E,E,E,E,A,C,D,C,A,D,D,B
+1321.0,Doktor,D,D,D,E,C,D,D,D,E,E,E,D,D,C,C,D
+1322.0,Doktor,E,C,D,A,C,B,C,C,B,A,C,D,C,C,C,D
+1323.0,Doktor,E,B,B,C,E,E,C,C,E,D,C,D,C,C,D,C
+1324.0,Doktor,C,E,A,D,C,B,E,C,C,B,D,A,B,D,A,E
+1325.0,Doktor,C,D,B,C,B,C,C,D,D,C,C,D,D,C,B,B
+1326.0,Doktor,C,D,D,D,C,C,D,A,D,E,D,C,E,B,E,E
+1327.0,Doktor,A,E,E,D,E,C,E,E,E,C,B,E,D,E,D,D
+1328.0,Doktor,E,D,C,A,C,E,C,E,B,C,E,C,D,C,B,D
+1329.0,Doktor,B,B,C,E,B,E,B,E,B,E,C,C,C,C,B,B
+1330.0,Doktor,C,E,D,C,E,C,D,D,C,D,E,D,E,D,C,E
+1331.0,Doktor,B,E,E,D,C,D,E,C,E,B,D,E,D,A,E,C
+1332.0,Doktor,E,E,D,A,B,D,B,D,E,B,E,E,E,B,A,B
+1333.0,Doktor,A,B,A,C,B,D,A,B,D,D,B,E,B,B,C,C
+1334.0,Doktor,E,A,B,D,D,E,C,E,C,A,D,B,D,B,E,A
+1335.0,Doktor,E,B,E,B,C,D,E,D,C,C,B,E,C,E,B,B
+1336.0,Doktor,E,C,B,B,B,B,B,E,C,E,C,E,D,C,D,B
+1337.0,Doktor,D,A,C,E,E,D,C,C,D,C,C,B,C,E,E,C
+1338.0,Doktor,D,D,B,E,C,E,C,E,D,D,B,A,E,C,C,B
+1339.0,Doktor,B,A,A,C,C,D,C,D,B,E,D,D,C,B,A,D
+1340.0,Doktor,E,D,A,A,B,E,D,C,D,E,A,E,B,E,E,E
+1341.0,Doktor,C,B,C,C,E,E,D,E,C,B,B,A,E,D,C,B
+1342.0,Doktor,C,A,D,B,A,D,D,D,C,E,C,E,A,E,E,B
+1343.0,Doktor,D,C,A,C,B,C,E,A,E,C,B,E,A,A,B,D
+1344.0,Bilgisayar Mühendisi,C,C,C,C,B,B,C,C,C,D,E,C,A,C,D,D
+1345.0,Bilgisayar Mühendisi,D,B,D,A,D,B,A,D,C,B,C,E,C,D,A,E
+1346.0,Bilgisayar Mühendisi,C,D,A,E,A,E,A,B,E,D,A,B,C,E,A,A
+1347.0,Bilgisayar Mühendisi,A,A,C,B,C,E,B,A,E,C,A,A,B,C,B,E
+1348.0,Bilgisayar Mühendisi,D,C,C,D,C,C,A,B,B,D,D,A,A,A,C,A
+1349.0,Bilgisayar Mühendisi,D,C,A,D,E,B,B,C,D,B,A,D,C,B,E,B
+1350.0,Bilgisayar Mühendisi,D,B,D,B,B,A,A,B,A,C,A,A,C,E,C,B
+1351.0,Bilgisayar Mühendisi,C,C,C,A,C,A,B,C,B,B,B,C,B,C,D,C
+1352.0,Bilgisayar Mühendisi,B,D,D,C,B,C,D,B,C,B,B,A,A,C,D,A
+1353.0,Bilgisayar Mühendisi,C,B,B,A,D,B,C,B,B,D,B,C,B,C,C,D
+1354.0,Bilgisayar Mühendisi,C,C,A,C,B,C,B,C,B,B,D,E,B,B,C,C
+1355.0,Bilgisayar Mühendisi,B,B,B,C,A,B,E,A,D,E,A,A,A,B,A,B
+1356.0,Bilgisayar Mühendisi,C,C,A,B,B,A,D,D,D,B,B,B,B,C,E,C
+1357.0,Bilgisayar Mühendisi,B,C,D,D,B,E,D,D,D,D,B,A,D,B,B,E
+1358.0,Bilgisayar Mühendisi,A,B,D,A,C,A,A,B,C,B,A,C,C,C,C,D
+1359.0,Doktor,E,E,D,D,E,E,C,C,D,D,D,B,C,B,B,D
+1360.0,Doktor,D,C,D,C,B,D,C,B,E,C,A,E,B,E,B,B
+1361.0,Doktor,D,D,C,E,E,D,D,E,C,B,D,C,E,E,D,A
+1362.0,Doktor,E,E,D,E,C,D,E,A,C,E,C,A,E,C,E,E
+1363.0,Doktor,D,C,C,B,B,B,C,C,D,D,C,A,C,E,A,C
+1364.0,Doktor,C,A,D,E,E,E,D,B,C,C,C,B,E,A,B,E
+1365.0,Doktor,C,C,D,D,E,A,B,E,D,D,D,B,C,C,E,D
+1366.0,Doktor,B,C,D,C,C,E,B,D,E,C,C,E,C,D,D,C
+1367.0,Doktor,D,D,A,C,C,D,E,B,B,E,C,E,A,C,C,D
+1368.0,Doktor,D,D,B,A,D,D,D,A,B,C,E,C,B,C,E,D
+1369.0,Doktor,C,B,B,D,A,D,D,D,C,D,D,E,B,D,C,D
+1370.0,Doktor,B,E,C,B,D,D,D,E,D,E,E,E,C,E,D,C
+1371.0,Doktor,D,C,E,C,E,B,C,C,E,C,C,A,C,E,B,E
+1372.0,Doktor,E,E,C,B,E,C,A,B,A,B,C,A,C,D,C,E
+1373.0,Doktor,C,E,C,E,D,E,D,D,D,B,A,B,C,E,E,B
+1374.0,Bilgisayar Mühendisi,C,C,C,B,A,C,A,D,C,C,E,D,C,B,B,A
+1375.0,Bilgisayar Mühendisi,C,D,E,B,C,B,D,A,B,D,D,D,D,C,A,D
+1376.0,Bilgisayar Mühendisi,C,B,D,A,C,B,C,B,A,C,C,B,D,B,A,D
+1377.0,Bilgisayar Mühendisi,D,A,B,A,B,B,C,A,A,B,B,B,D,A,A,B
+1378.0,Bilgisayar Mühendisi,B,C,D,D,B,B,B,C,B,B,A,A,A,C,D,C
+1379.0,Doktor,E,B,B,C,E,B,E,E,C,E,E,D,C,B,D,E
+1380.0,Doktor,B,D,D,D,B,A,E,E,D,C,C,D,D,A,A,E
+1381.0,Doktor,B,A,E,E,D,B,A,E,B,C,C,D,D,D,E,E
+1382.0,Doktor,A,B,A,D,D,C,C,E,E,B,C,C,E,D,A,A
+1383.0,Doktor,C,E,D,B,C,E,C,A,B,B,C,B,D,E,D,D
+1384.0,Bilgisayar Mühendisi,B,B,A,C,B,D,B,C,B,A,A,B,E,D,A,A
+1385.0,Bilgisayar Mühendisi,D,C,D,B,A,A,C,C,D,D,C,A,B,C,E,D
+1386.0,Bilgisayar Mühendisi,C,B,B,C,D,D,D,A,C,E,A,C,A,B,E,C
+1387.0,Bilgisayar Mühendisi,E,C,B,B,D,C,C,D,B,D,A,B,B,A,D,C
+1388.0,Bilgisayar Mühendisi,D,C,B,B,C,B,C,C,A,C,A,C,B,B,C,D
+1389.0,Doktor,E,E,C,D,B,E,D,B,E,D,C,D,D,D,C,B
+1390.0,Doktor,B,A,A,D,C,E,B,E,E,E,B,E,C,E,E,C
+1391.0,Doktor,C,E,D,E,D,B,B,D,C,D,C,A,C,C,E,B
+1392.0,Doktor,D,B,B,E,C,B,D,E,C,A,B,E,D,C,D,D
+1393.0,Doktor,D,D,A,B,E,C,B,E,B,D,D,D,A,C,C,D
+1394.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,D,B,B,D,A,A,A,C,C
+1395.0,Bilgisayar Mühendisi,A,D,C,E,C,D,D,D,D,B,D,C,A,D,D,C
+1396.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,D,B,B,D,C,A,A,C,C
+1397.0,Bilgisayar Mühendisi,E,C,A,C,A,D,B,C,D,B,D,C,A,A,A,C
+1398.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,B,C
+1399.0,Bilgisayar Mühendisi,A,D,A,D,A,D,D,C,B,E,D,C,A,D,C,C
+1400.0,Bilgisayar Mühendisi,A,D,A,D,C,D,D,D,D,B,D,C,A,D,D,C
+1401.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1402.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1403.0,Bilgisayar Mühendisi,A,C,A,D,A,D,C,D,D,B,D,C,A,D,D,C
+1404.0,Bilgisayar Mühendisi,A,D,A,C,A,D,C,D,D,B,D,C,A,A,C,C
+1405.0,Bilgisayar Mühendisi,A,C,A,C,A,D,C,D,D,B,D,C,A,A,D,C
+1406.0,Bilgisayar Mühendisi,A,C,A,B,A,C,C,C,B,B,D,C,A,A,C,C
+1407.0,Bilgisayar Mühendisi,E,D,C,D,C,D,B,C,D,B,D,C,A,A,D,C
+1408.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1409.0,Bilgisayar Mühendisi,A,D,A,D,A,D,D,C,B,E,D,C,A,D,C,C
+1410.0,Bilgisayar Mühendisi,A,D,A,D,C,D,D,D,D,B,D,C,A,D,D,C
+1411.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1412.0,Bilgisayar Mühendisi,A,C,A,C,A,D,D,D,D,B,D,C,A,A,D,C
+1413.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1414.0,Bilgisayar Mühendisi,A,D,A,D,A,D,C,D,D,B,D,C,A,D,C,C
+1415.0,Bilgisayar Mühendisi,A,D,A,D,A,D,D,C,B,E,D,C,A,D,C,C
+1416.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1417.0,Bilgisayar Mühendisi,E,C,C,B,A,C,B,C,B,B,D,C,A,A,C,C
+1418.0,Bilgisayar Mühendisi,A,D,C,E,C,D,D,D,D,B,D,C,A,D,D,C
+1419.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1420.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1421.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1422.0,Doktor,A,C,A,C,A,D,B,C,D,B,D,C,A,A,C,C
+1423.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1424.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1425.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1426.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1427.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1428.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1429.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1430.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1431.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1432.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1433.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1434.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1435.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1436.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1437.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1438.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1439.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1440.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1441.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1442.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1443.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1444.0,Bilgisayar Mühendisi,A,D,A,D,C,D,D,D,D,B,D,C,A,D,D,C
+1445.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1446.0,Bilgisayar Mühendisi,A,C,A,B,A,C,C,C,B,B,D,C,A,A,C,C
+1447.0,Bilgisayar Mühendisi,E,D,C,D,C,D,B,C,D,B,D,C,A,A,D,C
+1448.0,Bilgisayar Mühendisi,A,D,A,D,C,D,D,D,D,B,D,C,A,D,D,C
+1449.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1450.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1451.0,Bilgisayar Mühendisi,A,C,A,C,A,D,C,D,D,B,D,C,A,A,D,C
+1452.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1453.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,D,D,C
+1454.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1455.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1456.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1457.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1458.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1459.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1460.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1461.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1462.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1463.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1464.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1465.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1466.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1467.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1468.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1469.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1470.0,Doktor,A,C,A,C,A,D,B,D,D,C,D,C,A,A,A,C
+1471.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1472.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1473.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1474.0,Bilgisayar Mühendisi,A,D,A,D,C,D,D,D,D,B,D,C,A,D,D,C
+1475.0,Bilgisayar Mühendisi,A,C,A,B,A,D,C,C,B,B,D,C,A,A,C,C
+1476.0,Bilgisayar Mühendisi,A,C,A,D,C,D,C,D,D,B,D,C,A,D,D,C
+1477.0,Bilgisayar Mühendisi,A,C,A,C,C,D,C,D,D,B,D,C,A,A,D,C
+1478.0,Bilgisayar Mühendisi,E,C,C,B,A,C,B,C,B,B,D,C,A,A,C,C
+1479.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,B,C,C
+1480.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1481.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1482.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1483.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1484.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1485.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1486.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1487.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1488.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1489.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1490.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1491.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,A,C
+1492.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1493.0,Doktor,A,C,A,C,A,D,B,C,D,C,D,C,A,A,C,C
+1494.0,Bilgisayar Mühendisi,A,B,C,B,A,D,B,A,B,B,A,A,C,B,A,D
+1495.0,Bilgisayar Mühendisi,A,B,B,E,A,C,B,D,D,C,D,C,A,A,D,B
+1496.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,D,C,C,A,A,C
+1497.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,B,D,A,D,C,A,A,A,B
+1498.0,Bilgisayar Mühendisi,E,B,B,C,E,D,B,C,D,A,A,C,B,B,D,C
+1499.0,Bilgisayar Mühendisi,E,D,C,D,A,D,B,A,B,E,E,E,B,B,A,A
+1500.0,Bilgisayar Mühendisi,A,B,B,E,E,D,B,D,D,A,D,A,B,B,D,C
+1501.0,Bilgisayar Mühendisi,A,B,C,C,E,D,B,C,D,A,A,C,B,B,A,C
+1502.0,Bilgisayar Mühendisi,A,B,C,B,E,D,B,A,B,D,A,D,C,A,A,C
+1503.0,Bilgisayar Mühendisi,E,C,B,D,A,D,B,D,D,C,E,C,B,A,D,C
+1504.0,Bilgisayar Mühendisi,E,B,B,A,A,D,B,B,B,A,C,A,B,B,D,D
+1505.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,D,A,B,B,D,C
+1506.0,Bilgisayar Mühendisi,A,B,C,B,E,D,B,A,B,A,A,D,B,A,A,C
+1507.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,B,D,C,D,C,A,A,C,B
+1508.0,Bilgisayar Mühendisi,E,C,A,D,A,D,B,D,D,B,E,C,A,C,A,D
+1509.0,Bilgisayar Mühendisi,A,B,C,C,E,D,B,A,D,A,D,A,B,B,D,C
+1510.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,A,D,A,D,D,B,A,D,C
+1511.0,Bilgisayar Mühendisi,E,B,B,C,A,D,B,D,D,A,C,C,B,B,D,D
+1512.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,B,D,A,D,A,A,A,A,B
+1513.0,Bilgisayar Mühendisi,A,C,C,D,A,D,B,D,D,C,E,C,C,A,A,D
+1514.0,Bilgisayar Mühendisi,E,D,C,D,A,D,B,D,B,E,E,E,B,B,A,A
+1515.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,D,C,B,A,A,C
+1516.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,A,D,D,C,A,A,B
+1517.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,B,B,E,C,A,A,A,A
+1518.0,Bilgisayar Mühendisi,E,B,B,D,A,D,B,D,D,C,D,C,C,A,D,C
+1519.0,Doktor,A,C,B,C,A,C,B,D,D,A,B,C,A,A,D,B
+1520.0,Doktor,A,B,B,C,E,D,B,A,D,A,A,D,B,A,D,C
+1521.0,Doktor,A,C,B,C,A,D,B,A,D,B,E,C,B,A,A,C
+1522.0,Doktor,A,E,C,C,A,D,B,C,D,A,D,A,C,A,A,C
+1523.0,Doktor,A,B,B,C,A,D,B,A,D,A,B,D,C,A,A,C
+1524.0,Doktor,A,B,B,C,E,D,B,A,D,A,D,A,B,A,D,C
+1525.0,Doktor,A,C,B,C,E,C,B,D,D,A,E,C,A,A,D,B
+1526.0,Doktor,A,B,C,C,E,D,B,C,D,A,A,C,B,A,D,C
+1527.0,Doktor,A,C,B,D,A,D,B,D,D,A,E,C,A,C,A,C
+1528.0,Doktor,A,B,B,C,A,D,B,B,D,A,D,A,B,B,A,B
+1529.0,Doktor,A,B,C,C,E,D,B,A,B,A,E,D,B,A,A,D
+1530.0,Doktor,A,B,C,C,E,D,B,D,D,A,E,C,C,A,A,C
+1531.0,Doktor,A,C,B,C,A,C,B,B,D,C,D,A,C,A,A,B
+1532.0,Doktor,A,C,B,C,A,C,B,B,D,A,E,C,A,A,D,B
+1533.0,Doktor,A,C,A,C,A,C,B,A,D,A,D,A,A,A,D,B
+1534.0,Doktor,A,B,C,C,A,D,B,A,D,A,D,D,B,B,A,C
+1535.0,Doktor,A,B,B,C,A,C,B,A,D,A,D,A,A,B,D,B
+1536.0,Doktor,A,C,A,C,A,C,B,B,D,A,D,C,A,A,A,B
+1537.0,Doktor,A,E,B,C,E,D,B,C,D,A,D,A,C,A,A,C
+1538.0,Doktor,A,B,B,C,E,D,B,B,D,A,A,D,C,A,A,C
+1539.0,Doktor,A,C,B,C,A,C,B,D,D,A,B,C,A,A,D,B
+1540.0,Doktor,A,B,B,C,E,D,B,C,D,A,E,C,C,A,A,C
+1541.0,Doktor,A,C,B,C,E,C,B,B,D,A,E,C,C,C,D,B
+1542.0,Doktor,A,C,A,C,A,C,B,B,D,C,D,C,A,C,A,B
+1543.0,Doktor,A,C,B,C,A,C,B,D,D,A,E,C,A,A,D,B
+1544.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,D,C,B,A,D,C
+1545.0,Bilgisayar Mühendisi,A,C,C,D,A,D,B,A,B,A,E,E,B,B,A,A
+1546.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,B,D,A,D,A,A,A,A,B
+1547.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,B,D,A,D,C,A,A,A,B
+1548.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,C,D,A,D,C,B,A,D,C
+1549.0,Bilgisayar Mühendisi,A,B,C,D,E,D,B,D,D,D,A,C,C,A,A,C
+1550.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,D,C,A,A,D,B
+1551.0,Bilgisayar Mühendisi,E,B,B,D,A,D,B,D,D,C,D,C,C,A,D,C
+1552.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,A,D,B,B,D,C
+1553.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,D,A,B,B,D,C
+1554.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,A,D,A,D,C,B,B,A,C
+1555.0,Bilgisayar Mühendisi,A,B,D,C,A,D,B,A,D,A,A,C,B,B,D,C
+1556.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,A,D,A,D,D,B,B,D,C
+1557.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,A,B,B,E,C,A,A,A,A
+1558.0,Bilgisayar Mühendisi,A,B,B,D,A,D,B,D,D,A,D,C,C,B,A,C
+1559.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,C,A,C
+1560.0,Doktor,A,C,A,C,A,D,B,A,D,B,E,C,A,A,A,C
+1561.0,Doktor,A,B,C,C,E,D,B,A,B,A,E,D,B,A,A,D
+1562.0,Doktor,A,B,B,C,E,D,B,B,D,A,D,A,C,A,A,C
+1563.0,Doktor,A,B,B,D,A,D,B,D,D,A,B,C,B,A,D,B
+1564.0,Doktor,A,C,B,C,A,C,B,D,D,A,B,C,A,A,D,B
+1565.0,Doktor,A,B,B,C,A,D,B,A,D,A,D,A,C,A,A,C
+1566.0,Doktor,A,B,B,C,E,D,B,B,D,A,D,D,B,A,A,C
+1567.0,Doktor,A,B,B,C,E,D,B,C,D,A,E,C,C,A,A,C
+1568.0,Doktor,A,B,C,C,E,D,B,A,B,A,E,D,B,A,A,D
+1569.0,Doktor,A,B,B,C,E,D,B,C,D,A,D,C,A,A,D,C
+1570.0,Doktor,A,C,B,C,A,C,B,D,D,A,B,C,A,A,D,B
+1571.0,Doktor,A,B,B,C,E,D,B,C,D,C,D,C,B,A,D,C
+1572.0,Doktor,A,B,B,C,E,D,B,B,D,A,D,A,C,A,A,C
+1573.0,Doktor,A,C,B,C,A,C,B,A,D,A,E,C,A,A,A,C
+1574.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,B,D,A,D,C,A,A,A,B
+1575.0,Bilgisayar Mühendisi,A,C,C,D,A,D,B,A,D,A,D,C,B,B,A,D
+1576.0,Bilgisayar Mühendisi,A,B,C,C,E,D,B,C,D,A,A,C,B,B,A,C
+1577.0,Bilgisayar Mühendisi,A,B,B,A,A,D,B,B,D,A,D,C,B,B,D,C
+1578.0,Bilgisayar Mühendisi,A,C,C,D,A,D,B,A,B,A,E,D,B,B,A,D
+1579.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,C,A,D
+1580.0,Doktor,A,B,C,C,E,D,B,A,B,A,E,D,B,A,A,D
+1581.0,Doktor,A,B,D,A,E,D,B,B,D,A,D,C,A,B,D,C
+1582.0,Doktor,A,B,B,C,E,D,B,B,D,A,D,A,C,A,A,C
+1583.0,Doktor,A,B,C,C,A,D,B,A,D,A,D,A,B,B,A,C
+1584.0,Bilgisayar Mühendisi,A,B,B,C,A,D,B,A,D,A,A,C,B,B,D,C
+1585.0,Bilgisayar Mühendisi,A,B,C,A,E,D,B,A,D,D,A,D,B,A,A,C
+1586.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,C,D,A,D,C,B,B,A,C
+1587.0,Bilgisayar Mühendisi,E,B,B,D,A,D,B,D,D,C,D,C,C,A,D,C
+1588.0,Bilgisayar Mühendisi,A,B,B,D,A,D,B,D,D,A,D,C,C,B,A,C
+1589.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,C,A,C
+1590.0,Doktor,A,B,C,C,A,D,B,C,D,A,D,C,B,A,A,C
+1591.0,Doktor,A,B,B,D,A,D,B,D,D,A,D,A,B,B,D,C
+1592.0,Doktor,A,C,B,C,A,C,B,A,D,A,E,C,A,A,A,C
+1593.0,Doktor,A,B,C,C,A,D,B,A,D,A,D,C,B,A,D,C
+1594.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1595.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1596.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,E,D,B,A,A,A,E
+1597.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,C,D,B,E,C,A,B,D,C
+1598.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1599.0,Bilgisayar Mühendisi,E,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1600.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,C,A,B,A,C
+1601.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,C,D,B,D,C,A,B,A,C
+1602.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,B,A,B,A,C
+1603.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,E,D,C,A,E,A,C
+1604.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1605.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1606.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1607.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,E,D,B,A,B,A,C
+1608.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,B,A,B,A,C
+1609.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1610.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,E,D,E,D,B,A,E,A,C
+1611.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1612.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1613.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1614.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1615.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1616.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1617.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,E,D,E,D,B,A,E,A,C
+1618.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,E,D,E,D,C,A,E,D,C
+1619.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1620.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1621.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1622.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1623.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1624.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1625.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,D,C
+1626.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1627.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1628.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1629.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1630.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1631.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1632.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1633.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1634.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1635.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1636.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1637.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1638.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1639.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1640.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1641.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1642.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1643.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1644.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1645.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1646.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,E,D,B,A,E,A,C
+1647.0,Bilgisayar Mühendisi,A,E,A,C,A,C,B,E,D,E,D,C,A,E,A,C
+1648.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1649.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1650.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1651.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,B,A,B,A,C
+1652.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1653.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1654.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1655.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1656.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1657.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1658.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1659.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1660.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1661.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1662.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1663.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1664.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1665.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1666.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1667.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1668.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1669.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1670.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1671.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1672.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1673.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1674.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1675.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1676.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1677.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,C,D,B,D,C,A,B,A,C
+1678.0,Bilgisayar Mühendisi,A,E,A,C,A,D,B,E,D,E,D,C,A,E,A,C
+1679.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,B,A,B,A,C
+1680.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,D,C
+1681.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1682.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,D,C
+1683.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1684.0,Doktor,A,E,A,C,A,E,A,D,D,B,D,E,A,A,A,C
+1685.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1686.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1687.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1688.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,C,D,C,D,B,A,B,A,C
+1689.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1690.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,C,D,B,A,B,A,C
+1691.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+1692.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,D,C
+1693.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1694.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1695.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,E,C,A,A,A,C
+1696.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1697.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,E,C,C,B,D,C
+1698.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1699.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,D,C
+1700.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,D,B,D,C,C,B,D,C
+1701.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+1702.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1703.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1704.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,A,D,C,A,B,A,C
+1705.0,Bilgisayar Mühendisi,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+1706.0,Bilgisayar Mühendisi,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+1707.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1708.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+1709.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1710.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+1711.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1712.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1713.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1714.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1715.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+1716.0,Doktor,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+1717.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+1718.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+1719.0,Doktor,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+1720.0,Doktor,A,A,A,E,C,D,B,A,D,B,B,C,A,E,E,B
+1721.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+1722.0,Doktor,A,C,C,A,A,C,B,E,D,E,A,D,A,A,D,B
+1723.0,Doktor,E,C,D,B,D,D,B,A,B,B,B,C,A,C,A,D
+1724.0,Doktor,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+1725.0,Doktor,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+1726.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1727.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,B,A,C
+1728.0,Doktor,A,C,A,C,A,D,B,D,D,E,D,C,A,A,D,C
+1729.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1730.0,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,A,A,C
+1731.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1732.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1733.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1734.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+1735.0,Doktor,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+1736.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1737.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1738.0,Doktor,A,C,A,C,A,D,B,D,D,E,D,C,A,A,A,C
+1739.0,Doktor,A,C,A,C,A,D,B,D,D,E,D,C,A,A,A,C
+1740.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1741.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1742.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1743.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,D,C
+1744.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1745.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,D,C
+1746.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,D,C
+1747.0,Bilgisayar Mühendisi,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+1748.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1749.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1750.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+1751.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1752.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1753.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1754.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1755.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1756.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1757.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1758.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1759.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1760.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1761.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1762.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1763.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1764.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1765.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1766.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1767.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1768.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1769.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+1770.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1771.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,E,C,A,A,A,C
+1772.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1773.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1774.0,Bilgisayar Mühendisi,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+1775.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1776.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1777.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1778.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1779.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1780.0,Doktor,A,C,A,C,A,D,B,D,D,E,D,C,A,A,A,C
+1781.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+1782.0,Bilgisayar Mühendisi,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+1783.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+1784.0,Bilgisayar Mühendisi,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+1785.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1786.0,Doktor,A,C,A,C,A,D,B,D,D,E,D,C,A,A,A,C
+1787.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1788.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1789.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+1790.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+1791.0,Bilgisayar Mühendisi,C,C,C,A,D,A,D,C,B,B,B,A,B,B,C,D
+1792.0,Bilgisayar Mühendisi,A,E,A,C,C,A,A,E,D,A,C,C,A,A,A,C
+1793.0,Bilgisayar Mühendisi,A,C,D,D,B,B,A,C,D,B,D,A,A,C,B,C
+1794.0,Bilgisayar Mühendisi,A,C,C,B,D,C,B,B,C,C,D,A,A,B,A,B
+1795.0,Bilgisayar Mühendisi,E,C,A,C,A,A,A,C,B,A,A,B,A,A,A,C
+1796.0,Bilgisayar Mühendisi,E,B,C,D,C,E,D,A,B,E,E,B,E,D,C,D
+1797.0,Bilgisayar Mühendisi,A,A,A,C,B,A,A,E,D,A,D,C,A,B,A,E
+1798.0,Bilgisayar Mühendisi,A,A,D,A,C,A,D,C,B,B,A,C,B,C,C,C
+1799.0,Bilgisayar Mühendisi,A,A,A,A,B,B,A,C,B,B,A,A,B,C,C,C
+1800.0,Bilgisayar Mühendisi,A,A,A,D,D,E,D,C,D,C,C,C,B,C,C,C
+1801.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,A,B,A,A,A,B,D,A,B
+1802.0,Bilgisayar Mühendisi,A,A,A,C,C,C,A,C,D,A,D,C,A,D,A,B
+1803.0,Bilgisayar Mühendisi,E,E,D,D,C,B,A,C,B,B,A,B,A,C,C,C
+1804.0,Bilgisayar Mühendisi,A,C,C,D,D,A,B,E,D,B,C,A,A,C,A,E
+1805.0,Bilgisayar Mühendisi,E,A,D,D,B,A,B,C,B,B,D,A,B,D,C,C
+1806.0,Bilgisayar Mühendisi,A,B,A,C,D,E,A,C,B,A,A,A,B,D,C,C
+1807.0,Bilgisayar Mühendisi,A,A,A,B,A,C,A,C,D,A,D,C,D,B,E,B
+1808.0,Bilgisayar Mühendisi,A,A,B,C,D,E,D,A,D,E,C,C,D,C,C,C
+1809.0,Bilgisayar Mühendisi,A,A,A,B,D,C,B,B,C,C,D,A,A,B,A,B
+1810.0,Bilgisayar Mühendisi,E,E,D,C,B,E,D,C,B,B,A,C,B,D,C,C
+1811.0,Bilgisayar Mühendisi,E,A,D,D,D,E,D,D,B,E,E,C,B,D,C,D
+1812.0,Bilgisayar Mühendisi,A,A,C,D,C,B,A,C,D,B,D,B,A,C,B,B
+1813.0,Bilgisayar Mühendisi,A,A,D,D,B,A,A,C,D,B,A,C,A,C,B,B
+1814.0,Bilgisayar Mühendisi,E,A,D,D,D,A,A,A,B,B,E,A,A,C,C,C
+1815.0,Bilgisayar Mühendisi,A,A,B,C,D,E,D,D,D,C,C,C,A,C,A,B
+1816.0,Doktor,B,D,C,A,A,A,B,A,D,E,B,A,A,C,B,C
+1817.0,Doktor,A,D,C,D,C,B,A,C,A,B,B,B,A,A,E,C
+1818.0,Doktor,A,C,E,B,D,C,A,C,A,E,E,A,A,C,C,C
+1819.0,Doktor,B,B,C,B,A,C,B,C,D,A,D,A,D,B,E,B
+1820.0,Doktor,A,D,D,A,C,A,A,C,A,B,B,B,B,C,B,C
+1821.0,Doktor,B,C,A,B,A,C,A,C,D,A,D,C,A,B,E,B
+1822.0,Doktor,B,D,C,B,A,B,B,A,D,A,D,C,A,B,C,C
+1823.0,Doktor,A,C,C,B,C,C,A,A,A,B,A,A,B,C,B,C
+1824.0,Doktor,E,A,A,D,D,E,D,D,D,C,C,C,B,C,A,D
+1825.0,Doktor,B,C,C,B,B,A,B,C,D,A,D,A,A,B,E,C
+1826.0,Doktor,A,B,E,B,B,B,A,C,B,B,A,B,A,D,B,C
+1827.0,Doktor,B,D,C,A,B,A,A,C,D,B,B,C,A,C,B,C
+1828.0,Doktor,E,C,A,C,D,A,B,A,D,C,D,C,D,B,A,B
+1829.0,Doktor,B,D,B,A,A,C,B,E,A,A,B,E,A,C,B,C
+1830.0,Doktor,B,C,A,B,D,A,B,C,D,A,D,A,A,B,E,C
+1831.0,Doktor,A,D,C,D,C,B,A,C,A,A,B,B,A,A,E,C
+1832.0,Doktor,B,D,C,B,D,A,B,B,D,A,A,C,A,B,B,B
+1833.0,Doktor,A,C,C,D,C,A,A,C,A,B,B,A,A,C,B,C
+1834.0,Doktor,B,C,B,B,A,C,B,C,D,A,D,C,D,B,C,C
+1835.0,Doktor,B,D,C,A,A,C,B,C,D,A,B,A,A,C,B,C
+1836.0,Doktor,B,D,C,A,A,B,B,A,D,A,B,C,A,B,E,C
+1837.0,Doktor,A,C,C,B,B,B,A,A,A,B,A,A,D,C,E,C
+1838.0,Doktor,B,D,C,B,A,C,B,A,D,B,B,A,A,B,B,C
+1839.0,Doktor,B,D,C,B,A,B,B,A,D,A,B,C,A,A,E,C
+1840.0,Bilgisayar Mühendisi,A,A,A,C,A,A,A,C,D,A,A,B,A,B,B,C
+1841.0,Bilgisayar Mühendisi,E,E,D,D,B,B,A,C,B,B,E,A,A,D,B,C
+1842.0,Bilgisayar Mühendisi,A,A,A,C,B,A,A,E,D,C,D,C,D,B,A,E
+1843.0,Bilgisayar Mühendisi,A,A,A,B,D,C,B,B,C,C,D,A,A,B,A,B
+1844.0,Bilgisayar Mühendisi,A,A,A,C,C,A,A,E,D,A,C,C,A,C,B,B
+1845.0,Bilgisayar Mühendisi,E,B,D,D,B,E,D,C,B,B,A,C,B,C,C,D
+1846.0,Bilgisayar Mühendisi,A,A,D,D,D,A,B,A,B,B,D,A,B,D,A,B
+1847.0,Bilgisayar Mühendisi,E,A,A,D,C,C,A,C,B,A,A,B,A,C,C,C
+1848.0,Bilgisayar Mühendisi,A,A,B,C,D,E,D,A,D,B,C,A,D,C,B,C
+1849.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,A,B,A,A,A,D,D,B,C
+1850.0,Bilgisayar Mühendisi,A,A,D,D,D,A,A,C,D,B,A,C,B,C,B,B
+1851.0,Bilgisayar Mühendisi,A,A,D,D,C,A,A,C,D,B,D,B,D,C,B,C
+1852.0,Bilgisayar Mühendisi,A,A,A,C,D,E,D,A,D,E,C,C,D,C,B,C
+1853.0,Bilgisayar Mühendisi,E,A,D,D,D,A,A,A,B,B,E,A,B,D,C,C
+1854.0,Bilgisayar Mühendisi,A,D,D,D,D,E,D,D,D,E,C,C,B,D,A,D
+1855.0,Doktor,B,C,C,B,D,A,A,C,A,B,D,A,A,C,B,C
+1856.0,Doktor,B,C,A,B,B,C,B,B,A,E,D,A,D,B,A,B
+1857.0,Doktor,A,B,E,B,B,A,A,C,A,E,E,B,A,D,B,C
+1858.0,Doktor,B,D,C,A,C,B,A,C,A,B,B,B,A,A,B,C
+1859.0,Doktor,B,D,A,A,A,A,A,A,D,E,C,A,A,C,A,C
+1860.0,Doktor,B,D,A,C,A,B,B,A,D,E,C,C,D,B,A,B
+1861.0,Doktor,B,D,C,B,A,C,B,A,D,A,B,A,A,C,B,C
+1862.0,Doktor,B,D,C,B,A,B,B,A,D,A,B,C,A,B,E,C
+1863.0,Doktor,B,B,C,B,A,C,B,C,D,A,D,C,B,B,E,B
+1864.0,Doktor,A,C,E,B,D,C,A,C,A,E,E,A,B,D,C,C
+1865.0,Doktor,B,D,C,B,A,A,B,A,D,A,A,A,A,C,B,C
+1866.0,Doktor,B,D,A,A,A,A,B,A,D,E,B,A,D,A,A,C
+1867.0,Doktor,A,A,A,D,D,E,D,C,A,C,C,C,B,C,A,B
+1868.0,Doktor,A,C,A,C,B,A,A,E,D,B,D,C,D,B,A,E
+1869.0,Doktor,B,D,A,B,A,B,B,A,D,A,D,A,A,B,E,C
+1870.0,Bilgisayar Mühendisi,A,C,A,C,D,A,B,C,D,A,D,C,A,B,B,B
+1871.0,Bilgisayar Mühendisi,A,B,D,D,C,E,D,A,B,E,E,B,B,D,C,D
+1872.0,Bilgisayar Mühendisi,A,A,A,C,B,A,A,E,D,A,D,C,A,C,B,B
+1873.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,A,B,A,A,C,A,B,B,C
+1874.0,Bilgisayar Mühendisi,E,A,D,D,D,A,A,A,B,B,E,B,B,D,C,C
+1875.0,Doktor,B,D,C,B,A,B,B,A,D,A,D,C,D,B,B,C
+1876.0,Doktor,B,C,B,A,A,C,B,E,A,A,B,E,A,C,B,C
+1877.0,Doktor,B,D,C,B,A,B,B,A,D,A,B,C,D,B,C,C
+1878.0,Doktor,B,B,D,B,B,B,A,C,A,B,D,A,A,D,B,C
+1879.0,Doktor,A,C,A,D,D,A,B,B,C,B,D,A,A,C,C,B
+1880.0,Bilgisayar Mühendisi,A,A,D,D,C,B,A,C,D,B,D,B,A,C,B,C
+1881.0,Bilgisayar Mühendisi,E,A,D,D,B,E,D,A,B,B,C,A,B,C,C,C
+1882.0,Bilgisayar Mühendisi,A,C,A,C,B,A,A,E,D,B,D,C,D,C,B,B
+1883.0,Bilgisayar Mühendisi,A,A,B,D,D,E,D,D,D,C,C,C,B,B,A,B
+1884.0,Bilgisayar Mühendisi,A,A,A,C,B,A,A,E,B,B,D,C,D,B,B,B
+1885.0,Doktor,B,D,C,B,A,B,B,A,D,A,D,A,D,B,C,C
+1886.0,Doktor,B,B,C,B,A,C,B,C,D,A,D,C,B,B,E,B
+1887.0,Doktor,B,D,A,A,A,B,B,A,D,A,D,A,A,B,E,C
+1888.0,Doktor,B,D,A,A,A,C,B,A,D,A,D,A,A,B,E,C
+1889.0,Doktor,A,C,A,C,A,A,A,C,D,A,A,C,B,C,A,B
+1890.0,Bilgisayar Mühendisi,A,A,D,A,C,D,A,D,B,B,D,C,B,C,A,C
+1891.0,Bilgisayar Mühendisi,E,A,A,C,E,A,C,C,D,E,C,A,C,B,A,E
+1892.0,Bilgisayar Mühendisi,A,A,D,A,C,C,A,C,D,B,D,C,A,C,C,C
+1893.0,Bilgisayar Mühendisi,A,A,C,B,B,D,A,B,D,C,D,A,A,B,A,A
+1894.0,Bilgisayar Mühendisi,E,E,B,A,E,A,A,B,D,A,C,A,D,C,A,A
+1895.0,Bilgisayar Mühendisi,A,E,D,B,A,B,A,C,B,B,E,E,B,D,C,C
+1896.0,Bilgisayar Mühendisi,E,A,B,A,C,A,C,B,D,A,C,A,D,B,A,E
+1897.0,Bilgisayar Mühendisi,A,E,D,A,C,A,C,B,D,B,D,C,A,C,A,C
+1898.0,Bilgisayar Mühendisi,A,E,D,B,A,A,A,D,B,D,D,C,A,C,C,C
+1899.0,Bilgisayar Mühendisi,A,A,D,B,C,C,C,D,D,B,C,C,D,C,C,C
+1900.0,Bilgisayar Mühendisi,A,A,C,A,E,A,A,C,B,E,C,A,D,D,A,A
+1901.0,Bilgisayar Mühendisi,A,A,C,A,C,A,A,B,D,A,C,A,D,D,A,A
+1902.0,Bilgisayar Mühendisi,A,A,D,B,A,B,A,D,B,B,D,B,B,C,A,A
+1903.0,Bilgisayar Mühendisi,A,C,D,B,C,A,A,C,D,B,D,A,D,B,C,A
+1904.0,Bilgisayar Mühendisi,E,A,D,B,D,A,A,B,D,B,D,C,A,D,C,C
+1905.0,Bilgisayar Mühendisi,A,A,D,B,A,C,A,C,D,B,D,C,A,C,A,C
+1906.0,Bilgisayar Mühendisi,E,E,C,B,B,D,C,C,D,A,C,A,D,C,A,E
+1907.0,Bilgisayar Mühendisi,A,A,D,A,E,A,C,D,D,E,C,A,D,C,A,C
+1908.0,Bilgisayar Mühendisi,A,A,C,B,B,A,A,B,D,C,D,A,A,B,A,A
+1909.0,Bilgisayar Mühendisi,A,A,D,A,C,B,A,C,B,B,E,C,B,D,C,C
+1910.0,Bilgisayar Mühendisi,E,E,D,B,E,C,A,D,D,E,C,E,A,C,A,E
+1911.0,Bilgisayar Mühendisi,A,A,D,A,C,B,A,B,B,B,C,C,A,D,A,C
+1912.0,Bilgisayar Mühendisi,A,E,C,A,B,A,A,C,D,C,D,A,D,B,A,A
+1913.0,Bilgisayar Mühendisi,A,A,D,A,C,B,A,D,B,B,D,C,B,D,A,C
+1914.0,Bilgisayar Mühendisi,E,E,D,D,E,C,C,D,D,E,C,C,D,B,C,E
+1915.0,Doktor,A,C,A,B,D,B,A,C,D,E,A,A,A,C,C,A
+1916.0,Doktor,A,A,C,B,B,B,B,A,D,A,B,B,A,C,C,A
+1917.0,Doktor,A,A,C,B,D,A,A,A,D,A,B,E,A,B,C,A
+1918.0,Doktor,D,A,C,B,B,A,B,B,D,A,A,C,A,B,B,A
+1919.0,Doktor,A,A,A,A,B,B,A,A,D,A,B,B,A,C,C,A
+1920.0,Doktor,D,A,C,B,B,A,B,B,D,A,A,C,A,B,B,A
+1921.0,Doktor,A,C,A,D,D,B,A,C,D,E,B,A,A,C,A,A
+1922.0,Doktor,A,C,A,C,D,B,A,C,D,A,A,A,D,B,B,A
+1923.0,Doktor,A,C,C,A,D,C,C,B,D,A,A,A,A,C,C,C
+1924.0,Doktor,A,C,C,B,B,D,A,A,D,A,B,B,A,B,A,A
+1925.0,Doktor,A,C,C,A,B,B,A,D,D,A,B,C,A,C,C,A
+1926.0,Doktor,A,A,C,B,D,A,A,A,D,A,A,B,A,C,B,A
+1927.0,Doktor,E,C,A,C,B,D,C,B,D,C,B,A,A,B,A,A
+1928.0,Doktor,A,C,C,C,D,C,A,C,D,A,B,A,D,C,A,A
+1929.0,Doktor,D,C,A,B,D,B,A,B,A,A,A,C,A,B,B,A
+1930.0,Doktor,A,C,A,A,B,B,A,A,D,A,B,B,A,C,B,A
+1931.0,Doktor,A,C,C,A,D,B,A,C,D,A,A,C,A,B,C,A
+1932.0,Doktor,E,A,C,B,B,A,B,B,D,A,B,C,A,C,B,A
+1933.0,Doktor,D,A,C,A,B,A,A,A,A,A,A,C,A,B,C,A
+1934.0,Doktor,A,C,A,C,D,B,A,C,D,A,A,A,A,C,A,A
+1935.0,Doktor,A,C,A,A,D,B,A,C,D,E,B,A,A,C,C,A
+1936.0,Doktor,A,A,C,A,D,C,A,C,D,A,A,A,D,B,B,A
+1937.0,Doktor,A,C,A,C,D,A,A,B,D,A,B,A,A,C,C,A
+1938.0,Doktor,A,C,A,C,D,B,A,C,D,E,A,A,D,C,B,A
+1939.0,Bilgisayar Mühendisi,E,A,B,A,E,A,A,B,D,A,C,A,D,C,A,A
+1940.0,Bilgisayar Mühendisi,A,A,D,B,A,C,A,B,B,B,E,C,A,D,C,C
+1941.0,Bilgisayar Mühendisi,A,A,A,C,E,A,C,C,D,C,D,A,D,B,A,E
+1942.0,Bilgisayar Mühendisi,A,A,C,B,B,D,A,B,D,C,D,A,A,B,A,A
+1943.0,Bilgisayar Mühendisi,E,E,B,A,C,A,C,B,D,A,C,A,D,B,A,E
+1944.0,Bilgisayar Mühendisi,A,E,D,B,A,A,A,D,B,B,D,C,A,D,C,C
+1945.0,Bilgisayar Mühendisi,A,A,C,A,C,A,A,C,D,B,D,A,A,D,A,A
+1946.0,Bilgisayar Mühendisi,A,A,D,B,A,B,C,D,D,B,C,C,B,C,A,A
+1947.0,Bilgisayar Mühendisi,A,E,D,A,E,C,A,C,D,B,C,C,A,C,A,C
+1948.0,Bilgisayar Mühendisi,E,A,C,A,C,A,A,B,D,A,C,A,D,D,A,A
+1949.0,Bilgisayar Mühendisi,A,E,D,A,C,A,C,B,D,B,C,C,D,C,A,C
+1950.0,Bilgisayar Mühendisi,A,E,B,A,E,C,A,D,D,E,C,A,D,C,A,C
+1951.0,Bilgisayar Mühendisi,A,A,D,A,E,A,A,D,D,B,C,A,D,C,A,C
+1952.0,Bilgisayar Mühendisi,A,A,D,B,A,B,C,B,D,B,D,C,A,C,A,C
+1953.0,Bilgisayar Mühendisi,E,E,D,D,E,C,C,D,D,E,C,E,D,B,C,E
+1954.0,Doktor,A,C,A,A,D,B,A,A,D,A,B,B,A,C,B,A
+1955.0,Doktor,A,A,C,A,D,A,A,A,D,A,B,B,A,C,B,A
+1956.0,Doktor,A,A,A,A,D,A,A,B,D,A,B,B,A,C,B,A
+1957.0,Doktor,A,A,A,A,D,B,A,A,D,A,B,B,A,C,B,A
+1958.0,Doktor,A,C,A,A,D,A,A,C,D,E,B,A,A,C,A,A
+1959.0,Doktor,A,C,C,A,D,A,A,C,D,A,B,C,A,C,A,A
+1960.0,Doktor,A,A,C,A,D,B,A,C,D,A,A,C,A,C,B,A
+1961.0,Doktor,A,A,C,A,D,A,A,A,D,A,B,C,A,C,B,A
+1962.0,Doktor,A,A,C,A,D,A,A,B,D,A,B,C,A,B,B,A
+1963.0,Doktor,A,A,A,B,D,A,A,A,D,A,B,E,A,B,C,A
+1964.0,Doktor,A,C,C,A,D,A,A,B,D,A,B,C,A,C,B,A
+1965.0,Doktor,A,A,C,A,D,A,A,C,D,E,B,A,D,C,B,A
+1966.0,Doktor,E,C,C,C,D,D,C,B,D,C,B,A,A,B,A,A
+1967.0,Doktor,A,C,A,B,D,A,A,C,D,A,B,A,A,C,C,A
+1968.0,Doktor,E,A,A,C,B,D,A,B,D,A,A,C,D,B,C,A
+1969.0,Bilgisayar Mühendisi,A,A,C,B,B,A,C,B,D,C,D,A,D,B,A,A
+1970.0,Bilgisayar Mühendisi,A,A,D,B,A,C,A,D,D,B,D,E,A,C,A,C
+1971.0,Bilgisayar Mühendisi,E,E,B,A,C,A,C,B,D,A,C,A,D,B,A,E
+1972.0,Bilgisayar Mühendisi,A,A,C,B,A,B,A,B,B,A,D,C,A,D,A,A
+1973.0,Bilgisayar Mühendisi,A,A,D,B,A,C,A,B,D,B,D,C,A,C,A,C
+1974.0,Doktor,A,C,A,C,D,B,A,C,D,A,A,A,D,B,B,A
+1975.0,Doktor,A,C,C,B,D,A,A,C,D,A,B,A,A,C,A,A
+1976.0,Doktor,A,A,A,A,B,D,A,A,D,A,B,A,D,B,B,A
+1977.0,Doktor,A,A,C,B,B,A,A,B,B,A,A,C,A,C,A,A
+1978.0,Doktor,E,A,C,A,B,A,A,B,D,A,C,A,A,C,A,C
+1979.0,Bilgisayar Mühendisi,A,E,D,A,E,A,A,D,D,B,C,A,D,C,A,C
+1980.0,Bilgisayar Mühendisi,A,A,D,A,C,B,A,D,B,B,D,C,B,D,A,C
+1981.0,Bilgisayar Mühendisi,A,A,D,A,C,A,C,B,D,B,C,C,A,C,A,C
+1982.0,Bilgisayar Mühendisi,E,A,D,D,E,C,C,D,D,E,C,C,D,B,C,E
+1983.0,Bilgisayar Mühendisi,A,E,D,A,C,A,C,B,D,B,D,C,A,C,A,C
+1984.0,Doktor,A,A,C,A,D,A,A,B,D,A,B,D,A,C,C,A
+1985.0,Doktor,A,A,C,A,D,B,A,B,D,A,A,C,A,C,B,A
+1986.0,Doktor,A,C,C,C,D,B,A,C,D,A,B,A,D,B,B,A
+1987.0,Doktor,A,A,C,B,D,A,A,A,D,A,B,C,A,C,B,A
+1988.0,Doktor,E,A,C,C,B,A,A,B,D,A,C,A,D,C,A,C
+1989.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1990.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+1991.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1992.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+1993.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1994.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1995.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1996.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1997.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1998.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+1999.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2000.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2001.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2002.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+2003.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2004.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2005.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2006.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2007.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2008.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2009.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2010.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+2011.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2012.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2013.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2014.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2015.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2016.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2017.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2018.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2019.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2020.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2021.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2022.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2023.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2024.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2025.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2026.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2027.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2028.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2029.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2030.0,Doktor,A,E,B,C,A,D,B,A,D,A,B,A,C,C,E,C
+2031.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2032.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2033.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2034.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2035.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2036.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2037.0,Doktor,A,E,B,C,A,D,B,A,D,A,B,A,C,C,E,C
+2038.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2039.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2040.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2041.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+2042.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2043.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2044.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2045.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2046.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2047.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2048.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2049.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2050.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2051.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2052.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2053.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2054.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2055.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2056.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2057.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2058.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2059.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2060.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2061.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2062.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2063.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2064.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2065.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2066.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2067.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2068.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2069.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,D,C,A,C,C,B,A,C
+2070.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2071.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2072.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2073.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2074.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2075.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2076.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2077.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2078.0,Doktor,A,E,B,C,A,D,B,A,D,A,B,A,C,C,E,C
+2079.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2080.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2081.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2082.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2083.0,Bilgisayar Mühendisi,A,C,B,C,A,C,B,A,B,C,A,C,C,B,A,C
+2084.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2085.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2086.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2087.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2088.0,Doktor,A,E,A,C,A,D,B,A,D,A,B,A,C,C,E,C
+2089.0,Bilgisayar Mühendisi,A,E,C,C,A,C,B,D,B,B,B,A,C,B,A,C
+2090.0,Bilgisayar Mühendisi,A,C,A,E,A,D,C,A,C,C,D,A,C,A,E,B
+2091.0,Bilgisayar Mühendisi,E,C,A,C,A,D,B,D,B,B,E,C,A,B,A,C
+2092.0,Bilgisayar Mühendisi,A,C,A,C,A,D,C,A,B,B,D,A,C,B,D,D
+2093.0,Bilgisayar Mühendisi,A,E,A,C,A,C,B,D,B,A,E,A,A,B,A,D
+2094.0,Bilgisayar Mühendisi,A,E,A,B,A,C,A,D,A,D,E,E,A,A,A,D
+2095.0,Bilgisayar Mühendisi,E,E,A,C,A,C,B,D,B,A,E,C,A,B,A,C
+2096.0,Bilgisayar Mühendisi,E,E,A,E,A,C,C,D,B,A,E,C,A,B,A,C
+2097.0,Bilgisayar Mühendisi,E,B,D,E,D,C,C,D,D,B,B,C,C,B,A,C
+2098.0,Bilgisayar Mühendisi,E,E,A,B,D,C,B,D,D,B,E,C,A,B,A,C
+2099.0,Bilgisayar Mühendisi,E,E,A,B,D,C,A,D,D,A,E,C,A,B,A,C
+2100.0,Bilgisayar Mühendisi,E,E,A,C,A,C,C,D,B,A,E,C,A,B,D,C
+2101.0,Bilgisayar Mühendisi,E,E,A,D,A,C,A,D,B,A,E,C,A,B,A,C
+2102.0,Bilgisayar Mühendisi,A,B,D,E,A,C,C,C,C,D,B,A,C,A,A,E
+2103.0,Bilgisayar Mühendisi,E,E,A,B,D,C,A,D,D,B,E,C,A,B,A,C
+2104.0,Bilgisayar Mühendisi,E,E,B,C,A,C,B,D,B,B,B,C,C,B,A,C
+2105.0,Bilgisayar Mühendisi,E,E,A,E,D,C,C,D,D,A,E,C,A,B,A,C
+2106.0,Bilgisayar Mühendisi,A,E,A,C,A,C,B,D,B,A,E,A,A,B,A,D
+2107.0,Bilgisayar Mühendisi,E,C,A,C,A,D,C,D,B,B,E,C,A,B,D,C
+2108.0,Bilgisayar Mühendisi,A,E,A,D,A,C,A,D,A,D,E,E,A,B,A,D
+2109.0,Bilgisayar Mühendisi,A,D,A,C,A,C,A,D,B,B,E,E,A,B,A,D
+2110.0,Bilgisayar Mühendisi,E,E,A,C,A,C,B,D,B,A,E,C,A,B,A,C
+2111.0,Bilgisayar Mühendisi,E,B,C,B,D,C,B,D,D,B,B,C,C,B,A,C
+2112.0,Bilgisayar Mühendisi,E,E,A,C,A,C,B,D,B,B,E,C,A,B,A,C
+2113.0,Bilgisayar Mühendisi,A,B,C,B,A,C,B,D,B,D,B,A,C,A,A,E
+2114.0,Doktor,E,E,A,B,D,C,B,D,D,B,E,C,A,B,A,C
+2115.0,Doktor,A,E,A,C,A,C,B,D,B,B,E,A,A,B,A,C
+2116.0,Doktor,A,E,A,B,A,C,A,D,A,D,E,E,A,A,A,E
+2117.0,Doktor,E,E,A,B,D,C,B,D,D,B,E,C,A,B,A,C
+2118.0,Doktor,A,E,A,C,A,C,B,D,B,B,E,A,A,B,A,C
+2119.0,Doktor,A,E,A,E,A,C,C,C,C,D,E,A,A,B,A,D
+2120.0,Doktor,E,E,A,E,B,C,C,D,D,B,E,C,A,B,A,C
+2121.0,Doktor,A,B,C,B,A,C,B,D,B,D,B,A,C,A,A,E
+2122.0,Doktor,E,E,A,B,D,C,B,D,D,B,E,C,A,B,A,C
+2123.0,Doktor,A,E,A,B,A,C,B,D,A,A,E,A,A,A,A,E
+2124.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2125.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2126.0,Doktor,A,E,A,E,A,C,C,C,C,A,E,A,A,A,A,E
+2127.0,Doktor,A,B,C,B,C,C,B,E,B,A,B,A,C,A,A,E
+2128.0,Doktor,A,E,A,B,A,C,B,D,A,A,E,A,A,A,A,E
+2129.0,Doktor,B,B,C,B,A,C,B,D,B,E,B,A,C,A,A,E
+2130.0,Doktor,A,E,A,E,A,C,C,C,C,A,E,A,A,A,A,E
+2131.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2132.0,Doktor,E,E,A,C,A,C,B,D,B,A,E,C,A,B,A,C
+2133.0,Doktor,A,B,D,E,A,C,C,C,C,D,B,A,C,A,A,E
+2134.0,Doktor,A,E,A,B,A,C,A,D,A,D,E,E,A,A,A,E
+2135.0,Doktor,E,E,A,C,A,C,A,D,B,A,E,C,A,B,A,C
+2136.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2137.0,Doktor,E,E,A,A,D,C,B,E,D,B,E,C,A,B,A,C
+2138.0,Doktor,A,E,A,E,B,C,C,C,C,E,E,A,A,A,A,E
+2139.0,Bilgisayar Mühendisi,E,E,A,B,D,C,B,D,D,A,E,C,A,B,A,C
+2140.0,Bilgisayar Mühendisi,A,E,A,B,A,C,A,D,A,D,E,E,A,A,A,D
+2141.0,Bilgisayar Mühendisi,E,C,A,C,A,D,C,D,B,B,D,C,C,B,D,C
+2142.0,Bilgisayar Mühendisi,A,C,A,C,A,D,C,A,B,B,E,A,A,B,D,B
+2143.0,Bilgisayar Mühendisi,E,B,C,B,D,C,B,D,D,B,B,C,C,B,A,C
+2144.0,Bilgisayar Mühendisi,E,E,A,B,D,C,A,D,D,B,E,C,A,B,A,C
+2145.0,Bilgisayar Mühendisi,A,E,A,E,A,C,C,C,C,D,E,A,A,A,A,E
+2146.0,Bilgisayar Mühendisi,E,E,B,C,A,C,C,D,B,A,B,C,C,B,D,C
+2147.0,Bilgisayar Mühendisi,A,E,A,B,A,C,B,D,A,A,E,A,A,B,A,D
+2148.0,Bilgisayar Mühendisi,A,E,A,E,A,C,C,C,C,A,E,A,A,A,A,E
+2149.0,Bilgisayar Mühendisi,E,E,A,C,C,C,B,E,B,A,E,C,A,B,A,C
+2150.0,Bilgisayar Mühendisi,A,B,D,E,A,C,C,C,C,D,B,E,C,C,A,E
+2151.0,Bilgisayar Mühendisi,A,E,A,B,A,C,B,D,A,A,E,A,A,B,A,D
+2152.0,Bilgisayar Mühendisi,A,E,A,E,A,C,C,C,C,D,E,A,A,A,A,D
+2153.0,Bilgisayar Mühendisi,A,E,C,C,A,C,B,D,B,B,B,A,C,B,A,D
+2154.0,Doktor,A,E,A,E,A,C,C,C,C,D,E,A,A,A,A,E
+2155.0,Doktor,A,E,A,E,A,C,C,C,C,D,E,A,A,A,A,E
+2156.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2157.0,Doktor,A,E,A,C,A,C,C,C,B,B,E,A,A,B,D,C
+2158.0,Doktor,A,E,C,C,A,C,A,D,B,A,B,E,B,B,A,C
+2159.0,Doktor,A,E,A,C,A,C,C,C,B,B,E,A,A,B,D,D
+2160.0,Doktor,A,E,A,B,A,C,B,D,A,A,E,A,A,A,A,E
+2161.0,Doktor,E,E,A,B,D,C,B,D,D,B,E,C,A,B,A,C
+2162.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2163.0,Doktor,A,E,A,C,A,C,A,D,B,A,E,E,A,B,A,C
+2164.0,Doktor,E,E,A,E,D,C,C,D,D,B,E,C,A,B,A,C
+2165.0,Doktor,A,C,A,E,A,D,C,A,C,C,D,A,C,A,E,B
+2166.0,Doktor,A,B,C,B,A,C,B,D,B,D,B,A,C,A,A,E
+2167.0,Doktor,E,E,B,C,A,C,B,D,B,B,B,C,C,B,A,C
+2168.0,Doktor,A,E,A,B,A,C,B,D,A,A,E,A,A,B,A,D
+2169.0,Bilgisayar Mühendisi,A,C,A,C,A,D,C,A,B,B,D,A,C,B,D,D
+2170.0,Bilgisayar Mühendisi,A,B,D,E,A,C,C,C,C,D,B,A,C,B,A,D
+2171.0,Bilgisayar Mühendisi,E,B,D,E,D,C,C,D,D,B,B,C,C,B,A,C
+2172.0,Bilgisayar Mühendisi,A,E,A,E,A,C,C,C,C,A,E,A,A,A,A,E
+2173.0,Bilgisayar Mühendisi,E,E,A,C,A,C,B,D,B,B,E,C,A,B,A,C
+2174.0,Doktor,E,C,A,C,A,D,C,D,B,B,E,C,A,B,D,C
+2175.0,Doktor,A,E,A,C,A,C,B,D,B,B,E,A,A,B,A,C
+2176.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,A,A,E
+2177.0,Doktor,A,E,A,C,A,C,B,D,B,B,E,A,A,B,A,C
+2178.0,Doktor,A,E,A,E,A,C,C,C,C,A,E,E,A,A,A,E
+2179.0,Bilgisayar Mühendisi,E,E,A,E,A,C,C,D,B,A,E,C,A,B,A,C
+2180.0,Bilgisayar Mühendisi,A,B,C,B,A,C,B,D,B,D,B,A,C,A,A,E
+2181.0,Bilgisayar Mühendisi,E,E,A,B,D,C,B,D,D,A,E,C,A,B,A,C
+2182.0,Bilgisayar Mühendisi,E,B,A,E,D,C,C,D,D,B,B,C,C,B,A,C
+2183.0,Bilgisayar Mühendisi,E,C,A,E,D,D,C,D,D,B,D,C,C,B,E,C
+2184.0,Doktor,A,E,A,B,A,C,B,D,A,D,E,A,A,B,A,D
+2185.0,Doktor,A,E,A,E,A,C,C,C,C,D,E,A,A,A,A,E
+2186.0,Doktor,B,B,C,B,A,C,B,D,B,E,B,A,C,A,A,E
+2187.0,Doktor,B,B,D,E,B,C,C,C,C,A,B,A,C,A,A,E
+2188.0,Doktor,A,E,A,B,A,C,B,D,A,A,E,A,A,A,A,E
+2189.0,Bilgisayar Mühendisi,A,B,C,B,A,D,B,A,B,B,B,D,C,B,A,D
+2190.0,Bilgisayar Mühendisi,A,C,A,E,C,C,B,E,D,C,D,C,C,A,D,C
+2191.0,Bilgisayar Mühendisi,E,C,B,C,A,D,B,D,D,E,D,C,B,A,A,C
+2192.0,Bilgisayar Mühendisi,A,C,A,B,B,C,B,C,D,B,D,A,A,A,E,B
+2193.0,Bilgisayar Mühendisi,E,B,B,C,C,B,B,C,D,A,A,B,B,B,D,D
+2194.0,Bilgisayar Mühendisi,E,E,D,D,A,D,C,D,B,E,E,C,B,B,A,D
+2195.0,Bilgisayar Mühendisi,A,B,B,E,E,E,B,E,D,C,A,A,C,B,D,C
+2196.0,Bilgisayar Mühendisi,A,B,C,C,C,D,C,C,D,B,B,C,C,B,A,C
+2197.0,Bilgisayar Mühendisi,A,B,D,B,E,D,B,A,B,B,D,D,C,A,A,C
+2198.0,Bilgisayar Mühendisi,E,C,D,D,A,D,C,D,D,B,E,C,B,B,A,C
+2199.0,Bilgisayar Mühendisi,E,B,A,A,B,B,C,B,D,E,C,B,C,B,D,D
+2200.0,Bilgisayar Mühendisi,A,B,A,B,C,C,B,C,D,A,A,A,C,A,A,D
+2201.0,Bilgisayar Mühendisi,E,B,C,C,C,D,B,A,B,A,A,D,B,B,D,C
+2202.0,Bilgisayar Mühendisi,A,C,A,E,E,C,B,A,D,E,D,C,A,A,A,B
+2203.0,Bilgisayar Mühendisi,E,C,D,B,A,D,B,A,D,B,D,C,A,C,E,D
+2204.0,Bilgisayar Mühendisi,A,B,C,C,C,D,B,C,B,A,A,D,B,B,D,C
+2205.0,Bilgisayar Mühendisi,A,B,B,B,C,D,B,C,D,A,A,D,C,B,D,C
+2206.0,Bilgisayar Mühendisi,A,B,A,C,B,E,C,B,D,A,A,B,C,B,D,C
+2207.0,Bilgisayar Mühendisi,E,C,A,B,A,D,B,A,C,C,D,A,A,A,E,B
+2208.0,Bilgisayar Mühendisi,A,C,D,B,A,D,B,A,B,A,B,A,C,C,A,C
+2209.0,Bilgisayar Mühendisi,E,C,D,D,A,D,C,D,B,E,E,C,B,B,A,D
+2210.0,Bilgisayar Mühendisi,A,E,B,C,E,C,B,D,D,C,D,C,C,A,D,D
+2211.0,Bilgisayar Mühendisi,A,C,B,B,D,D,B,A,D,B,D,A,C,A,A,B
+2212.0,Bilgisayar Mühendisi,E,D,A,D,E,D,C,A,B,E,E,C,B,B,A,A
+2213.0,Bilgisayar Mühendisi,E,C,D,D,B,B,C,D,D,E,E,B,B,C,A,C
+2214.0,Doktor,A,B,C,A,B,C,B,B,D,A,A,D,A,B,D,C
+2215.0,Doktor,A,B,B,C,A,C,B,B,A,E,B,D,B,A,D,C
+2216.0,Doktor,E,E,D,D,E,D,B,A,A,E,E,C,A,A,A,D
+2217.0,Doktor,A,C,B,B,C,D,B,C,D,A,D,A,A,C,E,C
+2218.0,Doktor,A,B,C,C,A,D,B,C,D,B,B,D,C,B,D,C
+2219.0,Doktor,A,C,B,B,C,D,B,C,D,A,D,D,C,A,E,B
+2220.0,Doktor,B,B,C,A,A,C,B,B,D,E,A,D,C,B,D,B
+2221.0,Doktor,A,B,C,C,C,D,B,C,D,B,A,D,C,C,B,C
+2222.0,Doktor,E,C,B,D,A,D,B,D,D,B,E,C,C,C,A,C
+2223.0,Doktor,A,C,A,E,A,D,B,A,D,C,D,A,A,A,E,B
+2224.0,Doktor,A,E,D,B,E,D,B,A,A,B,B,C,A,C,A,D
+2225.0,Doktor,A,C,C,C,B,D,B,C,D,B,D,C,A,C,A,C
+2226.0,Doktor,A,B,B,E,C,C,B,C,D,A,A,A,C,A,B,B
+2227.0,Doktor,A,B,C,A,B,B,B,B,B,A,A,B,C,B,D,C
+2228.0,Doktor,A,C,B,B,A,D,B,A,D,A,D,A,A,C,E,B
+2229.0,Doktor,E,E,B,D,A,D,C,B,B,E,B,D,B,B,A,D
+2230.0,Doktor,A,C,A,E,A,C,B,C,D,C,D,A,A,A,E,B
+2231.0,Doktor,E,E,B,B,A,D,B,A,C,D,D,A,A,A,E,B
+2232.0,Doktor,A,E,B,B,C,C,B,C,D,A,A,A,C,A,E,B
+2233.0,Doktor,A,C,D,B,A,D,B,A,D,D,E,C,A,C,E,B
+2234.0,Doktor,E,B,A,A,B,C,B,B,D,C,B,B,C,B,A,C
+2235.0,Doktor,A,B,C,C,C,D,B,C,B,B,A,D,C,B,B,C
+2236.0,Doktor,E,C,E,B,A,D,A,B,C,B,D,C,A,C,E,B
+2237.0,Doktor,A,C,A,E,C,C,B,C,D,C,D,C,A,A,E,B
+2238.0,Doktor,B,D,A,A,A,C,B,B,B,E,B,D,A,B,D,B
+2239.0,Bilgisayar Mühendisi,E,B,B,C,C,D,B,C,D,A,A,B,B,B,D,C
+2240.0,Bilgisayar Mühendisi,E,E,D,D,A,D,C,A,B,E,E,C,B,C,A,D
+2241.0,Bilgisayar Mühendisi,A,C,A,E,E,C,B,E,D,C,D,B,C,A,D,B
+2242.0,Bilgisayar Mühendisi,E,C,A,B,A,D,B,A,C,C,D,A,A,A,E,B
+2243.0,Bilgisayar Mühendisi,A,B,B,E,C,C,B,E,D,C,A,A,C,A,D,C
+2244.0,Bilgisayar Mühendisi,E,E,D,D,A,D,C,D,B,B,E,C,B,B,A,C
+2245.0,Bilgisayar Mühendisi,A,C,D,B,A,D,B,A,C,C,D,A,A,A,E,B
+2246.0,Bilgisayar Mühendisi,E,B,C,C,B,C,B,C,D,A,A,D,C,A,A,C
+2247.0,Bilgisayar Mühendisi,A,B,C,C,E,E,B,C,D,A,A,A,C,B,D,C
+2248.0,Bilgisayar Mühendisi,A,B,A,A,C,C,B,B,D,A,A,B,C,B,D,D
+2249.0,Bilgisayar Mühendisi,A,B,A,B,C,C,B,C,D,A,A,A,C,A,A,C
+2250.0,Bilgisayar Mühendisi,A,B,C,C,A,D,C,B,D,E,B,C,B,B,D,C
+2251.0,Bilgisayar Mühendisi,A,B,A,C,B,C,B,B,D,A,A,D,C,B,D,C
+2252.0,Bilgisayar Mühendisi,E,C,B,D,A,D,B,A,C,D,D,A,A,A,A,D
+2253.0,Bilgisayar Mühendisi,A,B,C,D,B,D,C,D,D,B,A,D,B,B,D,C
+2254.0,Doktor,A,C,B,B,A,D,A,A,C,D,D,A,A,C,E,B
+2255.0,Doktor,B,C,A,A,A,C,A,B,D,E,B,D,A,A,D,B
+2256.0,Doktor,A,B,C,C,A,D,B,B,A,A,B,D,C,B,D,C
+2257.0,Doktor,A,C,B,C,A,D,B,B,B,B,B,D,C,A,A,B
+2258.0,Doktor,A,B,B,C,C,D,B,C,D,A,A,D,C,B,D,C
+2259.0,Doktor,A,C,A,B,B,C,A,B,D,D,D,C,A,C,E,B
+2260.0,Doktor,B,B,B,A,A,C,B,B,D,E,B,D,B,B,D,C
+2261.0,Doktor,A,C,B,B,C,D,B,C,D,C,D,A,C,A,A,B
+2262.0,Doktor,E,C,B,B,B,D,B,D,D,B,E,C,C,C,A,C
+2263.0,Doktor,E,E,D,D,E,D,B,A,A,E,E,C,A,A,A,D
+2264.0,Doktor,A,C,D,C,A,D,B,C,D,B,B,D,C,C,A,C
+2265.0,Doktor,B,B,A,A,A,C,B,B,D,E,A,D,A,B,D,B
+2266.0,Doktor,A,B,B,E,C,D,B,C,D,B,A,B,C,A,B,C
+2267.0,Doktor,A,B,A,E,E,C,B,C,D,B,D,A,C,A,A,C
+2268.0,Doktor,A,C,D,B,A,D,A,B,D,D,D,C,A,C,E,B
+2269.0,Bilgisayar Mühendisi,A,B,A,C,A,C,B,C,D,A,D,A,C,A,A,B
+2270.0,Bilgisayar Mühendisi,E,B,C,D,B,D,C,D,B,E,E,D,B,B,D,C
+2271.0,Bilgisayar Mühendisi,A,B,B,E,C,D,B,C,D,A,A,D,C,A,A,C
+2272.0,Bilgisayar Mühendisi,A,B,A,A,B,C,B,B,B,A,A,B,C,B,D,D
+2273.0,Bilgisayar Mühendisi,E,E,D,D,A,D,C,A,B,E,E,C,B,B,A,D
+2274.0,Doktor,B,C,B,A,A,C,B,B,D,E,B,D,A,B,A,B
+2275.0,Doktor,A,B,C,A,C,D,B,C,A,A,A,D,C,B,D,C
+2276.0,Doktor,B,D,A,A,A,C,B,B,B,E,B,D,A,B,D,B
+2277.0,Doktor,E,E,D,B,E,D,B,A,D,D,E,A,A,A,E,C
+2278.0,Doktor,E,C,D,B,A,D,A,B,C,C,D,C,A,C,E,B
+2279.0,Bilgisayar Mühendisi,E,B,B,C,E,D,C,A,D,E,B,A,B,B,D,A
+2280.0,Bilgisayar Mühendisi,A,B,D,B,E,D,B,A,B,B,A,D,C,A,A,C
+2281.0,Bilgisayar Mühendisi,A,B,B,C,C,C,B,C,D,A,A,A,C,B,D,C
+2282.0,Bilgisayar Mühendisi,A,C,A,B,A,D,B,A,D,C,D,C,A,A,E,B
+2283.0,Bilgisayar Mühendisi,A,B,B,E,E,C,B,E,D,A,A,A,C,A,A,C
+2284.0,Doktor,A,C,A,B,A,D,A,B,C,C,D,C,A,C,E,B
+2285.0,Doktor,A,C,B,B,B,D,B,C,D,B,D,C,C,C,A,B
+2286.0,Doktor,A,B,B,A,A,C,B,B,D,E,A,B,B,B,D,C
+2287.0,Doktor,B,C,A,A,A,C,B,B,D,A,D,D,A,A,D,B
+2288.0,Doktor,A,B,B,C,C,D,B,C,D,B,A,D,C,B,D,C
+2289.0,Bilgisayar Mühendisi,A,C,E,D,A,D,B,A,B,B,B,C,A,B,A,C
+2290.0,Bilgisayar Mühendisi,E,C,A,E,A,C,B,D,D,E,E,C,A,A,D,B
+2291.0,Bilgisayar Mühendisi,A,C,B,C,A,D,B,A,D,B,B,C,B,B,A,C
+2292.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,D,D,C,D,A,A,A,A,B
+2293.0,Bilgisayar Mühendisi,E,B,C,B,C,D,B,C,D,A,A,C,B,B,D,C
+2294.0,Bilgisayar Mühendisi,E,C,C,D,E,D,C,D,B,E,E,C,B,B,A,D
+2295.0,Bilgisayar Mühendisi,E,B,B,E,C,D,B,A,D,C,A,A,C,A,D,C
+2296.0,Bilgisayar Mühendisi,A,B,C,C,A,D,B,C,D,B,A,C,C,B,A,C
+2297.0,Bilgisayar Mühendisi,A,E,D,C,A,D,B,A,D,B,D,C,A,A,A,C
+2298.0,Bilgisayar Mühendisi,E,C,D,D,A,D,C,D,D,B,E,C,C,C,A,C
+2299.0,Bilgisayar Mühendisi,E,C,A,D,B,D,C,D,D,E,C,C,B,B,D,D
+2300.0,Bilgisayar Mühendisi,A,B,A,B,C,D,B,C,D,A,A,C,B,B,D,C
+2301.0,Bilgisayar Mühendisi,A,B,E,B,A,D,B,A,B,B,A,C,B,B,C,C
+2302.0,Bilgisayar Mühendisi,A,C,A,E,A,C,B,A,D,B,D,C,A,A,A,B
+2303.0,Bilgisayar Mühendisi,E,C,D,D,A,D,B,A,D,B,E,C,A,C,A,D
+2304.0,Bilgisayar Mühendisi,A,B,C,B,C,D,B,C,B,A,A,B,B,B,D,C
+2305.0,Bilgisayar Mühendisi,A,B,B,B,C,C,B,C,D,A,A,A,C,A,D,C
+2306.0,Bilgisayar Mühendisi,E,B,A,C,B,D,C,D,D,E,C,C,B,A,D,C
+2307.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,A,C,B,D,A,A,A,A,B
+2308.0,Bilgisayar Mühendisi,A,C,E,B,A,D,B,A,B,B,D,C,A,C,A,C
+2309.0,Bilgisayar Mühendisi,E,C,C,D,A,D,C,D,B,E,E,C,B,B,A,D
+2310.0,Bilgisayar Mühendisi,A,C,B,C,E,C,B,A,D,E,B,C,B,A,D,D
+2311.0,Bilgisayar Mühendisi,A,C,B,E,A,D,B,A,D,B,D,A,C,A,A,C
+2312.0,Bilgisayar Mühendisi,E,E,A,D,E,D,C,D,D,E,E,C,B,B,A,C
+2313.0,Bilgisayar Mühendisi,E,C,D,D,C,D,C,D,D,E,E,B,C,C,D,C
+2314.0,Doktor,B,B,C,C,C,C,B,C,D,E,A,D,C,B,D,C
+2315.0,Doktor,B,B,D,C,A,D,B,B,A,E,B,D,B,B,A,C
+2316.0,Doktor,B,C,B,C,A,D,B,B,D,E,E,C,A,A,A,D
+2317.0,Doktor,A,C,B,A,C,D,B,A,D,A,D,A,C,C,A,B
+2318.0,Doktor,B,C,D,B,A,D,B,C,D,B,B,D,C,B,A,C
+2319.0,Doktor,A,C,B,A,C,D,B,B,D,A,D,D,A,C,A,B
+2320.0,Doktor,C,B,A,B,C,C,B,C,D,E,B,D,A,B,D,B
+2321.0,Doktor,A,B,C,B,C,D,C,C,D,B,A,C,C,C,B,C
+2322.0,Doktor,A,C,D,D,C,D,C,D,D,B,E,C,C,C,A,C
+2323.0,Doktor,A,E,B,E,A,D,B,A,D,A,D,A,A,A,B,B
+2324.0,Doktor,A,C,D,A,A,D,B,B,A,B,E,D,A,C,A,D
+2325.0,Doktor,A,C,C,B,C,D,B,C,D,B,B,C,C,C,B,C
+2326.0,Doktor,A,C,B,E,C,C,B,C,D,C,D,A,C,A,B,B
+2327.0,Doktor,A,B,C,B,C,D,C,C,B,A,A,C,C,D,B,C
+2328.0,Doktor,A,C,B,A,A,D,B,B,D,A,D,A,A,C,A,B
+2329.0,Doktor,B,C,D,C,A,D,B,B,B,E,E,D,B,B,A,C
+2330.0,Doktor,A,C,A,E,A,C,B,E,D,C,D,A,A,A,B,B
+2331.0,Doktor,A,E,B,A,A,D,B,B,D,A,E,D,A,A,A,C
+2332.0,Doktor,A,B,B,B,C,D,B,A,D,A,D,A,C,A,B,B
+2333.0,Doktor,B,C,D,C,A,D,B,B,D,A,E,C,A,C,A,D
+2334.0,Doktor,A,B,D,B,A,D,B,C,D,C,B,C,C,B,B,C
+2335.0,Doktor,A,B,E,B,C,D,B,C,B,B,A,B,C,B,B,C
+2336.0,Doktor,A,C,E,A,A,D,A,B,D,B,E,C,A,C,A,D
+2337.0,Doktor,E,C,A,E,A,C,B,D,D,C,D,C,A,A,D,B
+2338.0,Doktor,B,B,E,B,E,C,B,B,B,E,B,D,A,B,D,C
+2339.0,Bilgisayar Mühendisi,E,B,B,C,C,D,B,C,D,A,A,C,B,B,D,C
+2340.0,Bilgisayar Mühendisi,E,C,D,D,A,D,C,A,B,B,E,C,B,C,A,D
+2341.0,Bilgisayar Mühendisi,E,C,A,E,A,C,B,E,D,C,D,A,A,A,D,B
+2342.0,Bilgisayar Mühendisi,A,C,A,C,A,D,B,A,C,B,D,C,A,A,A,B
+2343.0,Bilgisayar Mühendisi,E,B,B,E,C,C,B,C,D,C,A,A,C,A,D,B
+2344.0,Bilgisayar Mühendisi,A,E,D,D,A,D,C,A,D,B,E,C,C,C,A,C
+2345.0,Bilgisayar Mühendisi,A,C,D,C,A,D,C,B,C,B,D,C,A,C,A,B
+2346.0,Bilgisayar Mühendisi,A,B,C,B,A,D,B,C,D,A,B,C,B,A,C,C
+2347.0,Bilgisayar Mühendisi,A,B,C,C,C,D,B,A,B,A,A,C,C,B,C,C
+2348.0,Bilgisayar Mühendisi,A,B,B,B,C,C,B,C,D,A,A,B,C,B,D,C
+2349.0,Bilgisayar Mühendisi,A,B,A,B,C,D,B,C,D,A,A,A,C,A,B,C
+2350.0,Bilgisayar Mühendisi,E,B,C,D,E,C,B,D,D,E,B,C,B,B,D,C
+2351.0,Bilgisayar Mühendisi,A,B,C,C,B,C,B,C,D,A,A,D,B,B,D,C
+2352.0,Bilgisayar Mühendisi,E,C,D,D,A,D,B,A,D,B,E,A,A,A,A,D
+2353.0,Bilgisayar Mühendisi,E,B,C,D,C,D,C,D,D,E,E,B,B,B,D,C
+2354.0,Doktor,A,C,E,A,A,D,A,B,D,A,E,A,A,C,A,D
+2355.0,Doktor,B,C,B,C,A,C,B,B,D,C,B,A,A,C,D,B
+2356.0,Doktor,B,B,C,C,A,D,B,C,A,B,B,D,C,B,A,D
+2357.0,Doktor,B,C,D,B,A,D,B,B,A,B,B,D,C,B,A,D
+2358.0,Doktor,A,B,B,C,C,C,B,C,D,A,A,D,C,A,D,C
+2359.0,Doktor,A,C,A,A,A,D,B,B,D,A,E,C,A,C,A,B
+2360.0,Doktor,B,B,B,C,E,C,B,C,D,E,B,D,A,B,D,C
+2361.0,Doktor,A,B,D,B,A,D,B,B,D,A,B,D,C,C,A,C
+2362.0,Doktor,A,C,D,A,C,D,B,D,D,B,E,C,C,C,B,C
+2363.0,Doktor,B,E,D,D,A,D,C,A,A,E,E,C,B,A,A,D
+2364.0,Doktor,A,C,D,B,A,D,B,C,D,B,E,D,C,C,A,C
+2365.0,Doktor,C,C,A,C,C,C,B,C,D,E,A,D,A,B,D,B
+2366.0,Doktor,A,B,D,D,C,D,C,D,D,B,A,B,C,C,B,C
+2367.0,Doktor,A,C,B,E,A,D,B,A,D,B,D,C,C,A,B,C
+2368.0,Doktor,A,C,B,A,A,D,A,B,D,A,E,A,A,C,A,B
+2369.0,Bilgisayar Mühendisi,E,B,B,C,C,C,B,C,D,A,D,C,C,A,D,B
+2370.0,Bilgisayar Mühendisi,E,B,C,D,E,D,C,D,B,E,E,C,B,B,D,D
+2371.0,Bilgisayar Mühendisi,A,B,B,E,C,C,B,C,D,A,A,A,C,A,D,C
+2372.0,Bilgisayar Mühendisi,A,B,D,B,C,D,B,C,B,A,A,B,B,B,C,C
+2373.0,Bilgisayar Mühendisi,E,C,D,D,A,D,C,A,D,B,E,C,B,C,A,D
+2374.0,Doktor,C,B,E,B,A,C,B,B,D,A,B,D,A,B,A,B
+2375.0,Doktor,A,B,C,B,C,D,B,C,A,A,A,D,C,B,C,C
+2376.0,Doktor,C,B,E,B,E,C,A,B,B,E,B,D,A,B,D,C
+2377.0,Doktor,A,E,B,A,A,D,B,A,D,A,E,A,A,A,A,D
+2378.0,Doktor,E,C,B,A,A,D,A,B,D,B,D,C,A,C,A,D
+2379.0,Bilgisayar Mühendisi,A,B,B,C,E,C,B,A,D,E,B,C,B,B,D,C
+2380.0,Bilgisayar Mühendisi,E,E,D,C,E,D,C,A,D,B,A,C,C,A,A,C
+2381.0,Bilgisayar Mühendisi,A,B,B,B,C,C,B,C,D,A,A,B,C,B,D,C
+2382.0,Bilgisayar Mühendisi,E,C,A,E,A,D,C,D,C,C,D,A,A,C,A,B
+2383.0,Bilgisayar Mühendisi,A,E,B,E,A,D,B,A,D,B,D,A,C,A,A,C
+2384.0,Doktor,A,C,B,A,A,D,A,B,D,A,E,C,A,C,A,D
+2385.0,Doktor,A,C,D,A,C,D,B,D,D,B,D,C,C,C,A,B
+2386.0,Doktor,C,B,B,D,C,C,B,C,D,E,A,B,A,B,D,C
+2387.0,Doktor,A,C,B,C,A,C,B,B,D,C,B,A,A,C,D,B
+2388.0,Doktor,A,B,B,B,C,D,B,C,B,B,B,D,C,B,D,C
+2389.0,Bilgisayar Mühendisi,A,A,C,A,A,C,D,C,B,B,B,C,A,D,A,A
+2390.0,Bilgisayar Mühendisi,A,A,A,D,C,E,A,A,D,C,C,A,D,B,A,E
+2391.0,Bilgisayar Mühendisi,A,E,C,B,D,D,D,C,D,B,D,C,B,C,A,A
+2392.0,Bilgisayar Mühendisi,A,A,C,A,A,E,A,A,D,D,D,A,D,B,A,A
+2393.0,Bilgisayar Mühendisi,A,C,C,A,C,E,A,A,B,A,B,A,B,C,B,A
+2394.0,Bilgisayar Mühendisi,E,E,D,C,D,B,D,C,B,B,E,C,B,D,A,A
+2395.0,Bilgisayar Mühendisi,A,C,C,C,C,E,A,A,D,A,B,A,D,C,B,E
+2396.0,Bilgisayar Mühendisi,A,C,D,A,C,E,D,C,D,B,B,A,D,C,C,C
+2397.0,Bilgisayar Mühendisi,A,A,C,C,D,D,D,C,D,B,B,C,C,D,C,D
+2398.0,Bilgisayar Mühendisi,E,C,D,D,D,C,D,C,B,B,B,A,B,C,C,C
+2399.0,Bilgisayar Mühendisi,E,C,A,D,B,E,B,A,B,E,A,C,A,B,A,E
+2400.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,B,D,C,B,A,B,C,B,E
+2401.0,Bilgisayar Mühendisi,A,C,C,A,C,D,C,C,B,B,B,A,B,D,A,C
+2402.0,Bilgisayar Mühendisi,A,E,D,C,D,A,D,C,D,D,D,A,D,C,C,A
+2403.0,Bilgisayar Mühendisi,E,E,D,B,D,A,D,D,B,B,D,C,D,D,C,C
+2404.0,Bilgisayar Mühendisi,A,C,C,A,A,D,A,C,B,A,B,A,B,D,B,E
+2405.0,Bilgisayar Mühendisi,A,A,C,A,A,E,A,A,D,A,B,A,B,C,B,A
+2406.0,Bilgisayar Mühendisi,A,A,A,A,B,E,B,C,B,E,A,A,A,C,B,E
+2407.0,Bilgisayar Mühendisi,A,A,D,D,D,A,D,A,D,D,D,D,D,B,C,A
+2408.0,Bilgisayar Mühendisi,A,E,D,A,D,D,D,C,B,B,D,C,D,D,C,C
+2409.0,Bilgisayar Mühendisi,E,E,D,C,D,B,D,C,B,B,E,C,B,D,A,C
+2410.0,Bilgisayar Mühendisi,A,C,D,C,D,C,D,C,D,B,D,C,B,D,C,D
+2411.0,Bilgisayar Mühendisi,A,A,C,C,D,A,C,C,D,B,B,C,D,C,C,D
+2412.0,Bilgisayar Mühendisi,E,E,D,D,D,D,D,C,D,B,B,C,B,D,A,D
+2413.0,Bilgisayar Mühendisi,E,C,A,C,A,C,A,C,B,E,B,A,B,C,A,A
+2414.0,Doktor,A,C,A,B,B,C,A,D,A,A,A,A,A,A,A,A
+2415.0,Doktor,A,A,A,B,B,A,A,D,A,B,A,B,B,B,A,A
+2416.0,Doktor,A,E,B,B,E,D,A,D,A,B,E,B,D,B,C,D
+2417.0,Doktor,A,A,C,B,D,A,C,D,D,B,B,C,D,B,C,C
+2418.0,Doktor,A,C,B,B,D,A,A,D,D,B,B,A,B,B,B,A
+2419.0,Doktor,A,A,C,B,D,A,A,D,D,A,B,A,D,B,C,A
+2420.0,Doktor,A,A,A,A,A,C,A,A,B,A,B,A,A,A,A,A
+2421.0,Doktor,A,A,B,C,D,D,C,D,D,C,B,C,C,B,C,C
+2422.0,Doktor,E,A,C,C,D,D,A,C,D,C,B,A,D,B,C,A
+2423.0,Doktor,A,A,C,B,B,E,A,A,D,D,D,A,D,B,A,D
+2424.0,Doktor,A,E,D,B,E,D,A,D,A,B,E,C,D,D,C,D
+2425.0,Doktor,A,C,B,B,D,A,A,D,D,B,B,A,B,B,A,C
+2426.0,Doktor,A,A,C,B,A,E,A,A,D,C,B,A,D,C,B,D
+2427.0,Doktor,A,A,B,C,B,C,B,A,B,A,B,C,C,B,A,B
+2428.0,Doktor,A,A,C,B,D,A,B,D,D,D,B,B,D,B,C,D
+2429.0,Doktor,A,A,B,B,B,A,A,D,A,B,A,B,B,B,A,A
+2430.0,Doktor,A,A,A,B,A,E,A,A,D,D,D,A,D,B,A,A
+2431.0,Doktor,A,A,D,B,B,A,B,D,D,D,D,B,D,D,C,D
+2432.0,Doktor,A,A,C,B,A,E,A,A,D,A,A,C,D,B,B,D
+2433.0,Doktor,A,C,B,B,D,A,A,D,D,B,B,A,D,B,A,A
+2434.0,Doktor,A,A,A,B,D,E,A,A,B,C,B,A,C,C,A,C
+2435.0,Doktor,A,A,C,C,A,D,A,C,D,B,B,A,D,C,B,C
+2436.0,Doktor,D,B,D,B,D,A,D,D,D,B,D,C,D,D,C,D
+2437.0,Doktor,A,A,A,B,A,E,A,A,D,C,C,A,C,B,A,A
+2438.0,Doktor,A,A,A,A,B,C,A,A,B,E,B,A,A,A,A,A
+2439.0,Bilgisayar Mühendisi,A,C,C,A,C,E,A,C,D,A,B,A,B,C,B,C
+2440.0,Bilgisayar Mühendisi,E,E,D,D,D,B,D,D,B,B,D,C,B,D,D,D
+2441.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,A,D,C,C,A,D,B,A,E
+2442.0,Bilgisayar Mühendisi,A,A,D,D,D,A,D,A,D,D,D,D,D,B,C,A
+2443.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,C,D,C,C,A,D,C,B,E
+2444.0,Bilgisayar Mühendisi,E,E,D,D,D,C,D,C,B,B,D,C,B,D,C,D
+2445.0,Bilgisayar Mühendisi,A,A,D,A,D,A,D,C,B,D,D,C,D,B,C,A
+2446.0,Bilgisayar Mühendisi,A,C,A,A,A,D,A,A,B,A,B,A,B,C,A,A
+2447.0,Bilgisayar Mühendisi,A,C,C,C,A,D,A,C,D,C,B,A,B,C,B,A
+2448.0,Bilgisayar Mühendisi,A,A,A,C,B,E,A,B,B,A,B,A,B,C,A,E
+2449.0,Bilgisayar Mühendisi,A,A,A,C,A,E,A,B,D,C,B,C,D,C,B,A
+2450.0,Bilgisayar Mühendisi,A,C,C,A,A,D,A,C,D,E,B,A,B,D,B,A
+2451.0,Bilgisayar Mühendisi,A,A,A,A,A,E,B,C,D,A,B,A,B,C,B,E
+2452.0,Bilgisayar Mühendisi,E,E,D,D,D,A,D,D,D,D,D,C,D,D,C,D
+2453.0,Bilgisayar Mühendisi,A,C,A,C,A,C,A,C,B,E,B,A,B,C,B,A
+2454.0,Doktor,D,B,D,B,B,A,B,D,D,D,D,B,D,D,C,D
+2455.0,Doktor,A,C,A,B,B,C,A,A,D,B,B,A,A,A,A,A
+2456.0,Doktor,A,C,B,B,A,A,A,D,A,A,B,B,B,B,B,A
+2457.0,Doktor,A,C,B,B,D,A,A,D,A,B,B,B,B,B,B,A
+2458.0,Doktor,A,A,A,B,A,E,A,C,D,C,B,A,D,B,A,A
+2459.0,Doktor,A,A,C,B,D,E,A,D,D,D,B,A,D,B,C,A
+2460.0,Doktor,A,C,A,B,A,C,A,A,D,A,B,A,A,A,A,A
+2461.0,Doktor,A,A,C,B,D,A,A,D,D,B,B,A,D,B,C,C
+2462.0,Doktor,E,A,C,C,D,D,A,C,D,C,B,A,D,B,C,A
+2463.0,Doktor,E,E,D,B,E,D,A,D,A,B,E,C,D,D,C,D
+2464.0,Doktor,A,A,C,B,D,A,A,D,D,B,B,A,D,B,C,A
+2465.0,Doktor,A,A,A,B,A,C,A,A,A,A,A,A,A,A,A,A
+2466.0,Doktor,A,A,A,C,A,E,A,C,D,C,B,A,D,C,B,C
+2467.0,Doktor,A,A,C,C,A,E,A,C,D,B,B,A,D,C,C,C
+2468.0,Doktor,A,A,D,B,B,A,B,D,D,D,D,B,D,B,C,D
+2469.0,Bilgisayar Mühendisi,A,C,C,A,A,E,A,A,D,A,B,A,D,C,B,A
+2470.0,Bilgisayar Mühendisi,E,C,C,C,A,D,A,C,B,E,B,A,B,C,A,A
+2471.0,Bilgisayar Mühendisi,A,A,C,A,A,E,D,C,D,C,B,A,D,C,B,C
+2472.0,Bilgisayar Mühendisi,A,A,A,C,B,E,A,B,B,A,B,A,B,C,A,E
+2473.0,Bilgisayar Mühendisi,E,E,D,D,D,B,D,D,B,B,D,C,B,D,D,D
+2474.0,Doktor,A,A,A,B,B,C,A,A,B,A,A,A,A,A,A,A
+2475.0,Doktor,A,A,A,A,A,C,A,A,B,A,B,A,B,B,B,A
+2476.0,Doktor,A,A,A,A,B,C,B,A,B,E,B,A,A,A,A,A
+2477.0,Doktor,A,A,D,B,D,A,C,D,D,D,D,C,D,D,C,D
+2478.0,Doktor,D,B,D,B,D,A,D,D,D,D,D,C,D,D,C,D
+2479.0,Bilgisayar Mühendisi,A,E,D,C,D,D,D,C,D,B,D,A,B,D,C,D
+2480.0,Bilgisayar Mühendisi,E,E,D,D,D,D,D,C,D,B,B,C,B,D,C,D
+2481.0,Bilgisayar Mühendisi,A,C,A,C,A,E,A,C,D,A,B,A,B,C,B,A
+2482.0,Bilgisayar Mühendisi,E,A,A,D,D,A,A,B,D,D,B,C,D,C,A,A
+2483.0,Bilgisayar Mühendisi,A,C,C,A,C,E,D,A,D,B,B,A,D,C,B,D
+2484.0,Doktor,D,B,D,B,D,A,D,D,D,D,D,B,D,D,C,D
+2485.0,Doktor,E,A,C,B,D,A,A,D,D,C,B,A,D,B,C,A
+2486.0,Doktor,A,A,A,B,B,C,A,A,B,A,B,A,A,A,A,A
+2487.0,Doktor,A,C,A,B,A,C,A,A,D,A,B,A,A,A,A,A
+2488.0,Doktor,A,A,A,C,A,D,A,C,B,B,B,A,B,C,B,C
+2489.0,Bilgisayar Mühendisi,A,C,D,B,C,C,D,A,B,B,B,C,D,D,E,C
+2490.0,Bilgisayar Mühendisi,E,A,C,B,E,A,C,C,D,C,C,A,A,C,A,E
+2491.0,Bilgisayar Mühendisi,A,E,D,A,D,C,B,D,D,B,D,B,A,C,C,C
+2492.0,Bilgisayar Mühendisi,A,A,C,E,C,A,C,A,D,C,D,A,A,B,A,C
+2493.0,Bilgisayar Mühendisi,E,E,C,A,C,C,B,A,B,A,B,C,D,C,A,C
+2494.0,Bilgisayar Mühendisi,A,A,D,B,E,B,B,E,B,E,E,B,C,D,C,D
+2495.0,Bilgisayar Mühendisi,A,E,C,B,C,C,C,C,D,A,C,B,D,C,A,E
+2496.0,Bilgisayar Mühendisi,A,E,D,B,D,C,B,B,D,B,B,C,D,C,C,C
+2497.0,Bilgisayar Mühendisi,A,D,D,A,D,B,B,D,B,D,B,B,D,C,C,C
+2498.0,Bilgisayar Mühendisi,E,A,C,B,E,B,B,B,D,B,D,C,D,C,C,D
+2499.0,Bilgisayar Mühendisi,E,A,C,B,C,A,B,A,B,B,B,C,D,C,A,C
+2500.0,Bilgisayar Mühendisi,E,E,C,A,C,A,C,C,D,B,B,A,A,C,A,C
+2501.0,Bilgisayar Mühendisi,A,C,D,B,D,B,B,A,B,B,B,B,D,D,C,C
+2502.0,Bilgisayar Mühendisi,A,A,C,E,D,A,B,A,D,D,D,A,A,B,A,C
+2503.0,Bilgisayar Mühendisi,E,E,D,B,D,B,B,A,B,D,D,B,C,D,C,D
+2504.0,Bilgisayar Mühendisi,E,E,D,B,E,B,B,B,B,B,B,C,D,D,C,D
+2505.0,Bilgisayar Mühendisi,A,E,C,A,C,C,B,C,D,A,B,B,D,C,A,C
+2506.0,Bilgisayar Mühendisi,E,A,C,A,E,B,B,C,D,B,E,C,C,C,A,D
+2507.0,Bilgisayar Mühendisi,A,A,C,E,C,A,C,A,D,D,D,A,A,B,A,C
+2508.0,Bilgisayar Mühendisi,A,C,D,B,D,B,C,D,B,D,B,C,D,D,E,C
+2509.0,Bilgisayar Mühendisi,E,A,D,B,E,B,B,E,B,E,E,B,C,D,C,D
+2510.0,Bilgisayar Mühendisi,A,E,D,A,D,C,B,D,D,B,D,B,A,C,C,C
+2511.0,Bilgisayar Mühendisi,A,D,C,B,D,B,C,A,D,C,C,B,D,C,C,E
+2512.0,Bilgisayar Mühendisi,E,E,D,B,D,B,B,A,D,D,E,B,D,C,A,C
+2513.0,Bilgisayar Mühendisi,E,A,C,B,E,A,C,C,D,C,C,C,C,C,C,E
+2514.0,Doktor,C,A,C,A,A,C,B,A,D,A,C,A,D,B,A,C
+2515.0,Doktor,C,E,C,B,C,B,B,A,A,A,B,B,A,B,C,D
+2516.0,Doktor,C,B,D,A,C,A,C,E,A,D,D,A,C,B,C,D
+2517.0,Doktor,A,D,D,B,B,B,C,D,D,C,D,B,D,B,C,E
+2518.0,Doktor,A,E,D,B,C,C,B,D,D,B,C,B,A,B,A,D
+2519.0,Doktor,A,D,C,B,B,C,B,D,D,C,D,A,D,B,A,E
+2520.0,Doktor,C,A,C,A,A,A,B,A,D,A,C,C,A,B,A,C
+2521.0,Doktor,A,C,D,B,D,B,C,D,B,B,B,B,D,D,E,D
+2522.0,Doktor,A,D,D,B,E,A,C,C,D,C,D,B,D,C,C,E
+2523.0,Doktor,A,D,D,E,C,A,C,D,D,D,D,A,D,B,C,E
+2524.0,Doktor,A,B,D,B,D,B,C,D,A,D,D,B,C,D,C,D
+2525.0,Doktor,A,C,C,B,B,B,B,D,D,B,C,B,C,B,C,D
+2526.0,Doktor,A,D,C,B,D,A,C,A,D,C,B,A,D,B,A,E
+2527.0,Doktor,C,E,C,A,A,C,B,D,B,B,B,C,D,D,C,C
+2528.0,Doktor,A,B,D,E,B,B,C,D,D,D,D,A,D,B,C,E
+2529.0,Doktor,E,E,D,B,C,B,B,A,A,B,E,B,A,D,C,D
+2530.0,Doktor,C,A,C,A,C,A,C,A,D,A,A,A,A,B,A,C
+2531.0,Doktor,A,B,D,E,B,B,B,D,A,D,D,A,C,D,C,D
+2532.0,Doktor,A,D,D,B,D,A,C,A,D,A,A,A,D,D,C,E
+2533.0,Doktor,C,C,C,A,B,C,B,D,D,C,C,A,C,B,A,D
+2534.0,Doktor,E,E,C,B,B,A,B,D,D,C,C,B,D,B,A,E
+2535.0,Doktor,A,C,D,B,D,C,C,D,B,B,B,B,D,C,E,C
+2536.0,Doktor,A,B,D,E,B,B,B,D,D,D,D,C,C,B,C,E
+2537.0,Doktor,C,A,C,A,C,A,C,A,D,C,C,A,A,B,A,C
+2538.0,Doktor,E,E,D,B,A,B,B,A,B,E,E,B,A,D,C,C
+2539.0,Bilgisayar Mühendisi,E,E,C,A,C,C,B,A,D,A,B,C,D,C,A,C
+2540.0,Bilgisayar Mühendisi,A,A,D,B,D,B,B,E,B,E,D,B,C,D,E,D
+2541.0,Bilgisayar Mühendisi,A,A,C,A,C,A,C,A,D,C,C,A,A,B,A,E
+2542.0,Bilgisayar Mühendisi,A,A,C,E,C,A,C,A,D,D,D,A,A,B,C,C
+2543.0,Bilgisayar Mühendisi,E,A,C,B,E,A,C,C,D,C,C,A,D,C,A,E
+2544.0,Bilgisayar Mühendisi,E,D,D,B,D,B,B,E,B,E,B,B,C,D,C,D
+2545.0,Bilgisayar Mühendisi,A,A,D,E,D,B,C,D,B,D,D,A,C,B,C,C
+2546.0,Bilgisayar Mühendisi,E,E,C,A,C,A,B,A,B,A,B,C,A,C,A,C
+2547.0,Bilgisayar Mühendisi,A,E,D,A,D,C,B,C,D,B,B,C,D,C,C,C
+2548.0,Bilgisayar Mühendisi,E,E,C,A,A,A,B,A,D,A,B,C,D,C,A,C
+2549.0,Bilgisayar Mühendisi,A,E,C,B,C,A,C,A,D,A,A,A,D,B,A,E
+2550.0,Bilgisayar Mühendisi,E,E,D,A,C,B,B,B,D,B,E,C,D,C,C,C
+2551.0,Bilgisayar Mühendisi,C,A,C,A,A,C,B,C,D,B,C,A,A,C,A,C
+2552.0,Bilgisayar Mühendisi,A,D,D,E,D,B,B,D,B,D,D,B,C,C,C,E
+2553.0,Bilgisayar Mühendisi,E,E,C,B,E,B,B,C,D,B,C,C,C,D,C,D
+2554.0,Doktor,A,B,D,E,B,B,C,D,D,D,D,A,C,B,C,E
+2555.0,Doktor,C,B,C,E,A,B,B,A,D,A,D,A,A,B,C,D
+2556.0,Doktor,C,C,D,B,C,B,B,D,A,B,B,B,C,B,C,D
+2557.0,Doktor,C,E,D,B,C,B,B,D,A,B,B,B,A,B,C,D
+2558.0,Doktor,A,D,C,B,C,A,C,C,D,A,B,B,D,C,A,C
+2559.0,Doktor,C,B,C,E,B,A,C,D,D,C,D,A,C,B,A,E
+2560.0,Doktor,C,E,C,B,A,C,B,A,D,A,E,B,A,B,A,C
+2561.0,Doktor,A,E,D,B,B,B,B,D,D,B,C,B,D,B,C,E
+2562.0,Doktor,A,C,C,B,B,A,B,D,D,C,C,B,D,C,C,E
+2563.0,Doktor,B,B,D,A,D,B,C,E,A,D,D,B,C,D,E,D
+2564.0,Doktor,A,D,D,B,B,C,C,D,B,B,B,B,D,C,E,D
+2565.0,Doktor,C,A,C,A,A,A,B,A,D,A,C,A,A,B,A,C
+2566.0,Doktor,A,D,C,B,E,A,C,C,D,B,B,B,D,C,C,E
+2567.0,Doktor,A,D,C,B,D,A,C,C,D,C,B,B,D,B,C,E
+2568.0,Doktor,A,B,D,E,B,A,C,D,D,D,D,A,C,B,A,E
+2569.0,Bilgisayar Mühendisi,E,E,C,A,C,A,B,A,D,A,B,A,A,C,A,C
+2570.0,Bilgisayar Mühendisi,E,A,D,B,E,B,B,E,B,B,E,B,D,D,C,D
+2571.0,Bilgisayar Mühendisi,A,D,C,B,D,A,C,C,D,C,B,C,D,C,A,E
+2572.0,Bilgisayar Mühendisi,E,E,C,B,A,B,B,A,B,A,B,C,D,D,C,C
+2573.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,E,B,E,D,B,C,D,E,D
+2574.0,Doktor,C,A,C,A,A,A,B,A,D,A,C,A,A,B,A,C
+2575.0,Doktor,C,E,D,B,A,C,B,A,B,A,B,B,A,B,C,C
+2576.0,Doktor,E,E,D,B,A,B,B,A,B,E,E,B,A,D,C,C
+2577.0,Doktor,A,B,D,E,B,B,C,D,D,D,D,A,C,D,E,E
+2578.0,Doktor,A,B,D,E,B,B,C,D,D,D,D,A,C,B,C,E
+2579.0,Bilgisayar Mühendisi,A,E,D,A,D,C,B,B,D,B,E,C,D,C,C,C
+2580.0,Bilgisayar Mühendisi,E,D,D,B,D,B,B,A,B,D,B,B,D,C,C,C
+2581.0,Bilgisayar Mühendisi,E,E,C,A,C,C,B,C,D,A,C,C,D,C,A,C
+2582.0,Bilgisayar Mühendisi,A,A,C,E,E,A,C,C,D,C,C,A,D,B,A,E
+2583.0,Bilgisayar Mühendisi,A,D,D,B,D,B,B,A,D,B,B,C,D,C,C,C
+2584.0,Doktor,A,B,D,E,B,A,C,D,D,D,D,A,C,B,C,E
+2585.0,Doktor,A,C,C,B,B,A,B,D,D,C,C,B,C,B,C,E
+2586.0,Doktor,E,A,C,B,A,A,B,C,D,A,C,C,A,D,A,C
+2587.0,Doktor,C,B,C,A,A,A,B,A,D,A,D,A,A,B,A,E
+2588.0,Doktor,A,E,D,B,C,C,C,C,D,B,B,B,D,C,C,C
+2589.0,Bilgisayar Mühendisi,A,A,D,C,C,A,B,A,B,B,B,C,B,D,C,B
+2590.0,Bilgisayar Mühendisi,A,E,C,A,E,B,C,D,D,C,D,A,D,C,A,E
+2591.0,Bilgisayar Mühendisi,E,A,D,C,C,A,C,B,D,B,B,D,A,C,C,C
+2592.0,Bilgisayar Mühendisi,A,A,C,B,B,B,A,B,C,C,D,B,D,B,A,B
+2593.0,Bilgisayar Mühendisi,E,E,D,C,A,C,C,D,D,B,E,C,B,C,A,E
+2594.0,Bilgisayar Mühendisi,A,D,E,A,C,E,C,A,B,E,B,C,A,D,C,C
+2595.0,Bilgisayar Mühendisi,A,E,C,A,E,C,A,D,D,C,D,B,D,C,A,E
+2596.0,Bilgisayar Mühendisi,A,A,D,C,C,A,A,B,D,B,A,C,B,C,A,C
+2597.0,Bilgisayar Mühendisi,A,C,D,A,C,C,A,B,D,B,A,C,B,C,C,B
+2598.0,Bilgisayar Mühendisi,E,A,C,A,C,A,C,D,D,B,C,A,C,C,C,C
+2599.0,Bilgisayar Mühendisi,E,C,E,A,B,E,B,C,B,E,E,E,B,D,A,E
+2600.0,Bilgisayar Mühendisi,A,A,D,B,A,C,B,B,D,A,E,C,B,B,A,E
+2601.0,Bilgisayar Mühendisi,E,A,D,C,C,C,B,B,B,B,A,C,A,D,C,B
+2602.0,Bilgisayar Mühendisi,A,C,C,A,B,B,A,A,D,C,D,A,D,C,B,B
+2603.0,Bilgisayar Mühendisi,E,C,E,C,C,D,E,B,C,B,B,D,A,D,C,C
+2604.0,Bilgisayar Mühendisi,A,C,D,A,A,E,A,B,B,A,A,C,B,D,C,E
+2605.0,Bilgisayar Mühendisi,A,E,D,C,A,A,A,B,D,A,A,C,B,C,B,A
+2606.0,Bilgisayar Mühendisi,A,E,C,A,C,C,B,D,D,E,C,C,B,C,C,E
+2607.0,Bilgisayar Mühendisi,E,B,D,A,B,D,A,A,C,B,D,A,A,B,B,B
+2608.0,Bilgisayar Mühendisi,A,C,D,C,B,D,C,B,C,C,A,B,C,D,C,C
+2609.0,Bilgisayar Mühendisi,E,D,E,A,C,E,C,A,B,E,B,C,A,D,C,C
+2610.0,Bilgisayar Mühendisi,A,A,C,A,B,A,B,A,D,B,B,B,A,D,C,B
+2611.0,Bilgisayar Mühendisi,A,A,C,C,B,B,A,A,D,C,A,D,B,C,B,B
+2612.0,Bilgisayar Mühendisi,E,C,E,C,C,D,A,A,D,E,E,A,D,C,C,B
+2613.0,Bilgisayar Mühendisi,E,E,C,A,E,A,C,D,D,E,C,A,C,C,A,E
+2614.0,Bilgisayar Mühendisi,A,A,D,C,A,C,B,B,D,B,E,C,B,C,A,E
+2615.0,Bilgisayar Mühendisi,A,C,E,C,C,D,E,B,C,D,B,D,A,D,C,C
+2616.0,Bilgisayar Mühendisi,A,E,C,A,E,B,A,D,D,C,D,A,D,B,A,E
+2617.0,Bilgisayar Mühendisi,E,B,D,C,B,D,A,A,C,C,D,B,A,B,B,B
+2618.0,Bilgisayar Mühendisi,A,E,C,A,E,A,A,D,D,C,D,B,D,C,A,E
+2619.0,Bilgisayar Mühendisi,A,C,E,A,C,E,C,B,D,B,B,C,C,D,C,C
+2620.0,Bilgisayar Mühendisi,A,B,D,C,B,B,B,B,C,C,D,B,C,B,B,B
+2621.0,Bilgisayar Mühendisi,E,A,D,C,A,C,B,A,B,A,A,C,A,C,A,B
+2622.0,Bilgisayar Mühendisi,A,A,D,C,A,C,B,B,D,C,A,C,B,C,A,B
+2623.0,Bilgisayar Mühendisi,A,A,D,B,A,C,A,B,B,A,E,C,B,B,A,E
+2624.0,Bilgisayar Mühendisi,A,A,C,B,B,C,A,B,C,A,C,C,B,B,B,A
+2625.0,Bilgisayar Mühendisi,A,A,C,C,A,E,B,B,D,E,A,C,A,C,A,E
+2626.0,Bilgisayar Mühendisi,A,A,C,A,A,C,A,B,D,B,A,C,B,C,A,A
+2627.0,Bilgisayar Mühendisi,E,C,E,A,C,D,E,B,C,D,D,A,C,D,C,B
+2628.0,Bilgisayar Mühendisi,A,C,D,A,A,A,B,D,B,B,A,C,B,C,A,E
+2629.0,Bilgisayar Mühendisi,A,A,C,B,B,B,A,D,D,C,E,B,D,C,A,E
+2630.0,Bilgisayar Mühendisi,A,C,D,A,A,E,B,D,B,B,A,C,A,D,A,E
+2631.0,Bilgisayar Mühendisi,A,A,C,C,A,A,A,B,D,B,A,C,B,C,B,B
+2632.0,Bilgisayar Mühendisi,E,A,D,B,B,C,B,B,B,B,E,C,B,B,A,E
+2633.0,Bilgisayar Mühendisi,E,C,E,C,C,E,C,B,C,E,B,C,A,D,C,C
+2634.0,Bilgisayar Mühendisi,A,A,C,A,B,C,B,A,D,B,A,D,D,D,B,A
+2635.0,Bilgisayar Mühendisi,A,C,D,C,C,D,A,A,D,D,E,A,C,C,C,B
+2636.0,Bilgisayar Mühendisi,A,E,D,B,A,C,A,B,B,A,A,C,B,C,A,A
+2637.0,Bilgisayar Mühendisi,A,C,C,B,B,B,C,D,C,C,C,D,C,B,B,A
+2638.0,Bilgisayar Mühendisi,E,A,D,C,C,A,A,B,D,D,A,C,D,C,B,B
+2639.0,Doktor,B,E,C,A,A,C,A,B,A,A,C,B,D,A,A,D
+2640.0,Doktor,B,D,A,C,B,A,C,A,A,A,B,A,A,A,C,C
+2641.0,Doktor,A,C,A,C,C,E,C,B,A,D,D,B,C,C,E,C
+2642.0,Doktor,A,C,C,B,B,B,A,B,D,C,A,D,C,B,C,B
+2643.0,Doktor,A,C,A,A,B,A,B,B,A,B,B,A,B,C,C,D
+2644.0,Doktor,A,C,C,B,B,B,A,B,D,A,A,C,C,B,C,A
+2645.0,Doktor,A,E,A,A,B,C,A,D,D,E,E,A,D,A,A,E
+2646.0,Doktor,B,A,D,C,A,A,B,A,D,A,A,C,B,D,C,A
+2647.0,Doktor,A,A,C,B,B,D,C,D,C,C,C,A,C,C,C,B
+2648.0,Doktor,A,B,C,B,B,B,A,A,C,C,D,A,C,B,B,B
+2649.0,Doktor,B,C,E,C,B,E,C,B,A,D,A,C,C,D,E,C
+2650.0,Doktor,A,C,C,C,B,C,B,B,D,B,C,A,B,C,C,D
+2651.0,Doktor,E,A,C,B,B,B,A,A,D,C,A,B,D,B,B,A
+2652.0,Doktor,B,A,A,C,A,C,A,C,B,A,E,E,B,A,B,D
+2653.0,Doktor,A,B,B,B,B,D,A,B,C,A,D,D,C,B,C,C
+2654.0,Doktor,B,D,A,C,B,A,B,A,B,E,B,A,A,C,C,C
+2655.0,Doktor,A,B,C,A,E,B,A,D,C,C,D,A,D,B,A,B
+2656.0,Doktor,A,B,B,C,B,D,C,B,C,D,B,D,C,B,C,C
+2657.0,Doktor,A,B,C,B,A,B,A,A,C,A,D,A,C,B,B,B
+2658.0,Doktor,A,B,B,C,B,D,C,B,C,D,D,D,C,C,E,D
+2659.0,Doktor,A,A,A,B,B,C,B,A,D,C,E,A,B,B,A,E
+2660.0,Doktor,B,A,D,C,A,A,A,B,D,B,A,C,B,D,C,A
+2661.0,Doktor,E,C,E,C,C,D,E,B,C,D,B,D,C,D,E,D
+2662.0,Doktor,A,C,C,A,E,D,C,D,D,C,D,A,C,C,B,C
+2663.0,Doktor,B,E,A,A,B,C,B,A,B,E,E,E,D,A,C,D
+2664.0,Doktor,A,B,B,B,B,D,E,A,C,D,B,D,C,B,E,C
+2665.0,Doktor,A,D,A,A,B,C,C,A,A,E,D,B,C,A,E,C
+2666.0,Doktor,B,D,A,C,A,A,B,A,A,B,B,B,B,A,C,C
+2667.0,Doktor,B,D,A,C,B,A,B,A,A,D,B,A,B,A,C,D
+2668.0,Doktor,A,C,C,A,A,B,A,D,D,A,A,C,B,C,B,A
+2669.0,Doktor,A,C,B,B,B,D,C,D,D,C,D,D,C,B,E,D
+2670.0,Doktor,B,D,A,A,B,C,A,A,D,E,E,B,D,A,A,E
+2671.0,Doktor,A,C,B,B,B,B,B,B,D,A,D,A,C,B,C,D
+2672.0,Doktor,A,A,C,B,B,D,C,B,D,C,C,A,C,C,B,D
+2673.0,Doktor,B,C,E,C,C,E,C,B,A,D,D,C,C,D,E,C
+2674.0,Doktor,A,C,C,C,B,D,C,B,D,B,A,D,C,D,C,D
+2675.0,Doktor,B,E,A,A,A,C,A,D,D,C,E,A,D,A,A,E
+2676.0,Doktor,A,A,C,C,A,B,A,D,D,B,A,C,B,C,C,A
+2677.0,Doktor,A,A,D,C,C,B,A,B,D,B,D,C,D,C,A,B
+2678.0,Doktor,A,B,B,B,B,D,C,B,C,A,D,D,C,B,E,D
+2679.0,Doktor,E,B,B,B,B,D,E,A,C,D,D,D,C,B,E,D
+2680.0,Doktor,A,C,C,B,B,D,C,B,D,C,C,A,C,C,C,D
+2681.0,Doktor,B,D,C,A,A,C,B,D,D,E,E,B,D,A,A,E
+2682.0,Doktor,A,C,A,A,B,C,A,B,D,A,C,A,C,A,E,D
+2683.0,Doktor,B,E,A,A,B,C,B,A,B,E,E,A,D,A,E,D
+2684.0,Doktor,B,A,A,C,B,A,B,A,B,A,B,C,B,A,C,C
+2685.0,Doktor,B,E,A,A,B,C,B,A,E,E,E,E,D,A,C,D
+2686.0,Doktor,A,B,E,C,B,D,C,B,C,D,B,D,C,B,C,C
+2687.0,Doktor,E,C,B,B,C,D,E,C,C,C,D,D,C,B,E,D
+2688.0,Doktor,A,A,D,C,A,A,B,B,B,B,A,C,B,D,A,A
+2689.0,Doktor,A,B,C,D,C,B,A,A,D,E,A,C,A,C,D,B
+2690.0,Doktor,A,D,B,A,D,B,A,B,B,B,A,A,A,A,C,C
+2691.0,Bilgisayar Mühendisi,E,A,E,E,E,B,D,A,B,D,C,B,D,A,A,C
+2692.0,Doktor,A,B,C,A,C,B,A,A,D,B,A,A,D,C,B,C
+2693.0,Doktor,A,D,B,A,D,B,B,C,B,D,A,A,A,C,E,E
+2694.0,Bilgisayar Mühendisi,A,B,C,C,C,B,C,B,B,A,A,C,A,B,D,B
+2695.0,Doktor,E,D,D,A,D,B,D,B,D,B,C,C,A,C,A,C
+2696.0,Bilgisayar Mühendisi,A,D,D,A,D,A,A,D,B,B,A,A,B,D,A,A
+2697.0,Doktor,A,B,B,D,C,B,A,B,E,E,A,A,D,C,D,B
+2698.0,Bilgisayar Mühendisi,A,D,D,A,D,B,D,B,D,B,C,B,A,C,B,B
+2699.0,Doktor,A,B,C,A,C,B,A,A,A,E,A,A,D,C,C,C
+2700.0,Doktor,C,B,C,D,D,B,A,B,B,B,A,C,A,C,D,B
+2701.0,Doktor,A,D,B,A,D,B,B,A,B,D,A,A,A,C,E,C
+2702.0,Bilgisayar Mühendisi,E,D,D,D,D,B,D,B,B,B,C,B,A,C,B,B
+2703.0,Doktor,C,D,B,C,D,B,C,B,B,A,A,C,A,C,A,B
+2704.0,Doktor,A,D,B,A,D,B,B,A,B,D,A,A,A,C,E,E
+2705.0,Doktor,C,C,C,D,D,B,A,A,A,A,D,C,A,C,D,B
+2706.0,Bilgisayar Mühendisi,C,B,E,C,C,B,C,B,B,B,A,C,A,C,B,B
+2707.0,Doktor,E,D,C,A,D,B,D,B,D,B,C,C,A,C,A,C
+2708.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,A,C,C,C
+2709.0,Bilgisayar Mühendisi,C,B,D,E,C,B,A,B,B,E,A,C,D,B,B,B
+2710.0,Doktor,C,C,C,C,D,B,A,B,D,A,A,C,A,C,A,B
+2711.0,Doktor,A,D,C,A,D,B,A,A,D,B,C,C,A,C,E,E
+2712.0,Bilgisayar Mühendisi,E,D,C,A,D,C,A,D,B,E,C,B,B,D,A,A
+2713.0,Doktor,A,D,C,A,D,B,A,A,D,B,A,C,A,C,A,E
+2714.0,Doktor,A,B,B,D,C,B,A,B,E,E,A,A,D,C,D,B
+2715.0,Bilgisayar Mühendisi,E,D,D,E,D,C,D,A,B,E,C,B,D,D,A,A
+2716.0,Doktor,A,D,B,A,D,B,B,C,B,D,A,A,A,C,E,E
+2717.0,Doktor,C,B,C,D,D,B,A,A,B,E,A,C,A,C,D,B
+2718.0,Bilgisayar Mühendisi,E,D,D,A,D,C,D,C,B,E,C,B,B,D,A,A
+2719.0,Doktor,A,D,B,A,D,A,B,C,B,D,C,A,A,C,E,C
+2720.0,Doktor,E,D,D,C,D,B,D,B,D,B,C,C,A,C,A,C
+2721.0,Bilgisayar Mühendisi,C,D,C,C,D,B,A,B,B,A,A,B,A,C,D,B
+2722.0,Doktor,A,D,C,A,D,B,B,A,B,D,A,A,A,C,E,E
+2723.0,Doktor,A,B,C,A,C,B,A,A,A,E,A,A,D,C,B,C
+2724.0,Bilgisayar Mühendisi,C,D,D,C,D,B,C,B,B,A,A,B,A,B,B,B
+2725.0,Doktor,A,B,D,A,D,B,A,A,B,B,A,A,A,C,C,B
+2726.0,Doktor,E,D,C,A,D,B,D,B,D,B,C,C,A,C,A,C
+2727.0,Bilgisayar Mühendisi,A,B,C,A,C,B,A,A,C,D,C,B,D,B,A,B
+2728.0,Doktor,A,D,B,A,D,B,B,C,E,E,A,A,A,A,E,C
+2729.0,Doktor,A,B,B,A,D,B,A,B,E,E,A,A,D,C,D,D
+2730.0,Bilgisayar Mühendisi,C,B,C,C,D,B,C,B,B,A,A,B,A,B,B,B
+2731.0,Doktor,A,D,C,A,D,B,C,C,C,D,A,C,A,C,E,E
+2732.0,Doktor,A,B,C,D,D,B,A,B,D,B,A,C,D,C,D,B
+2733.0,Bilgisayar Mühendisi,E,D,D,A,D,C,D,A,B,E,C,A,D,D,B,C
+2734.0,Doktor,E,D,C,A,D,B,D,B,D,B,C,C,A,C,A,C
+2735.0,Doktor,A,B,C,A,C,B,A,A,C,D,A,A,D,C,E,E
+2736.0,Bilgisayar Mühendisi,E,D,D,A,D,B,D,B,D,B,C,B,A,C,B,B
+2737.0,Doktor,A,D,C,A,D,B,B,C,B,D,C,A,A,C,E,C
+2738.0,Doktor,C,B,B,D,D,B,A,B,A,A,D,C,A,C,D,D
+2739.0,Bilgisayar Mühendisi,C,B,D,C,D,B,A,B,B,E,A,B,A,B,B,B
+2740.0,Doktor,A,D,C,A,D,B,A,A,D,B,C,C,A,C,A,E
+2741.0,Bilgisayar Mühendisi,C,B,C,C,D,B,C,B,B,A,A,C,A,B,D,B
+2742.0,Doktor,C,C,D,C,D,B,C,B,D,A,D,C,A,C,A,B
+2743.0,Doktor,A,B,C,A,D,B,A,A,A,B,A,A,A,C,B,C
+2744.0,Bilgisayar Mühendisi,E,A,D,E,E,C,D,B,B,D,C,B,D,A,A,B
+2745.0,Doktor,C,C,B,C,D,B,C,B,D,A,A,C,A,C,A,B
+2746.0,Doktor,A,D,B,A,D,B,B,C,B,D,A,A,A,A,E,C
+2747.0,Bilgisayar Mühendisi,C,B,E,E,C,B,A,B,B,E,A,B,D,B,B,B
+2748.0,Doktor,A,D,B,A,D,A,A,D,B,B,A,A,B,A,C,A
+2749.0,Doktor,C,B,D,D,C,B,D,B,A,E,D,C,D,C,D,B
+2750.0,Bilgisayar Mühendisi,E,D,D,E,D,C,A,A,B,E,C,B,D,D,A,A
+2751.0,Doktor,A,D,C,A,C,B,A,A,D,B,A,A,A,C,E,E
+2752.0,Bilgisayar Mühendisi,A,D,C,A,D,B,A,B,C,B,C,B,A,C,B,B
+2753.0,Doktor,A,D,C,A,D,B,B,A,B,D,A,A,A,C,E,E
+2754.0,Doktor,A,B,C,D,C,B,A,A,D,B,A,A,A,C,D,B
+2755.0,Bilgisayar Mühendisi,E,B,C,A,D,C,A,A,B,E,C,B,D,D,A,C
+2756.0,Doktor,A,D,B,A,D,B,A,C,C,B,A,A,A,C,B,B
+2757.0,Doktor,A,D,B,A,C,B,B,C,B,D,A,A,A,C,E,E
+2758.0,Bilgisayar Mühendisi,E,A,E,E,E,B,D,A,B,D,C,B,D,A,A,C
+2759.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,D,C,B,C
+2760.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,D,C,B,B
+2761.0,Bilgisayar Mühendisi,A,B,C,A,C,B,A,A,C,D,C,B,D,B,A,B
+2762.0,Doktor,A,D,B,A,D,B,A,A,C,D,A,C,A,C,E,B
+2763.0,Doktor,A,B,C,D,C,B,A,A,D,B,A,A,A,C,D,B
+2764.0,Bilgisayar Mühendisi,E,D,D,A,D,B,D,B,D,B,C,B,A,C,B,B
+2765.0,Doktor,A,D,C,A,D,B,A,A,D,B,A,C,A,C,A,C
+2766.0,Doktor,A,D,B,A,D,B,B,C,B,D,A,A,A,A,E,C
+2767.0,Bilgisayar Mühendisi,C,B,E,C,C,B,C,B,B,B,A,C,A,C,B,B
+2768.0,Doktor,A,D,B,A,D,A,B,C,B,D,A,A,A,C,E,C
+2769.0,Bilgisayar Mühendisi,E,D,D,C,D,B,D,B,D,B,C,C,A,C,B,B
+2770.0,Bilgisayar Mühendisi,A,D,D,A,D,B,D,B,B,E,C,B,B,A,B,A
+2771.0,Doktor,A,D,C,A,E,C,A,A,A,E,A,A,D,A,B,D
+2772.0,Doktor,A,D,B,A,C,B,B,C,B,D,A,A,A,C,E,E
+2773.0,Bilgisayar Mühendisi,A,B,D,E,D,C,D,B,B,A,A,B,D,A,B,B
+2774.0,Doktor,E,C,D,C,D,B,C,C,D,A,C,C,A,C,A,A
+2775.0,Doktor,A,B,C,D,C,B,A,A,E,E,A,C,D,C,D,B
+2776.0,Bilgisayar Mühendisi,E,B,E,E,D,C,D,A,B,E,C,B,D,A,A,A
+2777.0,Doktor,C,C,C,C,D,B,C,B,D,A,A,C,A,C,A,B
+2778.0,Bilgisayar Mühendisi,A,D,C,A,D,B,A,A,B,B,C,A,A,B,A,A
+2779.0,Doktor,A,D,B,A,D,D,B,C,B,D,C,A,A,A,E,C
+2780.0,Doktor,A,D,B,A,D,B,A,C,B,B,A,A,A,C,B,A
+2781.0,Doktor,A,C,D,A,D,B,A,A,A,E,A,C,A,C,B,C
+2782.0,Bilgisayar Mühendisi,E,C,D,C,D,B,D,B,D,B,C,B,A,C,B,B
+2783.0,Doktor,C,B,C,D,C,B,A,A,A,E,D,C,A,C,D,B
+2784.0,Doktor,A,B,B,D,C,B,A,B,E,E,A,A,D,C,D,B
+2785.0,Doktor,A,B,C,A,C,B,A,A,A,E,A,A,D,C,C,C
+2786.0,Doktor,C,B,C,D,C,B,A,A,A,E,D,C,A,C,D,B
+2787.0,Doktor,A,B,C,A,D,B,A,A,A,B,A,B,D,C,C,B
+2788.0,Doktor,A,D,C,A,D,B,A,A,D,B,C,C,A,C,E,E
+2789.0,Doktor,A,D,C,A,D,B,A,A,D,B,A,C,A,C,A,E
+2790.0,Doktor,E,D,C,A,D,B,D,B,D,B,C,C,A,C,A,C
+2791.0,Doktor,A,B,C,A,D,B,A,A,D,B,A,A,A,C,A,C
+2792.0,Doktor,A,D,C,A,D,B,A,A,D,B,C,C,A,C,A,E
+2793.0,Doktor,A,B,C,D,C,B,A,A,D,B,A,A,A,C,D,B
+2794.0,Doktor,A,D,C,A,D,B,A,A,D,D,A,A,A,C,E,C
+2795.0,Doktor,A,D,B,A,D,B,B,C,B,D,C,A,A,A,E,C
+2796.0,Doktor,A,B,D,A,D,B,A,A,B,B,A,A,A,C,C,B
+2797.0,Doktor,C,D,B,C,D,B,C,B,B,A,A,C,A,C,A,B
+2798.0,Doktor,A,D,B,A,C,B,B,C,B,D,A,A,A,C,E,E
+2799.0,Doktor,E,D,D,C,D,B,D,B,D,B,C,C,A,C,A,C
+2800.0,Doktor,E,D,C,A,D,B,D,B,D,B,C,C,A,C,A,C
+2801.0,Doktor,A,B,E,A,C,B,A,A,C,D,A,C,D,B,D,B
+2802.0,Doktor,A,D,C,A,D,B,C,C,C,D,A,C,A,C,E,E
+2803.0,Doktor,A,D,B,A,D,B,B,C,B,D,C,A,A,A,E,C
+2804.0,Doktor,A,D,C,A,D,B,B,C,B,D,C,A,A,C,E,C
+2805.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,D,C,B,B
+2806.0,Doktor,A,B,C,A,C,B,A,A,D,B,A,A,A,C,D,C
+2807.0,Doktor,A,D,C,A,D,B,B,A,B,D,A,A,A,C,E,E
+2808.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,D,C,B,C
+2809.0,Doktor,C,B,D,D,C,B,D,B,A,E,D,C,D,C,D,B
+2810.0,Doktor,C,C,D,C,D,B,C,B,D,A,D,C,A,C,A,B
+2811.0,Doktor,A,B,E,C,C,B,C,A,C,D,A,C,D,B,D,B
+2812.0,Doktor,A,D,C,A,D,B,A,A,B,D,C,A,A,C,E,C
+2813.0,Doktor,C,B,C,D,D,B,A,A,B,E,A,C,A,C,D,B
+2814.0,Doktor,C,C,C,D,D,B,A,A,A,A,D,C,A,C,D,B
+2815.0,Doktor,A,D,B,A,D,B,A,A,C,D,A,C,A,C,E,B
+2816.0,Doktor,A,D,C,A,D,B,B,A,B,D,A,A,A,C,E,E
+2817.0,Doktor,A,D,C,A,D,B,A,A,D,B,A,C,A,C,A,C
+2818.0,Doktor,A,B,C,D,C,B,A,A,E,E,A,C,D,C,D,B
+2819.0,Doktor,C,C,C,C,D,B,C,B,D,A,A,C,A,C,A,B
+2820.0,Doktor,A,D,B,A,D,B,A,C,C,B,A,A,A,A,B,B
+2821.0,Doktor,A,B,C,A,C,B,A,A,A,B,A,A,D,C,B,C
+2822.0,Doktor,C,C,D,C,C,B,C,B,D,A,D,C,A,C,D,B
+2823.0,Doktor,A,B,B,D,C,B,A,B,E,E,A,A,D,C,D,B
+2824.0,Doktor,E,C,D,A,D,B,D,B,D,B,C,C,A,C,A,A
+2825.0,Bilgisayar Mühendisi,E,D,D,A,D,C,D,C,B,E,C,B,B,D,A,A
+2826.0,Bilgisayar Mühendisi,C,C,D,C,D,B,C,B,B,A,A,B,A,B,B,B
+2827.0,Bilgisayar Mühendisi,E,B,C,A,D,C,A,A,B,E,C,B,D,D,A,C
+2828.0,Bilgisayar Mühendisi,C,B,E,C,C,B,C,A,C,B,A,C,D,B,B,B
+2829.0,Bilgisayar Mühendisi,A,B,E,E,C,B,A,B,C,E,A,C,D,B,B,B
+2830.0,Bilgisayar Mühendisi,C,B,D,C,C,B,A,B,B,E,A,C,D,B,B,B
+2831.0,Bilgisayar Mühendisi,C,B,C,C,D,B,C,B,B,A,A,C,A,B,D,B
+2832.0,Bilgisayar Mühendisi,A,D,C,A,D,B,A,B,D,B,C,B,A,C,B,B
+2833.0,Bilgisayar Mühendisi,C,B,D,C,D,B,C,B,D,B,A,C,A,C,B,B
+2834.0,Bilgisayar Mühendisi,A,B,D,E,D,C,D,B,B,A,A,B,D,A,B,B
+2835.0,Bilgisayar Mühendisi,C,B,B,C,D,B,C,B,B,A,A,C,A,C,D,B
+2836.0,Bilgisayar Mühendisi,E,D,D,A,D,B,D,B,D,B,C,B,A,C,B,C
+2837.0,Bilgisayar Mühendisi,E,D,D,C,D,B,D,B,D,B,A,B,A,C,B,B
+2838.0,Bilgisayar Mühendisi,A,D,C,A,D,B,E,C,C,D,C,A,A,C,E,C
+2839.0,Bilgisayar Mühendisi,C,D,C,C,D,B,A,B,B,A,A,B,A,C,D,B
+2840.0,Bilgisayar Mühendisi,C,C,C,C,D,B,A,B,D,A,A,C,A,C,D,B
+2841.0,Bilgisayar Mühendisi,A,D,C,A,D,B,D,A,B,D,C,A,A,D,B,C
+2842.0,Bilgisayar Mühendisi,E,D,D,A,D,C,D,A,B,E,C,A,B,D,A,C
+2843.0,Bilgisayar Mühendisi,A,B,E,A,C,B,A,A,C,D,C,B,D,B,A,C
+2844.0,Bilgisayar Mühendisi,A,B,C,A,D,B,B,A,C,D,C,A,A,A,E,C
+2845.0,Bilgisayar Mühendisi,A,B,E,C,C,B,C,A,C,B,A,C,D,B,D,B
+2846.0,Bilgisayar Mühendisi,C,D,D,D,D,B,D,B,B,E,A,B,B,A,B,A
+2847.0,Bilgisayar Mühendisi,C,C,D,C,D,B,C,B,B,A,A,B,A,B,B,B
+2848.0,Doktor,A,C,D,A,D,B,A,A,A,E,A,C,A,C,B,C
+2849.0,Doktor,A,B,C,C,C,B,A,A,C,B,A,C,A,C,D,B
+2850.0,Doktor,C,B,D,C,D,B,A,B,B,E,A,C,A,C,D,B
+2851.0,Doktor,A,D,C,A,D,B,B,C,E,E,A,A,A,A,E,C
+2852.0,Bilgisayar Mühendisi,E,A,E,E,E,B,D,A,B,E,C,B,D,A,A,B
+2853.0,Doktor,A,D,C,A,D,B,B,A,B,D,A,A,A,C,E,E
+2854.0,Doktor,C,B,C,D,D,B,A,B,B,A,D,C,A,C,D,B
+2855.0,Doktor,A,B,C,A,C,B,A,A,A,E,A,A,D,C,B,C
+2856.0,Doktor,C,D,B,A,D,B,C,B,D,A,C,C,A,C,A,B
+2857.0,Doktor,A,D,C,A,D,B,A,A,D,B,A,A,A,C,A,C
+2858.0,Bilgisayar Mühendisi,C,B,B,C,C,D,B,A,D,A,A,A,C,B,D,C
+2859.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,B,B,E,C,A,A,A,D
+2860.0,Bilgisayar Mühendisi,A,B,B,D,D,D,B,C,D,B,B,C,C,A,B,C
+2861.0,Bilgisayar Mühendisi,A,B,B,A,C,C,C,B,B,A,A,B,C,B,D,B
+2862.0,Bilgisayar Mühendisi,C,A,B,C,E,D,C,A,B,E,B,A,C,A,D,C
+2863.0,Bilgisayar Mühendisi,A,C,A,D,A,D,B,D,B,B,E,C,B,A,A,D
+2864.0,Bilgisayar Mühendisi,C,B,B,A,C,D,C,A,A,A,A,D,C,B,D,C
+2865.0,Bilgisayar Mühendisi,E,A,B,D,D,D,C,D,D,B,B,C,C,A,B,C
+2866.0,Bilgisayar Mühendisi,A,A,A,E,A,C,B,E,C,C,D,A,A,B,A,B
+2867.0,Bilgisayar Mühendisi,A,B,D,C,D,D,B,A,D,D,B,C,B,A,B,C
+2868.0,Doktor,A,B,B,C,A,C,D,E,A,E,A,D,A,A,D,A
+2869.0,Doktor,A,A,B,C,A,D,B,A,E,E,B,D,A,B,A,B
+2870.0,Doktor,A,C,C,B,D,D,B,B,C,C,D,C,A,C,E,B
+2871.0,Doktor,A,C,D,B,D,D,B,B,C,C,D,A,A,A,E,B
+2872.0,Doktor,A,E,D,B,D,D,B,B,C,A,D,A,A,C,E,B
+2873.0,Doktor,C,B,C,C,C,D,C,C,D,A,A,D,C,C,B,C
+2874.0,Doktor,C,B,B,C,C,D,C,A,B,A,A,D,C,B,D,B
+2875.0,Doktor,A,C,D,B,D,D,B,B,B,D,D,A,A,A,E,D
+2876.0,Doktor,A,E,B,C,A,C,D,A,D,E,B,A,A,A,D,B
+2877.0,Doktor,E,A,C,D,D,D,C,D,D,B,B,C,C,C,B,C
+2878.0,Bilgisayar Mühendisi,E,C,D,C,C,D,D,D,D,B,E,C,A,B,D,C
+2879.0,Bilgisayar Mühendisi,A,C,C,C,C,E,D,D,D,C,D,E,A,C,A,B
+2880.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2881.0,Bilgisayar Mühendisi,A,C,D,C,A,D,D,C,D,B,D,E,A,B,A,C
+2882.0,Bilgisayar Mühendisi,A,B,B,C,C,C,C,D,B,B,D,C,C,B,D,C
+2883.0,Bilgisayar Mühendisi,E,C,A,D,C,C,D,D,D,B,D,C,C,B,D,C
+2884.0,Bilgisayar Mühendisi,A,C,D,C,C,D,D,D,D,B,D,C,A,B,A,C
+2885.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,C,D,C,A,B,D,C
+2886.0,Bilgisayar Mühendisi,A,C,D,D,C,E,C,D,C,B,D,C,A,B,D,C
+2887.0,Bilgisayar Mühendisi,E,C,A,C,C,D,D,D,D,B,D,C,A,B,D,C
+2888.0,Bilgisayar Mühendisi,A,C,D,C,A,D,D,D,D,B,D,C,A,A,A,C
+2889.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2890.0,Bilgisayar Mühendisi,A,C,A,C,C,D,D,D,D,B,D,C,C,B,A,C
+2891.0,Bilgisayar Mühendisi,A,E,D,B,D,C,D,D,D,B,B,C,C,B,D,C
+2892.0,Bilgisayar Mühendisi,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+2893.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2894.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+2895.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2896.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+2897.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+2898.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2899.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2900.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2901.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2902.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,C,D,C,A,A,C,C
+2903.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2904.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2905.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2906.0,Doktor,A,C,A,A,A,D,B,E,D,A,D,C,A,A,D,C
+2907.0,Doktor,A,E,A,A,A,D,B,E,D,A,D,C,A,A,A,C
+2908.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2909.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,B,A,C
+2910.0,Doktor,A,C,A,A,A,D,B,D,D,A,D,C,A,A,A,C
+2911.0,Doktor,A,C,A,A,A,D,B,D,D,A,D,C,A,A,A,C
+2912.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,A,A,C
+2913.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2914.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2915.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2916.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,B,A,C
+2917.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2918.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2919.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2920.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2921.0,Doktor,A,E,A,A,A,D,B,D,D,A,D,C,A,A,A,C
+2922.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2923.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2924.0,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,B,A,C
+2925.0,Doktor,A,C,C,A,C,B,A,D,D,A,D,C,A,A,A,C
+2926.0,Doktor,A,E,C,A,A,D,A,D,D,A,B,C,A,A,A,A
+2927.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2928.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2929.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2930.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2931.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2932.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2933.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2934.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2935.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2936.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2937.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2938.0,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,A,A,C
+2939.0,Doktor,A,C,A,D,A,D,B,D,D,A,D,C,A,A,B,C
+2940.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+2941.0,Doktor,A,C,A,A,A,D,B,D,D,A,D,C,A,A,A,C
+2942.0,Doktor,A,C,A,A,A,D,B,D,D,A,D,C,A,A,A,C
+2943.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2944.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2945.0,Doktor,A,C,A,C,A,D,B,E,D,A,D,C,A,A,A,C
+2946.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2947.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2948.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2949.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2950.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2951.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2952.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2953.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2954.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,C,D,B,D,C,A,B,D,C
+2955.0,Bilgisayar Mühendisi,A,C,D,C,C,C,D,D,D,B,D,C,C,B,A,C
+2956.0,Bilgisayar Mühendisi,A,C,A,C,C,D,D,D,D,B,D,C,A,B,A,C
+2957.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,C,B,D,C
+2958.0,Bilgisayar Mühendisi,A,C,D,C,C,D,D,D,D,B,D,C,A,B,D,C
+2959.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,C,D,B,D,C,A,B,D,C
+2960.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2961.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2962.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2963.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2964.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2965.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2966.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2967.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2968.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2969.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2970.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2971.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2972.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+2973.0,Bilgisayar Mühendisi,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A
+2974.0,Bilgisayar Mühendisi,A,C,D,C,C,D,D,D,D,B,E,C,A,B,D,C
+2975.0,Bilgisayar Mühendisi,A,E,D,C,C,D,D,D,D,B,D,E,A,C,A,C
+2976.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2977.0,Bilgisayar Mühendisi,A,C,D,C,A,D,D,D,D,B,D,E,A,B,A,C
+2978.0,Bilgisayar Mühendisi,A,B,B,C,C,C,C,D,D,B,B,C,C,B,D,C
+2979.0,Bilgisayar Mühendisi,A,C,A,D,C,C,D,D,D,B,D,C,C,B,D,C
+2980.0,Bilgisayar Mühendisi,A,C,A,C,A,D,D,D,D,B,D,C,A,A,A,C
+2981.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,A,D,C,A,B,D,C
+2982.0,Bilgisayar Mühendisi,A,C,D,D,C,E,C,D,C,B,D,C,A,B,D,C
+2983.0,Bilgisayar Mühendisi,A,C,A,C,C,D,D,D,D,B,D,C,A,B,D,C
+2984.0,Bilgisayar Mühendisi,A,C,D,C,A,D,D,D,D,B,D,C,A,A,A,C
+2985.0,Bilgisayar Mühendisi,A,C,D,C,C,D,C,D,D,B,D,C,A,B,D,C
+2986.0,Bilgisayar Mühendisi,A,C,A,C,C,D,D,D,D,B,D,C,C,B,A,C
+2987.0,Bilgisayar Mühendisi,A,E,D,B,D,C,D,D,D,B,B,C,C,B,D,C
+2988.0,Bilgisayar Mühendisi,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+2989.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2990.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+2991.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2992.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+2993.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+2994.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2995.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2996.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2997.0,Bilgisayar Mühendisi,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+2998.0,Bilgisayar Mühendisi,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+2999.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+3000.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+3001.0,Doktor,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+3002.0,Doktor,A,B,A,E,C,D,B,A,D,B,B,C,A,E,E,B
+3003.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+3004.0,Doktor,A,C,C,A,A,C,B,E,D,E,A,D,A,A,D,B
+3005.0,Doktor,E,C,D,B,D,D,B,A,B,B,B,C,A,C,A,D
+3006.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+3007.0,Doktor,A,C,A,C,A,D,B,D,D,A,B,C,A,A,A,C
+3008.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3009.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3010.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,A,A,C
+3011.0,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+3012.0,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,C,B,D,C
+3013.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3014.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,D,C
+3015.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,C,B,D,C
+3016.0,Doktor,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+3017.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3018.0,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3019.0,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,B,A,C
+3020.0,Doktor,A,C,C,A,C,B,A,D,D,A,D,C,A,A,A,C
+3021.0,Doktor,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+3022.0,Doktor,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+3023.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3024.0,Doktor,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+3025.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3026.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+3027.0,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+3028.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3029.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3030.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3031.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3032.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3033.0,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3034.0,Doktor,A,C,A,C,A,C,B,D,D,B,D,C,A,A,A,C
+3035.0,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,A,A,B,C
+3036.0,Doktor,A,E,A,C,A,C,B,D,D,A,D,C,C,A,D,C
+3037.0,Doktor,A,B,A,A,C,E,D,A,D,B,D,C,B,A,E,E
+3038.0,Doktor,A,B,A,E,C,D,B,A,D,B,B,C,A,E,E,B
+3039.0,Doktor,A,C,B,D,C,E,A,A,D,B,C,D,B,E,A,B
+3039.31,Doktor,A,C,C,A,A,C,B,E,D,E,A,D,A,A,D,B
+3039.31,Doktor,E,C,D,B,D,D,B,A,B,B,B,C,A,C,A,D
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,A,B,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,B,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,B,D,C,C,B,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,E,C,C,B,D,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,D,C
+3039.31,Doktor,A,C,A,D,A,D,B,D,D,B,D,C,C,B,D,C
+3039.31,Doktor,A,B,B,C,E,D,B,C,D,A,D,C,C,B,D,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,D,B,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,C,A,C,A,C,B,D,D,A,D,C,A,B,A,C
+3039.31,Doktor,A,C,C,A,C,B,A,D,D,A,D,C,A,A,A,C
+3039.31,Doktor,A,E,C,A,A,D,A,D,D,E,B,C,A,E,A,A
+3039.31,Doktor,E,E,D,B,D,A,B,D,D,B,B,C,A,C,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,B,E,A,C,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,C,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Doktor,A,E,D,B,D,B,B,A,D,B,D,E,C,A,B,C
+3039.31,Bilgisayar Mühendisi,A,D,D,D,A,E,E,D,B,E,D,B,B,A,C,A

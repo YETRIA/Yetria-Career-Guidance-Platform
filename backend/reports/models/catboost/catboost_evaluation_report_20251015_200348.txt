@@ -1,0 +1,92 @@
+================================================================================
+YETRIA Model Evaluation Report - CatBoost
+================================================================================
+
+Date: 2025-10-15 20:03:49
+Model: CatBoost
+Class Count: 2
+Classes: Bilgisayar Mühendisi, Doktor
+
+--------------------------------------------------------------------------------
+CROSS-VALIDATION SONUÇLARI (5-Fold)
+--------------------------------------------------------------------------------
+CV Accuracy:     0.7620
+CV Precision:    0.7734
+CV Recall:       0.8236
+CV F1-Score:     0.7973
+CV ROC-AUC:      0.8292
+
+--------------------------------------------------------------------------------
+TEST SETİ PERFORMANSI (Ana Metrikler)
+--------------------------------------------------------------------------------
+Accuracy:               0.7876
+Balanced Accuracy:      0.7782
+Precision:              0.7934
+Recall (Sensitivity):   0.8467
+Specificity:            0.7096
+F1-Score:               0.8192
+ROC-AUC:                0.8483
+PR-AUC:                 0.8786
+
+--------------------------------------------------------------------------------
+İLERİ SEVİYE METRİKLER (Test Set)
+--------------------------------------------------------------------------------
+Matthews Correlation:   0.5641
+Cohen's Kappa:          0.5623
+
+--------------------------------------------------------------------------------
+CONFUSION MATRIX (Test Set)
+--------------------------------------------------------------------------------
+True Positives:         580
+True Negatives:         369
+False Positives:        151
+False Negatives:        105
+Total Samples:          1205
+
+--------------------------------------------------------------------------------
+OVERFITTING ANALİZİ (CV vs Test)
+--------------------------------------------------------------------------------
+Metrik         CV Skoru    Test Skoru   Fark (CV-Test)
+--------------------------------------------------------------------------------
+Accuracy:      0.7620      0.7876       -0.0255
+Precision:     0.7734      0.7934       -0.0201
+Recall:        0.8236      0.8467       -0.0232
+F1-Score:      0.7973      0.8192       -0.0219
+ROC-AUC:       0.8292      0.8483       -0.0191
+
+TANI: No Overfitting (Model generalizes well)
+
+ÖNERİ: CV and test scores are balanced. Model shows good performance. Keep current configuration.
+
+--------------------------------------------------------------------------------
+EN İYİ HİPERPARAMETRELER
+--------------------------------------------------------------------------------
+random_strength               : 1
+one_hot_max_size              : 5
+learning_rate                 : 0.15
+l2_leaf_reg                   : 3
+iterations                    : 3000
+grow_policy                   : Depthwise
+depth                         : 10
+border_count                  : 128
+bootstrap_type                : MVS
+boosting_type                 : Plain
+bagging_temperature           : 1.0
+
+--------------------------------------------------------------------------------
+ÖZET VE YORUMLAR
+--------------------------------------------------------------------------------
+
+1. MODEL PERFORMANSI:
+   • Kabul edilebilir accuracy (70-80%)
+   ✓ İyi ayırt etme gücü (ROC-AUC 0.80-0.90)
+   • Recall > Precision: Model daha agresif (FN düşük, FP yüksek)
+
+2. OVERFITTING DURUMU:
+
+3. SINIFLAMA KALİTESİ:
+   ✓ İyi kaliteli sınıflama (MCC 0.50-0.70)
+
+================================================================================
+Rapor sonu
+================================================================================

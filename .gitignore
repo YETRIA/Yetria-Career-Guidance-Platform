@@ -1,0 +1,97 @@
+# ==========================================
+# YETRIA Career Guidance Platform
+# Git Ignore File
+# ==========================================
+
+# ===== ENVIRONMENT VARIABLES (ÇOK ÖNEMLİ!) =====
+.env
+.env.local
+.env.*.local
+# *.env  # Commented to allow .env.example
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ===== VIRTUAL ENVIRONMENT =====
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+model_env/
+.venv/
+
+# ===== JUPYTER NOTEBOOK =====
+.ipynb_checkpoints
+*.ipynb
+
+# ===== PYTEST =====
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== ML MODELS & DATA (Büyük dosyalar) =====
+# Not: Genel olarak model dosyaları ignore edilir
+# Ancak backend/artifacts/ klasöründeki optimized modeller exception
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.weights
+
+# Backend artifacts'taki gerekli modellere izin ver
+!backend/artifacts/*.pkl
+!backend/artifacts/*.joblib
+
+# ===== DATABASES =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== LOGS =====
+*.log
+logs/
+*.out
+
+# ===== IDE & EDITOR =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ===== FRONTEND (Node.js) =====
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/.cache/
+
+# ===== BACKEND SPECIFIC =====
+backend/catboost_info/
+backend/__pycache__/
+backend/*.pyc
+
+# ===== TEMPORARY FILES =====
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# ===== OS GENERATED =====
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ===== SECRETS & KEYS =====
+*.pem
+*.key
+*.cert
+secrets/
+credentials/
