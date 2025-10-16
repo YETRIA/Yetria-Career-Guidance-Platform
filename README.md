@@ -16,7 +16,7 @@ Professional, end-to-end platform for data-driven career guidance combining a mo
 
 Add your application walkthrough video link below. Optionally, include a QR code image for printed submissions.
 
-- Demo URL: [Add your link here]
+- Demo URL: [[Add your link here](https://drive.google.com/file/d/15R6UdkEE06rPq-1pCgUoeouvqs9DCMDx/view?usp=sharing)]
 
 ---
 
@@ -242,5 +242,6 @@ sequenceDiagram
 - **`*_pr_curve_*.png`** - Precision-Recall curve showing model performance across different thresholds
 - **`*_roc_curve_*.png`** - ROC curve showing true positive rate vs false positive rate
 - **`model_feature_importance_*.png`** - Feature importance ranking showing which competencies matter most for predictions
+
 
 ---
