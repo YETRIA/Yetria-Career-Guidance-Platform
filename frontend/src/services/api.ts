@@ -1,8 +1,8 @@
 /**
  * Yetria Career Guidance Platform - API Service
  * 
- * Bu dosya backend API ile iletişim için Axios tabanlı servis katmanını içerir.
- * Tüm API çağrıları buradan yönetilir.
+ * This file contains the Axios-based service layer for communicating with the backend API.
+ * All API calls are managed from here.
  */
 
 import axios, { AxiosInstance, AxiosResponse, AxiosError } from 'axios';
