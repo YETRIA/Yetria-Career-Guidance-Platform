@@ -11,7 +11,7 @@ interface LandingPageProps {
   onPageChange?: (page: string, options?: { mode?: 'signin' | 'signup' }) => void;
 }
 
-// Abstract Data Visualization Grid - Giriş ekranındakiyle aynı
+
 const AbstractDataGrid = () => {
   const [reducedMotion, setReducedMotion] = useState(false);
 
@@ -20,7 +20,6 @@ const AbstractDataGrid = () => {
     setReducedMotion(prefersReducedMotion.matches);
   }, []);
 
-  // Grid noktaları - giriş ekranındakiyle aynı
   const gridPoints = [
     // Ana yıldız kümeleri
     { x: 20, y: 15, size: 1, intensity: 0.6, cluster: 'constellation-1' },
