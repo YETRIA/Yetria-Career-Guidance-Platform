@@ -15,7 +15,6 @@ export function AboutPage({ onPageChange }: AboutPageProps = {}) {
     setReducedMotion(prefersReducedMotion.matches);
   }, []);
 
-  // Abstract Data Visualization Grid - Ana sayfayla aynı
   const AbstractDataGrid = () => {
     const gridPoints = [
       // Ana yıldız kümeleri
@@ -40,7 +39,7 @@ export function AboutPage({ onPageChange }: AboutPageProps = {}) {
       { x: 82, y: 78, size: 1, intensity: 0.6, cluster: 'constellation-4' },
       { x: 90, y: 77, size: 0.6, intensity: 0.3, cluster: 'constellation-4' },
 
-      // Dağınık veri noktaları
+     
       { x: 45, y: 10, size: 0.5, intensity: 0.3, cluster: 'scattered' },
       { x: 55, y: 12, size: 0.6, intensity: 0.2, cluster: 'scattered' },
       { x: 65, y: 8, size: 0.4, intensity: 0.4, cluster: 'scattered' },
