@@ -3,7 +3,7 @@
 # Git Ignore File
 # ==========================================
 
-# ===== ENVIRONMENT VARIABLES (ÇOK ÖNEMLİ!) =====
+# ===== ENVIRONMENT VARIABLES (VERY IMPORTANT!) =====
 .env
 .env.local
 .env.*.local
@@ -34,9 +34,9 @@ model_env/
 .coverage
 htmlcov/
 
-# ===== ML MODELS & DATA (Büyük dosyalar) =====
-# Not: Genel olarak model dosyaları ignore edilir
-# Ancak backend/artifacts/ klasöründeki optimized modeller exception
+# ===== ML MODELS & DATA (Large files) =====
+# Note: Model files are generally ignored
+# But optimized models in backend/artifacts/ are exceptions
 *.pkl
 *.joblib
 *.h5
@@ -44,7 +44,7 @@ htmlcov/
 *.model
 *.weights
 
-# Backend artifacts'taki gerekli modellere izin ver
+# Allow necessary models in backend artifacts
 !backend/artifacts/*.pkl
 !backend/artifacts/*.joblib
 
