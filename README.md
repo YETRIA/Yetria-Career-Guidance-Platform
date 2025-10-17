@@ -16,7 +16,7 @@ Professional, end-to-end platform for data-driven career guidance combining a mo
 
 Add your application walkthrough video link below. Optionally, include a QR code image for printed submissions.
 
-- Demo URL: [[YETRIA](https://drive.google.com/file/d/1UQMqJ-d7uwmwlz6mW2zSRey6wReS10mf/view?usp=drive_link)]
+- Demo URL: [[YETRIA](https://drive.google.com/file/d/1Eow-ES3aQ4si1Z34ilk0zP_ILCkAfwNd/view?usp=sharing)]
 
 ---
 
@@ -245,6 +245,7 @@ sequenceDiagram
 
 
 ---
+
 
 
 
