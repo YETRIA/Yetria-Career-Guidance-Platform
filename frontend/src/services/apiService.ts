@@ -8,7 +8,7 @@
 import axios, { AxiosInstance, AxiosResponse, AxiosError } from 'axios';
 
 // ===== API CONFIGURATION =====
-const API_BASE_URL = 'http://167.172.190.56:8000/api/v1';
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000') + '/api/v1';
 const API_TIMEOUT = 30000; // 30 seconds
 
 // ===== AXIOS INSTANCE =====
@@ -292,4 +292,5 @@ export const apiService = new ApiService();
 // ===== EXPORT DEFAULT =====
 
 export default apiService;
+
 
