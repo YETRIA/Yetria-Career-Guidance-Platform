@@ -19,7 +19,7 @@ import {
 } from '../types/api';
 
 // ===== API CONFIGURATION =====
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://167.172.190.56:8000';
 const API_TIMEOUT = 30000; // 30 seconds
 
 // ===== AXIOS INSTANCE =====
