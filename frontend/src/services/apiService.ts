@@ -8,7 +8,7 @@
 import axios, { AxiosInstance, AxiosResponse, AxiosError } from 'axios';
 
 // ===== API CONFIGURATION =====
-const API_BASE_URL = '/api/v1'; 
+const API_BASE_URL = 'https://yetriapi.halitkalayci.com/api';
 const API_TIMEOUT = 30000; // 30 seconds
 
 // ===== AXIOS INSTANCE =====
@@ -292,6 +292,7 @@ export const apiService = new ApiService();
 // ===== EXPORT DEFAULT =====
 
 export default apiService;
+
 
 
 
