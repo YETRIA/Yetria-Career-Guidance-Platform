@@ -4,9 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "http://172.17.0.1:8000/api/:splat"
+  to = "http://167.172.190.56:8000/api/:splat"
 
-  # Bu satır, bunun bir proxy olduğunu ve metodun
-  # (POST, GET vb.) değiştirilmemesi gerektiğini belirtir.
   status = 200
-  force = true
+
