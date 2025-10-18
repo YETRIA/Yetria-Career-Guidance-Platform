@@ -19,7 +19,7 @@ import {
 } from '../types/api';
 
 // ===== API CONFIGURATION =====
-const API_BASE_URL = 'https://yetriapi.halitkalayci.com/api';
+const API_BASE_URL = 'https://yetriapi.halitkalayci.com/api/v1';
 const API_TIMEOUT = 30000; // 30 seconds
 
 // ===== AXIOS INSTANCE =====
