@@ -1,16 +1,12 @@
 # ===================================================================
 # Netlify Proxy Yönlendirmesi
-# /api/ ile başlayan tüm istekleri DigitalOcean Droplet'e yönlendirir.
-# Bu, "Mixed Content" hatasını önler.
 # ===================================================================
 
 [[redirects]]
-  # Frontend'den gelen hangi yolu yakalayacağımızı belirtir.
   from = "/api/*"
+  to = "http://172.17.0.1:8000/api/:splat"
 
-  # Yakalanan isteği hangi adrese yönlendireceğimizi belirtir.
-  to = "http://167.172.190.56:8000/api/:splat"
-
-  # Bunun bir yönlendirme (301) değil, bir proxy (200) olduğunu belirtir.
-  # Bu satır ÇOK ÖNEMLİDİR!
+  # Bu satır, bunun bir proxy olduğunu ve metodun
+  # (POST, GET vb.) değiştirilmemesi gerektiğini belirtir.
   status = 200
+  force = true
